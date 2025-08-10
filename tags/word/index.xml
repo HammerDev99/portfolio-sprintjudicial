@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Word | Daniel Arbelaez Alvarez</title>
+    <link>https://portfolio.sprintjudicial.com/tags/word/</link>
+      <atom:link href="https://portfolio.sprintjudicial.com/tags/word/index.xml" rel="self" type="application/rss+xml" />
+    <description>Word</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <title>Word</title>
+      <link>https://portfolio.sprintjudicial.com/tags/word/</link>
+    </image>
+    
+    <item>
+      <title>Automatización de Plantillas Documentales</title>
+      <link>https://portfolio.sprintjudicial.com/project/automatizacion-documentos/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.sprintjudicial.com/project/automatizacion-documentos/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Automatización de Plantillas Documentales&lt;/strong&gt; es una solución desarrollada para la mejora de las funciones administrativas al interior de las dependencias de la Rama Judicial.&lt;/p&gt;
+&lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Plantillas Automatizadas&lt;/strong&gt;: Creación automática de oficios y documentos oficiales&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fichas Técnicas&lt;/strong&gt;: Generación automatizada de fichas técnicas estandarizadas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Registro de Correos&lt;/strong&gt;: Sistema automatizado para el registro y seguimiento de correspondencia&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estadísticas Automáticas&lt;/strong&gt;: Generación de reportes estadísticos administrativos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estandarización de Procesos&lt;/strong&gt;: Uniformización de procedimientos administrativos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tecnologías-utilizadas&#34;&gt;Tecnologías Utilizadas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lenguaje&lt;/strong&gt;: Visual Basic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Office Suite&lt;/strong&gt;: Macros en Excel y plantillas en Word&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IDE&lt;/strong&gt;: Visual Studio Code&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automatización&lt;/strong&gt;: Macros VBA para Office&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;logros-alcanzados&#34;&gt;Logros Alcanzados&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Disminución significativa del tiempo&lt;/strong&gt; que tarda la respuesta y ejecución de actividades administrativas, optimizando las operaciones repetitivas y mejorando la eficiencia operacional.&lt;/p&gt;
+&lt;h2 id=&#34;impacto&#34;&gt;Impacto&lt;/h2&gt;
+&lt;p&gt;Este proyecto asiste las operaciones repetitivas y estandariza procesos críticos en la creación de documentación oficial, mejorando la productividad y consistencia en las dependencias judiciales.&lt;/p&gt;
+&lt;p&gt;La implementación de esta solución ha permitido a las dependencias de la Rama Judicial optimizar sus procesos administrativos más frecuentes, reduciendo el tiempo dedicado a tareas repetitivas y mejorando la calidad y consistencia de la documentación oficial generada.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

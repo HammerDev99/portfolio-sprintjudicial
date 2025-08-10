@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LegalTech | Daniel Arbelaez Alvarez</title>
+    <link>https://portfolio.sprintjudicial.com/tags/legaltech/</link>
+      <atom:link href="https://portfolio.sprintjudicial.com/tags/legaltech/index.xml" rel="self" type="application/rss+xml" />
+    <description>LegalTech</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <title>LegalTech</title>
+      <link>https://portfolio.sprintjudicial.com/tags/legaltech/</link>
+    </image>
+    
+    <item>
+      <title>GexCom - Sistema de Gestión de Comunicaciones</title>
+      <link>https://portfolio.sprintjudicial.com/project/gexcom/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.sprintjudicial.com/project/gexcom/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;GexCom&lt;/strong&gt; es un sistema de gestión de comunicaciones desarrollado para agilizar y mejorar la precisión de las comunicaciones de las partes procesales en el sistema judicial.&lt;/p&gt;
+&lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Automatización de Comunicaciones&lt;/strong&gt;: Gestión automatizada de citaciones a audiencias&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integración con APIs&lt;/strong&gt;: Envío de mensajes mediante APIs especializadas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gestión de Formatos&lt;/strong&gt;: Creación automatizada de remisiones y formatos de correo postal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Almacenamiento Inteligente&lt;/strong&gt;: Base de datos para información relevante de notificaciones&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estandarización de Procesos&lt;/strong&gt;: Uniformización de procedimientos administrativos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tecnologías-utilizadas&#34;&gt;Tecnologías Utilizadas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Python 3&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Base de Datos&lt;/strong&gt;: SQLite&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Control de Versiones&lt;/strong&gt;: Git y GitHub&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IDE&lt;/strong&gt;: Visual Studio Code&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;APIs&lt;/strong&gt;: Integración con servicios de mensajería&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;logros-esperados&#34;&gt;Logros Esperados&lt;/h2&gt;
+&lt;p&gt;Se espera mejorar significativamente la eficiencia y precisión en la gestión de comunicaciones, específicamente en la citación de partes a audiencias programadas y comunicaciones solicitadas por las dependencias de la Rama Judicial.&lt;/p&gt;
+&lt;p&gt;Este proyecto surge de la necesidad de optimizar las operaciones extenuantes en el proceso de comunicaciones judiciales, proporcionando una solución tecnológica que estandariza y automatiza los procesos administrativos más críticos del sistema judicial colombiano.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gestión de Expediente Electrónico</title>
+      <link>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Gestión de Expediente Electrónico&lt;/strong&gt; es una aplicación desarrollada para automatizar una función administrativa crítica llevada a cabo en todas las dependencias de la Rama Judicial del país.&lt;/p&gt;
+&lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Automatización Completa&lt;/strong&gt;: Automatiza operaciones manuales de conformación de expedientes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arquitectura MVC&lt;/strong&gt;: Desarrollada siguiendo el patrón Modelo-Vista-Controlador&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Procesamiento Inteligente&lt;/strong&gt;: Gestión automatizada de documentos procesales&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integración Judicial&lt;/strong&gt;: Diseñada específicamente para el sistema judicial colombiano&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interfaz Intuitiva&lt;/strong&gt;: Fácil de usar para operadores judiciales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tecnologías-utilizadas&#34;&gt;Tecnologías Utilizadas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lenguaje&lt;/strong&gt;: Python 3.9.6&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Librerías&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;pypdf2 para manejo de PDFs&lt;/li&gt;
+&lt;li&gt;tkinter para interfaz gráfica&lt;/li&gt;
+&lt;li&gt;pandas para manipulación de datos&lt;/li&gt;
+&lt;li&gt;xlwings para integración con Excel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Control de Versiones&lt;/strong&gt;: Git y GitHub&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IDE&lt;/strong&gt;: Visual Studio Code&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arquitectura&lt;/strong&gt;: Patrón MVC (Modelo-Vista-Controlador)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;logros-alcanzados&#34;&gt;Logros Alcanzados&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Disminución del ~200% en el tiempo&lt;/strong&gt; que tarda el proceso de protocolización de expedientes electrónicos, optimizando significativamente la eficiencia operacional.&lt;/p&gt;
+&lt;h2 id=&#34;impacto&#34;&gt;Impacto&lt;/h2&gt;
+&lt;p&gt;Este proyecto asiste las operaciones manuales que realizaba un empleado en la conformación del expediente electrónico, automatizando procesos repetitivos y reduciendo drásticamente los tiempos de procesamiento.&lt;/p&gt;
+&lt;p&gt;La aplicación representa un avance significativo en la digitalización de procesos judiciales, eliminando tareas manuales propensas a errores y mejorando la consistencia en la conformación de expedientes electrónicos a nivel nacional en la Rama Judicial colombiana.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
