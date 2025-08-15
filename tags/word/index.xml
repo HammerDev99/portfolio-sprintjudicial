@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Word | Daniel Arbelaez Alvarez</title>
-    <link>https://portfolio.sprintjudicial.com/tags/word/</link>
-      <atom:link href="https://portfolio.sprintjudicial.com/tags/word/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/word/</link>
+      <atom:link href="http://localhost:1313/tags/word/index.xml" rel="self" type="application/rss+xml" />
     <description>Word</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Word</title>
-      <link>https://portfolio.sprintjudicial.com/tags/word/</link>
+      <link>http://localhost:1313/tags/word/</link>
     </image>
     
     <item>
       <title>Automatización de Plantillas Documentales</title>
-      <link>https://portfolio.sprintjudicial.com/project/automatizacion-documentos/</link>
+      <link>http://localhost:1313/project/automatizacion-documentos/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/automatizacion-documentos/</guid>
+      <guid>http://localhost:1313/project/automatizacion-documentos/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Automatización de Plantillas Documentales&lt;/strong&gt; es una solución desarrollada para la mejora de las funciones administrativas al interior de las dependencias de la Rama Judicial.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;

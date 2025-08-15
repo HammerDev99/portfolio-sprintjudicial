@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gestión Judicial | Daniel Arbelaez Alvarez</title>
-    <link>https://portfolio.sprintjudicial.com/tags/gestion-judicial/</link>
-      <atom:link href="https://portfolio.sprintjudicial.com/tags/gestion-judicial/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/gestion-judicial/</link>
+      <atom:link href="http://localhost:1313/tags/gestion-judicial/index.xml" rel="self" type="application/rss+xml" />
     <description>Gestión Judicial</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Gestión Judicial</title>
-      <link>https://portfolio.sprintjudicial.com/tags/gestion-judicial/</link>
+      <link>http://localhost:1313/tags/gestion-judicial/</link>
     </image>
     
     <item>
       <title>GexCom - Sistema de Gestión de Comunicaciones</title>
-      <link>https://portfolio.sprintjudicial.com/project/gexcom/</link>
+      <link>http://localhost:1313/project/gexcom/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/gexcom/</guid>
+      <guid>http://localhost:1313/project/gexcom/</guid>
       <description>&lt;p&gt;&lt;strong&gt;GexCom&lt;/strong&gt; es un sistema de gestión de comunicaciones desarrollado para agilizar y mejorar la precisión de las comunicaciones de las partes procesales en el sistema judicial.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;

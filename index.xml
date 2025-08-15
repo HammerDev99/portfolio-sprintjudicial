@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Arbelaez Alvarez</title>
-    <link>https://portfolio.sprintjudicial.com/</link>
-      <atom:link href="https://portfolio.sprintjudicial.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Arbelaez Alvarez</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Daniel Arbelaez Alvarez</title>
-      <link>https://portfolio.sprintjudicial.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://portfolio.sprintjudicial.com/event/example/</link>
+      <link>http://localhost:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/event/example/</guid>
+      <guid>http://localhost:1313/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,17 +35,17 @@
     
     <item>
       <title>Proyectos</title>
-      <link>https://portfolio.sprintjudicial.com/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GexCom - Sistema de Gestión de Comunicaciones</title>
-      <link>https://portfolio.sprintjudicial.com/project/gexcom/</link>
+      <link>http://localhost:1313/project/gexcom/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/gexcom/</guid>
+      <guid>http://localhost:1313/project/gexcom/</guid>
       <description>&lt;p&gt;&lt;strong&gt;GexCom&lt;/strong&gt; es un sistema de gestión de comunicaciones desarrollado para agilizar y mejorar la precisión de las comunicaciones de las partes procesales en el sistema judicial.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>🎉 Crea fácilmente tu propio blog simple pero altamente personalizable</title>
-      <link>https://portfolio.sprintjudicial.com/post/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>&lt;p&gt;Bienvenido 👋&lt;/p&gt;
 
 
@@ -156,33 +156,33 @@
     
     <item>
       <title>Pandas</title>
-      <link>https://portfolio.sprintjudicial.com/project/pandas/</link>
+      <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/pandas/</guid>
+      <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://portfolio.sprintjudicial.com/project/pytorch/</link>
+      <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/pytorch/</guid>
+      <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://portfolio.sprintjudicial.com/project/scikit/</link>
+      <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/scikit/</guid>
+      <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Agudiza tu pensamiento con un segundo cerebro</title>
-      <link>https://portfolio.sprintjudicial.com/post/second-brain/</link>
+      <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/second-brain/</guid>
+      <guid>http://localhost:1313/post/second-brain/</guid>
       <description>&lt;p&gt;Crea una base de conocimiento personal y comparte tu conocimiento con tus colegas.&lt;/p&gt;
 &lt;p&gt;El framework web Hugo Blox te capacita con una de las capacidades de toma de notas más flexibles que existen.&lt;/p&gt;
 &lt;p&gt;Crea una base de conocimiento poderosa que funciona sobre una carpeta local de archivos de texto plano Markdown.&lt;/p&gt;
@@ -292,9 +292,9 @@
     
     <item>
       <title>📈 Comunica tus resultados de manera efectiva con las mejores visualizaciones de datos</title>
-      <link>https://portfolio.sprintjudicial.com/post/data-visualization/</link>
+      <link>http://localhost:1313/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/data-visualization/</guid>
+      <guid>http://localhost:1313/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox está diseñado para brindar a los creadores de contenido técnico una experiencia perfecta. Puedes concentrarte en el contenido y Hugo Blox se encarga del resto.&lt;/p&gt;
 &lt;p&gt;Usa herramientas populares como Plotly, Mermaid y marcos de datos.&lt;/p&gt;
 &lt;h2 id=&#34;gráficos&#34;&gt;Gráficos&lt;/h2&gt;
@@ -305,7 +305,7 @@
 
 
 
-&lt;div id=&#34;chart-923715468&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-794351628&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -323,7 +323,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-923715468&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-794351628&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -502,9 +502,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://portfolio.sprintjudicial.com/post/teach-courses/</link>
+      <link>http://localhost:1313/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/teach-courses/</guid>
+      <guid>http://localhost:1313/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -557,7 +557,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://portfolio.sprintjudicial.com/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -616,17 +616,17 @@ data.head()
     
     <item>
       <title>Experiencia</title>
-      <link>https://portfolio.sprintjudicial.com/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://portfolio.sprintjudicial.com/teaching/js/</link>
+      <link>http://localhost:1313/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/teaching/js/</guid>
+      <guid>http://localhost:1313/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -673,7 +673,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://portfolio.sprintjudicial.com/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -750,9 +750,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>https://portfolio.sprintjudicial.com/teaching/python/</link>
+      <link>http://localhost:1313/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/teaching/python/</guid>
+      <guid>http://localhost:1313/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -799,7 +799,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://portfolio.sprintjudicial.com/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -876,9 +876,9 @@ data.head()
     
     <item>
       <title>✅ Gestiona tus proyectos</title>
-      <link>https://portfolio.sprintjudicial.com/post/project-management/</link>
+      <link>http://localhost:1313/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/project-management/</guid>
+      <guid>http://localhost:1313/post/project-management/</guid>
       <description>&lt;p&gt;¡Gestiona fácilmente tus proyectos - crea mapas mentales de ideas, diagramas de Gantt, listas de tareas pendientes y más!&lt;/p&gt;
 &lt;h2 id=&#34;ideación&#34;&gt;Ideación&lt;/h2&gt;
 &lt;p&gt;Hugo Blox admite una extensión de Markdown para mapas mentales.&lt;/p&gt;
@@ -951,9 +951,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Automatización de Plantillas Documentales</title>
-      <link>https://portfolio.sprintjudicial.com/project/automatizacion-documentos/</link>
+      <link>http://localhost:1313/project/automatizacion-documentos/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/automatizacion-documentos/</guid>
+      <guid>http://localhost:1313/project/automatizacion-documentos/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Automatización de Plantillas Documentales&lt;/strong&gt; es una solución desarrollada para la mejora de las funciones administrativas al interior de las dependencias de la Rama Judicial.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;
@@ -979,9 +979,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Análisis Estadístico de Datos Experimentales</title>
-      <link>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</link>
+      <link>http://localhost:1313/project/analisis-estadistico-experimental/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</guid>
+      <guid>http://localhost:1313/project/analisis-estadistico-experimental/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Análisis Estadístico de Datos Experimentales&lt;/strong&gt; es una herramienta open source desarrollada para análisis y visualización de datos experimentales mediante técnicas estadísticas avanzadas.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;
@@ -1012,9 +1012,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Gestión de Expediente Electrónico</title>
-      <link>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</link>
+      <link>http://localhost:1313/project/gestion-expediente-electronico/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</guid>
+      <guid>http://localhost:1313/project/gestion-expediente-electronico/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Gestión de Expediente Electrónico&lt;/strong&gt; es una aplicación desarrollada para automatizar una función administrativa crítica llevada a cabo en todas las dependencias de la Rama Judicial del país.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;
@@ -1048,10 +1048,10 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://portfolio.sprintjudicial.com/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://portfolio.sprintjudicial.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1064,9 +1064,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>https://portfolio.sprintjudicial.com/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/publication/journal-article/</guid>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1085,9 +1085,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>https://portfolio.sprintjudicial.com/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

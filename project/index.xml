@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Daniel Arbelaez Alvarez</title>
-    <link>https://portfolio.sprintjudicial.com/project/</link>
-      <atom:link href="https://portfolio.sprintjudicial.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>https://portfolio.sprintjudicial.com/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>GexCom - Sistema de Gestión de Comunicaciones</title>
-      <link>https://portfolio.sprintjudicial.com/project/gexcom/</link>
+      <link>http://localhost:1313/project/gexcom/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/gexcom/</guid>
+      <guid>http://localhost:1313/project/gexcom/</guid>
       <description>&lt;p&gt;&lt;strong&gt;GexCom&lt;/strong&gt; es un sistema de gestión de comunicaciones desarrollado para agilizar y mejorar la precisión de las comunicaciones de las partes procesales en el sistema judicial.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;
@@ -41,33 +41,33 @@
     
     <item>
       <title>Pandas</title>
-      <link>https://portfolio.sprintjudicial.com/project/pandas/</link>
+      <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/pandas/</guid>
+      <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://portfolio.sprintjudicial.com/project/pytorch/</link>
+      <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/pytorch/</guid>
+      <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://portfolio.sprintjudicial.com/project/scikit/</link>
+      <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/scikit/</guid>
+      <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Automatización de Plantillas Documentales</title>
-      <link>https://portfolio.sprintjudicial.com/project/automatizacion-documentos/</link>
+      <link>http://localhost:1313/project/automatizacion-documentos/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/automatizacion-documentos/</guid>
+      <guid>http://localhost:1313/project/automatizacion-documentos/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Automatización de Plantillas Documentales&lt;/strong&gt; es una solución desarrollada para la mejora de las funciones administrativas al interior de las dependencias de la Rama Judicial.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;
@@ -93,9 +93,9 @@
     
     <item>
       <title>Análisis Estadístico de Datos Experimentales</title>
-      <link>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</link>
+      <link>http://localhost:1313/project/analisis-estadistico-experimental/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</guid>
+      <guid>http://localhost:1313/project/analisis-estadistico-experimental/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Análisis Estadístico de Datos Experimentales&lt;/strong&gt; es una herramienta open source desarrollada para análisis y visualización de datos experimentales mediante técnicas estadísticas avanzadas.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;
@@ -126,9 +126,9 @@
     
     <item>
       <title>Gestión de Expediente Electrónico</title>
-      <link>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</link>
+      <link>http://localhost:1313/project/gestion-expediente-electronico/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</guid>
+      <guid>http://localhost:1313/project/gestion-expediente-electronico/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Gestión de Expediente Electrónico&lt;/strong&gt; es una aplicación desarrollada para automatizar una función administrativa crítica llevada a cabo en todas las dependencias de la Rama Judicial del país.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;

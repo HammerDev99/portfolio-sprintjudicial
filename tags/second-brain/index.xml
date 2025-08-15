@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Second Brain | Daniel Arbelaez Alvarez</title>
-    <link>https://portfolio.sprintjudicial.com/tags/second-brain/</link>
-      <atom:link href="https://portfolio.sprintjudicial.com/tags/second-brain/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/second-brain/</link>
+      <atom:link href="http://localhost:1313/tags/second-brain/index.xml" rel="self" type="application/rss+xml" />
     <description>Second Brain</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Second Brain</title>
-      <link>https://portfolio.sprintjudicial.com/tags/second-brain/</link>
+      <link>http://localhost:1313/tags/second-brain/</link>
     </image>
     
     <item>
       <title>🧠 Agudiza tu pensamiento con un segundo cerebro</title>
-      <link>https://portfolio.sprintjudicial.com/post/second-brain/</link>
+      <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/second-brain/</guid>
+      <guid>http://localhost:1313/post/second-brain/</guid>
       <description>&lt;p&gt;Crea una base de conocimiento personal y comparte tu conocimiento con tus colegas.&lt;/p&gt;
 &lt;p&gt;El framework web Hugo Blox te capacita con una de las capacidades de toma de notas más flexibles que existen.&lt;/p&gt;
 &lt;p&gt;Crea una base de conocimiento poderosa que funciona sobre una carpeta local de archivos de texto plano Markdown.&lt;/p&gt;

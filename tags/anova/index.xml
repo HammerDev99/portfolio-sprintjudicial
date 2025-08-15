@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ANOVA | Daniel Arbelaez Alvarez</title>
-    <link>https://portfolio.sprintjudicial.com/tags/anova/</link>
-      <atom:link href="https://portfolio.sprintjudicial.com/tags/anova/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/anova/</link>
+      <atom:link href="http://localhost:1313/tags/anova/index.xml" rel="self" type="application/rss+xml" />
     <description>ANOVA</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>ANOVA</title>
-      <link>https://portfolio.sprintjudicial.com/tags/anova/</link>
+      <link>http://localhost:1313/tags/anova/</link>
     </image>
     
     <item>
       <title>Análisis Estadístico de Datos Experimentales</title>
-      <link>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</link>
+      <link>http://localhost:1313/project/analisis-estadistico-experimental/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</guid>
+      <guid>http://localhost:1313/project/analisis-estadistico-experimental/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Análisis Estadístico de Datos Experimentales&lt;/strong&gt; es una herramienta open source desarrollada para análisis y visualización de datos experimentales mediante técnicas estadísticas avanzadas.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;

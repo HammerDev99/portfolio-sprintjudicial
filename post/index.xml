@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Daniel Arbelaez Alvarez</title>
-    <link>https://portfolio.sprintjudicial.com/post/</link>
-      <atom:link href="https://portfolio.sprintjudicial.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
-      <link>https://portfolio.sprintjudicial.com/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>🎉 Crea fácilmente tu propio blog simple pero altamente personalizable</title>
-      <link>https://portfolio.sprintjudicial.com/post/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>&lt;p&gt;Bienvenido 👋&lt;/p&gt;
 
 
@@ -100,9 +100,9 @@
     
     <item>
       <title>🧠 Agudiza tu pensamiento con un segundo cerebro</title>
-      <link>https://portfolio.sprintjudicial.com/post/second-brain/</link>
+      <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/second-brain/</guid>
+      <guid>http://localhost:1313/post/second-brain/</guid>
       <description>&lt;p&gt;Crea una base de conocimiento personal y comparte tu conocimiento con tus colegas.&lt;/p&gt;
 &lt;p&gt;El framework web Hugo Blox te capacita con una de las capacidades de toma de notas más flexibles que existen.&lt;/p&gt;
 &lt;p&gt;Crea una base de conocimiento poderosa que funciona sobre una carpeta local de archivos de texto plano Markdown.&lt;/p&gt;
@@ -212,9 +212,9 @@
     
     <item>
       <title>📈 Comunica tus resultados de manera efectiva con las mejores visualizaciones de datos</title>
-      <link>https://portfolio.sprintjudicial.com/post/data-visualization/</link>
+      <link>http://localhost:1313/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/data-visualization/</guid>
+      <guid>http://localhost:1313/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox está diseñado para brindar a los creadores de contenido técnico una experiencia perfecta. Puedes concentrarte en el contenido y Hugo Blox se encarga del resto.&lt;/p&gt;
 &lt;p&gt;Usa herramientas populares como Plotly, Mermaid y marcos de datos.&lt;/p&gt;
 &lt;h2 id=&#34;gráficos&#34;&gt;Gráficos&lt;/h2&gt;
@@ -225,7 +225,7 @@
 
 
 
-&lt;div id=&#34;chart-923715468&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-794351628&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -243,7 +243,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-923715468&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-794351628&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -422,9 +422,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://portfolio.sprintjudicial.com/post/teach-courses/</link>
+      <link>http://localhost:1313/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/teach-courses/</guid>
+      <guid>http://localhost:1313/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -477,7 +477,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://portfolio.sprintjudicial.com/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -536,9 +536,9 @@ data.head()
     
     <item>
       <title>✅ Gestiona tus proyectos</title>
-      <link>https://portfolio.sprintjudicial.com/post/project-management/</link>
+      <link>http://localhost:1313/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/post/project-management/</guid>
+      <guid>http://localhost:1313/post/project-management/</guid>
       <description>&lt;p&gt;¡Gestiona fácilmente tus proyectos - crea mapas mentales de ideas, diagramas de Gantt, listas de tareas pendientes y más!&lt;/p&gt;
 &lt;h2 id=&#34;ideación&#34;&gt;Ideación&lt;/h2&gt;
 &lt;p&gt;Hugo Blox admite una extensión de Markdown para mapas mentales.&lt;/p&gt;

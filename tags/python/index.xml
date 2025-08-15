@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python | Daniel Arbelaez Alvarez</title>
-    <link>https://portfolio.sprintjudicial.com/tags/python/</link>
-      <atom:link href="https://portfolio.sprintjudicial.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/python/</link>
+      <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Python</title>
-      <link>https://portfolio.sprintjudicial.com/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
     </image>
     
     <item>
       <title>GexCom - Sistema de Gestión de Comunicaciones</title>
-      <link>https://portfolio.sprintjudicial.com/project/gexcom/</link>
+      <link>http://localhost:1313/project/gexcom/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/gexcom/</guid>
+      <guid>http://localhost:1313/project/gexcom/</guid>
       <description>&lt;p&gt;&lt;strong&gt;GexCom&lt;/strong&gt; es un sistema de gestión de comunicaciones desarrollado para agilizar y mejorar la precisión de las comunicaciones de las partes procesales en el sistema judicial.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;
@@ -41,9 +41,9 @@
     
     <item>
       <title>Learn Python</title>
-      <link>https://portfolio.sprintjudicial.com/teaching/python/</link>
+      <link>http://localhost:1313/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/teaching/python/</guid>
+      <guid>http://localhost:1313/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -90,7 +90,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://portfolio.sprintjudicial.com/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -167,9 +167,9 @@ data.head()
     
     <item>
       <title>Gestión de Expediente Electrónico</title>
-      <link>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</link>
+      <link>http://localhost:1313/project/gestion-expediente-electronico/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</guid>
+      <guid>http://localhost:1313/project/gestion-expediente-electronico/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Gestión de Expediente Electrónico&lt;/strong&gt; es una aplicación desarrollada para automatizar una función administrativa crítica llevada a cabo en todas las dependencias de la Rama Judicial del país.&lt;/p&gt;
 &lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
 &lt;ul&gt;
