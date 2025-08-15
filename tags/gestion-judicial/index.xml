@@ -1,43 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gestión Judicial | Daniel Arbelaez Alvarez</title>
-    <link>http://localhost:1313/tags/gestion-judicial/</link>
-      <atom:link href="http://localhost:1313/tags/gestion-judicial/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gestión Judicial</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Gestión Judicial</title>
-      <link>http://localhost:1313/tags/gestion-judicial/</link>
-    </image>
-    
-    <item>
-      <title>GexCom - Sistema de Gestión de Comunicaciones</title>
-      <link>http://localhost:1313/project/gexcom/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/gexcom/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;GexCom&lt;/strong&gt; es un sistema de gestión de comunicaciones desarrollado para agilizar y mejorar la precisión de las comunicaciones de las partes procesales en el sistema judicial.&lt;/p&gt;
-&lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Automatización de Comunicaciones&lt;/strong&gt;: Gestión automatizada de citaciones a audiencias&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integración con APIs&lt;/strong&gt;: Envío de mensajes mediante APIs especializadas&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gestión de Formatos&lt;/strong&gt;: Creación automatizada de remisiones y formatos de correo postal&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Almacenamiento Inteligente&lt;/strong&gt;: Base de datos para información relevante de notificaciones&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Estandarización de Procesos&lt;/strong&gt;: Uniformización de procedimientos administrativos&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tecnologías-utilizadas&#34;&gt;Tecnologías Utilizadas&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Python 3&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Base de Datos&lt;/strong&gt;: SQLite&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Control de Versiones&lt;/strong&gt;: Git y GitHub&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IDE&lt;/strong&gt;: Visual Studio Code&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;APIs&lt;/strong&gt;: Integración con servicios de mensajería&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;logros-esperados&#34;&gt;Logros Esperados&lt;/h2&gt;
-&lt;p&gt;Se espera mejorar significativamente la eficiencia y precisión en la gestión de comunicaciones, específicamente en la citación de partes a audiencias programadas y comunicaciones solicitadas por las dependencias de la Rama Judicial.&lt;/p&gt;
-&lt;p&gt;Este proyecto surge de la necesidad de optimizar las operaciones extenuantes en el proceso de comunicaciones judiciales, proporcionando una solución tecnológica que estandariza y automatiza los procesos administrativos más críticos del sistema judicial colombiano.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gestión Judicial | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/gestion-judicial/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/gestion-judicial/index.xml" rel="self" type="application/rss+xml"/><description>Gestión Judicial</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Gestión Judicial</title><link>https://portfolio.sprintjudicial.com/tags/gestion-judicial/</link></image><item><title>GexCom - Sistema de Gestión de Comunicaciones</title><link>https://portfolio.sprintjudicial.com/project/gexcom/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/gexcom/</guid><description>&lt;p>&lt;strong>GexCom&lt;/strong> es un sistema de gestión de comunicaciones desarrollado para agilizar y mejorar la precisión de las comunicaciones de las partes procesales en el sistema judicial.&lt;/p>
+&lt;h2 id="características-principales">Características Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Automatización de Comunicaciones&lt;/strong>: Gestión automatizada de citaciones a audiencias&lt;/li>
+&lt;li>&lt;strong>Integración con APIs&lt;/strong>: Envío de mensajes mediante APIs especializadas&lt;/li>
+&lt;li>&lt;strong>Gestión de Formatos&lt;/strong>: Creación automatizada de remisiones y formatos de correo postal&lt;/li>
+&lt;li>&lt;strong>Almacenamiento Inteligente&lt;/strong>: Base de datos para información relevante de notificaciones&lt;/li>
+&lt;li>&lt;strong>Estandarización de Procesos&lt;/strong>: Uniformización de procedimientos administrativos&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologías-utilizadas">Tecnologías Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: SQLite&lt;/li>
+&lt;li>&lt;strong>Control de Versiones&lt;/strong>: Git y GitHub&lt;/li>
+&lt;li>&lt;strong>IDE&lt;/strong>: Visual Studio Code&lt;/li>
+&lt;li>&lt;strong>APIs&lt;/strong>: Integración con servicios de mensajería&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-esperados">Logros Esperados&lt;/h2>
+&lt;p>Se espera mejorar significativamente la eficiencia y precisión en la gestión de comunicaciones, específicamente en la citación de partes a audiencias programadas y comunicaciones solicitadas por las dependencias de la Rama Judicial.&lt;/p>
+&lt;p>Este proyecto surge de la necesidad de optimizar las operaciones extenuantes en el proceso de comunicaciones judiciales, proporcionando una solución tecnológica que estandariza y automatiza los procesos administrativos más críticos del sistema judicial colombiano.&lt;/p></description></item></channel></rss>
