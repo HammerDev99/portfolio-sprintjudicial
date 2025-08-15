@@ -4,7 +4,7 @@
 &lt;p>Hugo Blox admite el formato popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> para visualizaciones de datos interactivas. ¡Con Plotly, puedes diseñar casi cualquier tipo de visualización que puedas imaginar!&lt;/p>
 &lt;p>Guarda tu JSON de Plotly en la carpeta de tu página, por ejemplo &lt;code>line-chart.json&lt;/code>, y luego añade el shortcode &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> donde quieras que aparezca el gráfico.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-286934517" class="chart">&lt;/div>
+&lt;div id="chart-678423519" class="chart">&lt;/div>
 &lt;script>
 async function fetchChartJSON() {
 console.debug('Hugo Blox fetching chart JSON...')
@@ -20,7 +20,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart => {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-286934517', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-678423519', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
