@@ -1,102 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Academic | Daniel Arbelaez Alvarez</title>
-    <link>http://localhost:1313/tags/academic/</link>
-      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Academic</title>
-      <link>http://localhost:1313/tags/academic/</link>
-    </image>
-    
-    <item>
-      <title>🎉 Crea fácilmente tu propio blog simple pero altamente personalizable</title>
-      <link>http://localhost:1313/post/get-started/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
-      <description>&lt;p&gt;Bienvenido 👋&lt;/p&gt;
-
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Índice&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#descripción-general&#34;&gt;Descripción General&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#comenzar&#34;&gt;Comenzar&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#software-de-código-abierto-financiado-por-la-comunidad&#34;&gt;Software de código abierto financiado por la comunidad&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#-haz-clic-aquí-para-convertirte-en-patrocinador-y-ayudar-a-apoyar-el-futuro-de-hugo-blox-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Haz clic aquí para convertirte en patrocinador y ayudar a apoyar el futuro de Hugo Blox ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ecosistema&#34;&gt;Ecosistema&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#inspiración&#34;&gt;Inspiración&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#características&#34;&gt;Características&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#temas&#34;&gt;Temas&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#licencia&#34;&gt;Licencia&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;descripción-general&#34;&gt;Descripción General&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;El constructor de sitios web Hugo Blox para Hugo, junto con sus plantillas de inicio, está diseñado para creadores profesionales, educadores y equipos/organizaciones - aunque se puede usar para crear cualquier tipo de sitio&lt;/li&gt;
-&lt;li&gt;La plantilla puede ser modificada y personalizada para satisfacer tus necesidades. Es una buena plataforma para cualquiera que busque tomar control de sus datos e identidad en línea mientras tiene la conveniencia de comenzar con una &lt;strong&gt;solución sin código (escribir en Markdown y personalizar con parámetros YAML)&lt;/strong&gt; y tener &lt;strong&gt;flexibilidad para agregar después personalizaciones aún más profundas con HTML y CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Puedes trabajar con todas tus herramientas y aplicaciones favoritas con cientos de plugins e integraciones para acelerar tus flujos de trabajo, interactuar con tus lectores y mucho más&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;comenzar&#34;&gt;Comenzar&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Crear un nuevo sitio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalizar tu sitio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chatear con la &lt;strong&gt;comunidad Hugo Blox&lt;/strong&gt;&lt;/a&gt; o &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;comunidad Hugo&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Solicitar una &lt;strong&gt;característica&lt;/strong&gt; o reportar un &lt;strong&gt;error&lt;/strong&gt; para &lt;em&gt;Hugo Blox&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;¿¿Actualizando Hugo Blox?&lt;/strong&gt; Ve la &lt;a href=&#34;https://docs.hugoblox.com/reference/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guía de Actualización&lt;/a&gt; y &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notas de Lanzamiento&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;software-de-código-abierto-financiado-por-la-comunidad&#34;&gt;Software de código abierto financiado por la comunidad&lt;/h2&gt;
-&lt;p&gt;Para ayudarnos a desarrollar esta plantilla y software de manera sostenible bajo la licencia MIT, pedimos a todos los individuos y empresas que la usen que ayuden a apoyar su mantenimiento y desarrollo continuo a través de patrocinio.&lt;/p&gt;
-&lt;h3 id=&#34;-haz-clic-aquí-para-convertirte-en-patrocinador-y-ayudar-a-apoyar-el-futuro-de-hugo-blox-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Haz clic aquí para convertirte en patrocinador y ayudar a apoyar el futuro de Hugo Blox ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Como una muestra de agradecimiento por patrocinar, puedes &lt;strong&gt;desbloquear &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;estas&lt;/a&gt; recompensas increíbles y características adicionales 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosistema&#34;&gt;Ecosistema&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bibtex To Markdown&lt;/a&gt;:&lt;/strong&gt; Importa automáticamente publicaciones desde BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiración&#34;&gt;Inspiración&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aprende qué otros &lt;strong&gt;creadores&lt;/strong&gt;&lt;/a&gt; están construyendo con esta plantilla.&lt;/p&gt;
-&lt;h2 id=&#34;características&#34;&gt;Características&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Constructor de páginas&lt;/strong&gt; - Crea &lt;em&gt;cualquier cosa&lt;/em&gt; sin código con &lt;a href=&#34;https://hugoblox.com/blocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;bloques&lt;/strong&gt;&lt;/a&gt; y &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elementos&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edita cualquier tipo de contenido&lt;/strong&gt; - ¡Publicaciones de blog, publicaciones, charlas, diapositivas, proyectos y más!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Crea contenido&lt;/strong&gt; en &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, o &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sistema de Plugins&lt;/strong&gt; - &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Temas de colores&lt;/strong&gt; y &lt;strong&gt;fuentes&lt;/strong&gt;&lt;/a&gt; completamente personalizables&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mostrar Código y Matemáticas&lt;/strong&gt; - Resaltado de sintaxis de código y matemáticas LaTeX soportadas&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integraciones&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;comentarios Disqus&lt;/a&gt;, Mapas, Formularios de Contacto, ¡y más!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sitio Hermoso&lt;/strong&gt; - Diseño de una página simple y refrescante&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SEO Líder en la Industria&lt;/strong&gt; - Ayuda a que tu sitio web sea encontrado en motores de búsqueda y redes sociales&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Galerías de Medios&lt;/strong&gt; - Muestra tus imágenes y videos con leyendas en una galería personalizable&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Amigable para Móviles&lt;/strong&gt; - Lúcete increíble en cada pantalla con una versión amigable para móviles de tu sitio&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multidioma&lt;/strong&gt; - 35+ paquetes de idioma incluyendo English, 中文, y Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multiusuario&lt;/strong&gt; - Cada autor obtiene su propia página de perfil&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Paquete de Privacidad&lt;/strong&gt; - Asiste con GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Destacar&lt;/strong&gt; - Da vida a tu sitio con animaciones, fondos parallax y efectos de desplazamiento&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Despliegue con Un Clic&lt;/strong&gt; - Sin servidores. Sin bases de datos. Solo archivos.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;temas&#34;&gt;Temas&lt;/h2&gt;
-&lt;p&gt;Hugo Blox y sus plantillas vienen con &lt;strong&gt;modo automático día (claro) y noche (oscuro)&lt;/strong&gt; incorporado. Los visitantes pueden elegir su modo preferido haciendo clic en el icono de sol/luna en el encabezado.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elige un &lt;strong&gt;tema&lt;/strong&gt; y &lt;strong&gt;fuente&lt;/strong&gt;&lt;/a&gt; impresionante para tu sitio. Los temas son completamente personalizables.&lt;/p&gt;
-&lt;h2 id=&#34;licencia&#34;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-presente &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Lanzado bajo la licencia &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academic | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/academic/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/academic/index.xml" rel="self" type="application/rss+xml"/><description>Academic</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Academic</title><link>https://portfolio.sprintjudicial.com/tags/academic/</link></image><item><title>🎉 Crea fácilmente tu propio blog simple pero altamente personalizable</title><link>https://portfolio.sprintjudicial.com/post/get-started/</link><pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/post/get-started/</guid><description>&lt;p>Bienvenido 👋&lt;/p>
+&lt;details class="print:hidden xl:hidden" open>
+&lt;summary>Índice&lt;/summary>
+&lt;div class="text-sm">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#descripción-general">Descripción General&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#comenzar">Comenzar&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#software-de-código-abierto-financiado-por-la-comunidad">Software de código abierto financiado por la comunidad&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#-haz-clic-aquí-para-convertirte-en-patrocinador-y-ayudar-a-apoyar-el-futuro-de-hugo-blox-httpshugobloxcomsponsor">&lt;a href="https://hugoblox.com/sponsor/">❤️ Haz clic aquí para convertirte en patrocinador y ayudar a apoyar el futuro de Hugo Blox ❤️&lt;/a>&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#ecosistema">Ecosistema&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#inspiración">Inspiración&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#características">Características&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#temas">Temas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#licencia">Licencia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/div>
+&lt;/details>
+&lt;h2 id="descripción-general">Descripción General&lt;/h2>
+&lt;ol>
+&lt;li>El constructor de sitios web Hugo Blox para Hugo, junto con sus plantillas de inicio, está diseñado para creadores profesionales, educadores y equipos/organizaciones - aunque se puede usar para crear cualquier tipo de sitio&lt;/li>
+&lt;li>La plantilla puede ser modificada y personalizada para satisfacer tus necesidades. Es una buena plataforma para cualquiera que busque tomar control de sus datos e identidad en línea mientras tiene la conveniencia de comenzar con una &lt;strong>solución sin código (escribir en Markdown y personalizar con parámetros YAML)&lt;/strong> y tener &lt;strong>flexibilidad para agregar después personalizaciones aún más profundas con HTML y CSS&lt;/strong>&lt;/li>
+&lt;li>Puedes trabajar con todas tus herramientas y aplicaciones favoritas con cientos de plugins e integraciones para acelerar tus flujos de trabajo, interactuar con tus lectores y mucho más&lt;/li>
+&lt;/ol>
+&lt;h3 id="comenzar">Comenzar&lt;/h3>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://hugoblox.com/templates/" target="_blank" rel="noopener">&lt;strong>Crear un nuevo sitio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://docs.hugoblox.com/" target="_blank" rel="noopener">&lt;strong>Personalizar tu sitio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chatear con la &lt;strong>comunidad Hugo Blox&lt;/strong>&lt;/a> o &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>comunidad Hugo&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/GetResearchDev" target="_blank" rel="noopener">@GetResearchDev&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> #MadeWithHugoBlox&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/issues" target="_blank" rel="noopener">Solicitar una &lt;strong>característica&lt;/strong> o reportar un &lt;strong>error&lt;/strong> para &lt;em>Hugo Blox&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>¿¿Actualizando Hugo Blox?&lt;/strong> Ve la &lt;a href="https://docs.hugoblox.com/reference/update/" target="_blank" rel="noopener">Guía de Actualización&lt;/a> y &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/releases" target="_blank" rel="noopener">Notas de Lanzamiento&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="software-de-código-abierto-financiado-por-la-comunidad">Software de código abierto financiado por la comunidad&lt;/h2>
+&lt;p>Para ayudarnos a desarrollar esta plantilla y software de manera sostenible bajo la licencia MIT, pedimos a todos los individuos y empresas que la usen que ayuden a apoyar su mantenimiento y desarrollo continuo a través de patrocinio.&lt;/p>
+&lt;h3 id="-haz-clic-aquí-para-convertirte-en-patrocinador-y-ayudar-a-apoyar-el-futuro-de-hugo-blox-httpshugobloxcomsponsor">&lt;a href="https://hugoblox.com/sponsor/" target="_blank" rel="noopener">❤️ Haz clic aquí para convertirte en patrocinador y ayudar a apoyar el futuro de Hugo Blox ❤️&lt;/a>&lt;/h3>
+&lt;p>Como una muestra de agradecimiento por patrocinar, puedes &lt;strong>desbloquear &lt;a href="https://hugoblox.com/sponsor/" target="_blank" rel="noopener">estas&lt;/a> recompensas increíbles y características adicionales 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosistema">Ecosistema&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/GetRD/academic-file-converter" target="_blank" rel="noopener">Bibtex To Markdown&lt;/a>:&lt;/strong> Importa automáticamente publicaciones desde BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiración">Inspiración&lt;/h2>
+&lt;p>&lt;a href="https://hugoblox.com/creators/" target="_blank" rel="noopener">Aprende qué otros &lt;strong>creadores&lt;/strong>&lt;/a> están construyendo con esta plantilla.&lt;/p>
+&lt;h2 id="características">Características&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Constructor de páginas&lt;/strong> - Crea &lt;em>cualquier cosa&lt;/em> sin código con &lt;a href="https://hugoblox.com/blocks/" target="_blank" rel="noopener">&lt;strong>bloques&lt;/strong>&lt;/a> y &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">&lt;strong>elementos&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edita cualquier tipo de contenido&lt;/strong> - ¡Publicaciones de blog, publicaciones, charlas, diapositivas, proyectos y más!&lt;/li>
+&lt;li>&lt;strong>Crea contenido&lt;/strong> en &lt;a href="https://docs.hugoblox.com/reference/markdown/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://docs.hugoblox.com/getting-started/cms/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, o &lt;a href="https://docs.hugoblox.com/getting-started/cms/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Sistema de Plugins&lt;/strong> - &lt;a href="https://docs.hugoblox.com/getting-started/customize/" target="_blank" rel="noopener">&lt;strong>Temas de colores&lt;/strong> y &lt;strong>fuentes&lt;/strong>&lt;/a> completamente personalizables&lt;/li>
+&lt;li>&lt;strong>Mostrar Código y Matemáticas&lt;/strong> - Resaltado de sintaxis de código y matemáticas LaTeX soportadas&lt;/li>
+&lt;li>&lt;strong>Integraciones&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">comentarios Disqus&lt;/a>, Mapas, Formularios de Contacto, ¡y más!&lt;/li>
+&lt;li>&lt;strong>Sitio Hermoso&lt;/strong> - Diseño de una página simple y refrescante&lt;/li>
+&lt;li>&lt;strong>SEO Líder en la Industria&lt;/strong> - Ayuda a que tu sitio web sea encontrado en motores de búsqueda y redes sociales&lt;/li>
+&lt;li>&lt;strong>Galerías de Medios&lt;/strong> - Muestra tus imágenes y videos con leyendas en una galería personalizable&lt;/li>
+&lt;li>&lt;strong>Amigable para Móviles&lt;/strong> - Lúcete increíble en cada pantalla con una versión amigable para móviles de tu sitio&lt;/li>
+&lt;li>&lt;strong>Multidioma&lt;/strong> - 35+ paquetes de idioma incluyendo English, 中文, y Português&lt;/li>
+&lt;li>&lt;strong>Multiusuario&lt;/strong> - Cada autor obtiene su propia página de perfil&lt;/li>
+&lt;li>&lt;strong>Paquete de Privacidad&lt;/strong> - Asiste con GDPR&lt;/li>
+&lt;li>&lt;strong>Destacar&lt;/strong> - Da vida a tu sitio con animaciones, fondos parallax y efectos de desplazamiento&lt;/li>
+&lt;li>&lt;strong>Despliegue con Un Clic&lt;/strong> - Sin servidores. Sin bases de datos. Solo archivos.&lt;/li>
+&lt;/ul>
+&lt;h2 id="temas">Temas&lt;/h2>
+&lt;p>Hugo Blox y sus plantillas vienen con &lt;strong>modo automático día (claro) y noche (oscuro)&lt;/strong> incorporado. Los visitantes pueden elegir su modo preferido haciendo clic en el icono de sol/luna en el encabezado.&lt;/p>
+&lt;p>&lt;a href="https://docs.hugoblox.com/getting-started/customize/" target="_blank" rel="noopener">Elige un &lt;strong>tema&lt;/strong> y &lt;strong>fuente&lt;/strong>&lt;/a> impresionante para tu sitio. Los temas son completamente personalizables.&lt;/p>
+&lt;h2 id="licencia">Licencia&lt;/h2>
+&lt;p>Copyright 2016-presente &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Lanzado bajo la licencia &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a>.&lt;/p></description></item></channel></rss>
