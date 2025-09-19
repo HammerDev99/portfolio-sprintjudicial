@@ -1,26 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Visualización De Datos | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/visualizacion-de-datos/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/visualizacion-de-datos/index.xml" rel="self" type="application/rss+xml"/><description>Visualización De Datos</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Visualización De Datos</title><link>https://portfolio.sprintjudicial.com/tags/visualizacion-de-datos/</link></image><item><title>Análisis Estadístico de Datos Experimentales</title><link>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</guid><description>&lt;p>&lt;strong>Análisis Estadístico de Datos Experimentales&lt;/strong> es una herramienta open source desarrollada para análisis y visualización de datos experimentales mediante técnicas estadísticas avanzadas.&lt;/p>
-&lt;h2 id="características-principales">Características Principales&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Análisis ANOVA&lt;/strong>: Implementación de análisis de varianza para comparación de tratamientos&lt;/li>
-&lt;li>&lt;strong>Prueba de Tukey&lt;/strong>: Análisis post-hoc para identificar diferencias significativas&lt;/li>
-&lt;li>&lt;strong>Visualización Avanzada&lt;/strong>: Gráficos estadísticos que muestran diferencias entre grupos&lt;/li>
-&lt;li>&lt;strong>Exportación de Resultados&lt;/strong>: Guardado automático de resultados en archivos CSV&lt;/li>
-&lt;li>&lt;strong>Open Source&lt;/strong>: Código abierto disponible para la comunidad científica&lt;/li>
-&lt;/ul>
-&lt;h2 id="tecnologías-utilizadas">Tecnologías Utilizadas&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Lenguaje&lt;/strong>: R en RStudio&lt;/li>
-&lt;li>&lt;strong>Librerías Especializadas&lt;/strong>:
-&lt;ul>
-&lt;li>ggplot2 para visualización avanzada&lt;/li>
-&lt;li>dplyr para manipulación de datos&lt;/li>
-&lt;li>readr para importación desde archivos CSV&lt;/li>
-&lt;li>multcompView para pruebas post-hoc y visualización de significancias&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
-&lt;p>Demostró mi &lt;strong>habilidad en el manejo de datos&lt;/strong> y en la &lt;strong>interpretación de resultados estadísticos&lt;/strong> para respaldar decisiones basadas en evidencia experimental.&lt;/p>
-&lt;h2 id="impacto-científico">Impacto Científico&lt;/h2>
-&lt;p>Este proyecto evalúa datos experimentales mediante técnicas avanzadas, incluyendo ANOVA y Prueba de Tukey, generando visualizaciones que facilitan la interpretación de diferencias significativas entre grupos experimentales.&lt;/p>
-&lt;p>La herramienta se centra en comparar tratamientos experimentales y generar visualizaciones claras que permiten a investigadores identificar patrones y diferencias estadísticamente significativas en sus datos, contribuyendo al análisis científico basado en evidencia.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualización De Datos | Daniel Arbelaez Alvarez</title>
+    <link>http://localhost:1313/tags/visualizacion-de-datos/</link>
+      <atom:link href="http://localhost:1313/tags/visualizacion-de-datos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visualización De Datos</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Visualización De Datos</title>
+      <link>http://localhost:1313/tags/visualizacion-de-datos/</link>
+    </image>
+    
+    <item>
+      <title>Análisis Estadístico de Datos Experimentales</title>
+      <link>http://localhost:1313/project/analisis-estadistico-experimental/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/analisis-estadistico-experimental/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Análisis Estadístico de Datos Experimentales&lt;/strong&gt; es una herramienta open source desarrollada para análisis y visualización de datos experimentales mediante técnicas estadísticas avanzadas.&lt;/p&gt;
+&lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Análisis ANOVA&lt;/strong&gt;: Implementación de análisis de varianza para comparación de tratamientos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prueba de Tukey&lt;/strong&gt;: Análisis post-hoc para identificar diferencias significativas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualización Avanzada&lt;/strong&gt;: Gráficos estadísticos que muestran diferencias entre grupos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exportación de Resultados&lt;/strong&gt;: Guardado automático de resultados en archivos CSV&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Open Source&lt;/strong&gt;: Código abierto disponible para la comunidad científica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tecnologías-utilizadas&#34;&gt;Tecnologías Utilizadas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lenguaje&lt;/strong&gt;: R en RStudio&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Librerías Especializadas&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;ggplot2 para visualización avanzada&lt;/li&gt;
+&lt;li&gt;dplyr para manipulación de datos&lt;/li&gt;
+&lt;li&gt;readr para importación desde archivos CSV&lt;/li&gt;
+&lt;li&gt;multcompView para pruebas post-hoc y visualización de significancias&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;logros-alcanzados&#34;&gt;Logros Alcanzados&lt;/h2&gt;
+&lt;p&gt;Demostró mi &lt;strong&gt;habilidad en el manejo de datos&lt;/strong&gt; y en la &lt;strong&gt;interpretación de resultados estadísticos&lt;/strong&gt; para respaldar decisiones basadas en evidencia experimental.&lt;/p&gt;
+&lt;h2 id=&#34;impacto-científico&#34;&gt;Impacto Científico&lt;/h2&gt;
+&lt;p&gt;Este proyecto evalúa datos experimentales mediante técnicas avanzadas, incluyendo ANOVA y Prueba de Tukey, generando visualizaciones que facilitan la interpretación de diferencias significativas entre grupos experimentales.&lt;/p&gt;
+&lt;p&gt;La herramienta se centra en comparar tratamientos experimentales y generar visualizaciones claras que permiten a investigadores identificar patrones y diferencias estadísticamente significativas en sus datos, contribuyendo al análisis científico basado en evidencia.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
