@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Claude API | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/claude-api/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/claude-api/index.xml" rel="self" type="application/rss+xml"/><description>Claude API</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Claude API</title><link>https://portfolio.sprintjudicial.com/en/tags/claude-api/</link></image><item><title>LLM Chat App - Multi-Provider Application</title><link>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</guid><description>&lt;p>&lt;strong>LLM Chat App&lt;/strong> is an interactive chat web application with support for multiple language model providers, including Anthropic Claude and OpenAI GPT, featuring a clean interface and straightforward API key configuration.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Multi-Provider&lt;/strong>: Support for Anthropic Claude and OpenAI GPT in a single interface&lt;/li>
+&lt;li>&lt;strong>Simple Configuration&lt;/strong>: API key entry directly within the application&lt;/li>
+&lt;li>&lt;strong>Conversational Interface&lt;/strong>: Interactive chat with conversation history&lt;/li>
+&lt;li>&lt;strong>Docker Deployment&lt;/strong>: Production-ready Docker image&lt;/li>
+&lt;li>&lt;strong>Model Selection&lt;/strong>: Dynamic switching between providers and models&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>APIs&lt;/strong>: Anthropic Claude API, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Container&lt;/strong>: Docker&lt;/li>
+&lt;li>&lt;strong>Language&lt;/strong>: Python&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This application simplifies experimentation with different language models by providing a unified interface for interacting with leading LLM providers, ideal for comparing responses and evaluating capabilities across models.&lt;/p>
+&lt;p>Developed as an exploration and demonstration tool for LLM API integration, facilitating rapid evaluation of different models for specific use cases.&lt;/p></description></item></channel></rss>

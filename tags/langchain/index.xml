@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LangChain | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/langchain/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/langchain/index.xml" rel="self" type="application/rss+xml"/><description>LangChain</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>LangChain</title><link>https://portfolio.sprintjudicial.com/tags/langchain/</link></image><item><title>FocusCoach - Coaching con IA y Metodologia DISC</title><link>https://portfolio.sprintjudicial.com/project/focuscoach/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/focuscoach/</guid><description>&lt;p>&lt;strong>FocusCoach&lt;/strong> es una plataforma de coaching personalizado basada en inteligencia artificial y la metodologia de perfiles de personalidad DISC, disenada para ayudar a emprendedores (especialmente perfiles alta-I) a prevenir el abandono de proyectos.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Coaching Adaptativo&lt;/strong>: Sesiones personalizadas segun el perfil DISC del usuario&lt;/li>
+&lt;li>&lt;strong>Framework FOCUS-SPRINT&lt;/strong>: Metodologia propia para gestion de proyectos por sprints&lt;/li>
+&lt;li>&lt;strong>Parking Lot&lt;/strong>: Sistema de gestion de ideas para evitar distracciones&lt;/li>
+&lt;li>&lt;strong>Gamificacion DISC&lt;/strong>: Sistema de recompensas adaptado al perfil de personalidad&lt;/li>
+&lt;li>&lt;strong>Aprendizaje Activo&lt;/strong>: La IA aprende de las interacciones para mejorar las recomendaciones&lt;/li>
+&lt;li>&lt;strong>OCR de Documentos&lt;/strong>: Procesamiento de documentos con Mistral AI OCR&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12, FastAPI 0.115, Pydantic v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit 1.41&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: OpenAI Assistants API, LangChain&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: SQLite + FTS5 (WAL mode)&lt;/li>
+&lt;li>&lt;strong>Arquitectura&lt;/strong>: Clean Architecture (5 capas), DI, Railway-Oriented Programming (returns)&lt;/li>
+&lt;li>&lt;strong>Calidad&lt;/strong>: pytest + hypothesis, ruff, mypy &amp;ndash;strict&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Docker (2-stage build)&lt;/li>
+&lt;/ul>
+&lt;h2 id="arquitectura">Arquitectura&lt;/h2>
+&lt;p>Implementacion de Clean Architecture con 5 capas y patrones avanzados:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Strategy Pattern&lt;/strong> para adaptar coaching segun perfil DISC&lt;/li>
+&lt;li>&lt;strong>Dependency Injection&lt;/strong> para desacoplamiento de servicios&lt;/li>
+&lt;li>&lt;strong>Railway-Oriented Programming&lt;/strong> (Result[T, E]) para manejo de errores&lt;/li>
+&lt;li>&lt;strong>28 notebooks&lt;/strong> experimentales validando 8 MVPs antes de implementacion&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>46 tests&lt;/strong> pasando con type checking estricto (mypy &amp;ndash;strict)&lt;/li>
+&lt;li>&lt;strong>8 MVPs validados&lt;/strong> en notebooks antes de migracion a produccion&lt;/li>
+&lt;li>&lt;strong>5 capas arquitectonicas&lt;/strong> implementadas con DI completo&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>FocusCoach aborda un problema comun en emprendedores: el abandono de proyectos por falta de enfoque y estructura. Al personalizar el coaching segun la personalidad DISC, la plataforma ofrece estrategias que resuenan con el estilo cognitivo de cada usuario.&lt;/p>
+&lt;p>Este proyecto combina conocimientos de psicologia organizacional (metodologia DISC), ingenieria de software (Clean Architecture) e inteligencia artificial (LLMs + RAG) para crear una herramienta innovadora de productividad personal.&lt;/p></description></item></channel></rss>

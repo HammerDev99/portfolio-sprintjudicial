@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PostgreSQL | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/postgresql/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/postgresql/index.xml" rel="self" type="application/rss+xml"/><description>PostgreSQL</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>PostgreSQL</title><link>https://portfolio.sprintjudicial.com/tags/postgresql/</link></image><item><title>SIRAL - Sistema de Registro de Acoso Laboral</title><link>https://portfolio.sprintjudicial.com/project/siral-system/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/siral-system/</guid><description>&lt;p>&lt;strong>SIRAL&lt;/strong> es una plataforma integral para la gestion de quejas de acoso laboral en la Rama Judicial de Colombia, desarrollada en cumplimiento de la Ley 1010/2006, Ley 1581/2012 (Habeas Data), Resolucion 3461/2025 y la Ley de Archivo General.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Radicacion de Quejas&lt;/strong>: Flujo de registro en 4 pasos con identificacion obligatoria de partes involucradas&lt;/li>
+&lt;li>&lt;strong>Control de Acceso por Roles (RBAC)&lt;/strong>: 5 roles diferenciados (Superadmin, Admin CCL, Miembro CCL, Funcionario, Publico)&lt;/li>
+&lt;li>&lt;strong>Flujo de Resolucion&lt;/strong>: Gestion de estados con plazo de 6 meses segun Resolucion 3461/2025&lt;/li>
+&lt;li>&lt;strong>Cadena de Custodia&lt;/strong>: Hash SHA-256 inmutable para evidencia digital&lt;/li>
+&lt;li>&lt;strong>Notificaciones Digitales&lt;/strong>: Comunicacion automatizada al presunto acosador (Ley 2213/2022)&lt;/li>
+&lt;li>&lt;strong>Actas de Comite&lt;/strong>: Registro y gestion de actas del Comite de Convivencia Laboral&lt;/li>
+&lt;li>&lt;strong>Estadisticas Anonimizadas&lt;/strong>: Reportes publicos sin datos personales&lt;/li>
+&lt;li>&lt;strong>Retencion Documental&lt;/strong>: Conservacion de 20 anos conforme a la Ley de Archivo General&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12+, FastAPI, Pydantic v2, SQLAlchemy 2.0 (async)&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: PostgreSQL 16&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (10 paginas + sidebar + timeline + graficos)&lt;/li>
+&lt;li>&lt;strong>Seguridad&lt;/strong>: JWT (python-jose, 15 min expiracion), bcrypt, RBAC, OWASP Top 10&lt;/li>
+&lt;li>&lt;strong>Infraestructura&lt;/strong>: Docker Swarm, EasyPanel, Traefik (HTTPS), GHCR&lt;/li>
+&lt;li>&lt;strong>CI/CD&lt;/strong>: GitHub Actions (6 jobs: lint + test + build + deploy)&lt;/li>
+&lt;li>&lt;strong>Calidad&lt;/strong>: pytest, ruff, mypy, bandit&lt;/li>
+&lt;/ul>
+&lt;h2 id="arquitectura">Arquitectura&lt;/h2>
+&lt;p>Arquitectura por capas siguiendo Clean Architecture:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Core&lt;/strong>: Entidades de dominio, value objects, enums&lt;/li>
+&lt;li>&lt;strong>Application&lt;/strong>: Casos de uso, DTOs (frozen dataclasses), puertos de servicio&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: Persistencia, seguridad, notificaciones, almacenamiento&lt;/li>
+&lt;li>&lt;strong>Interfaces&lt;/strong>: Rutas FastAPI (9 endpoints + Swagger), GUI Streamlit&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>283 tests&lt;/strong> pasando al 100% con quality gates completos (pytest + ruff + mypy + bandit)&lt;/li>
+&lt;li>&lt;strong>99 archivos fuente&lt;/strong> Python en src/&lt;/li>
+&lt;li>&lt;strong>6 casos de uso&lt;/strong> implementados (radicar, cambiar estado, consultar, listar, detalle, actas)&lt;/li>
+&lt;li>&lt;strong>55 hallazgos de auditoria&lt;/strong> resueltos al 100% (5 agentes de revision)&lt;/li>
+&lt;li>&lt;strong>10 documentos de planning&lt;/strong> (P00-P09) y 4 sprints completados&lt;/li>
+&lt;li>&lt;strong>Seguridad&lt;/strong>: OWASP Top 10 remediado, CSP, HSTS, sanitizacion de paths&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Este sistema digitaliza completamente el proceso de gestion de acoso laboral en la Rama Judicial, garantizando el cumplimiento normativo, la trazabilidad de cada accion y la proteccion de datos personales de las partes involucradas.&lt;/p>
+&lt;p>SIRAL surge de la necesidad de formalizar y sistematizar el proceso de quejas de acoso laboral en el Centro de Servicios Judiciales de la Seccional Antioquia, reemplazando procesos manuales propensos a errores y demoras con una solucion tecnologica robusta y auditable.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Templates | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/templates/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/templates/index.xml" rel="self" type="application/rss+xml"/><description>Templates</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Templates</title><link>https://portfolio.sprintjudicial.com/tags/templates/</link></image><item><title>DocumentGenerator - Generacion Masiva de Documentos</title><link>https://portfolio.sprintjudicial.com/project/document-generator/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/document-generator/</guid><description>&lt;p>&lt;strong>DocumentGenerator&lt;/strong> es un sistema de generacion masiva de documentos que utiliza plantillas Word y datos de hojas de calculo Excel para producir grandes volumenes de documentos estandarizados con procesamiento concurrente.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Generacion Masiva&lt;/strong>: Creacion de cientos de documentos a partir de una plantilla y datos XLSX&lt;/li>
+&lt;li>&lt;strong>Procesamiento Concurrente&lt;/strong>: ThreadPoolExecutor para generacion en paralelo&lt;/li>
+&lt;li>&lt;strong>Plantillas Flexibles&lt;/strong>: Motor python-docx-template con sintaxis Jinja2&lt;/li>
+&lt;li>&lt;strong>Configuracion YAML&lt;/strong>: Parametrizacion completa sin modificar codigo&lt;/li>
+&lt;li>&lt;strong>Logging Estructurado&lt;/strong>: Registro JSON de cada operacion&lt;/li>
+&lt;li>&lt;strong>Gestion de Errores&lt;/strong>: Manejo robusto de errores por documento individual&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Lenguaje&lt;/strong>: Python 3.9+&lt;/li>
+&lt;li>&lt;strong>Templates&lt;/strong>: python-docx-template (Jinja2 para Word)&lt;/li>
+&lt;li>&lt;strong>Datos&lt;/strong>: pandas (lectura XLSX)&lt;/li>
+&lt;li>&lt;strong>Concurrencia&lt;/strong>: concurrent.futures (ThreadPoolExecutor)&lt;/li>
+&lt;li>&lt;strong>Configuracion&lt;/strong>: YAML&lt;/li>
+&lt;li>&lt;strong>Logging&lt;/strong>: JSON estructurado&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>DocumentGenerator automatiza la creacion de documentacion oficial en lote, eliminando la produccion manual de documentos repetitivos y reduciendo errores de transcripcion en entornos donde se requiere generar grandes volumenes de comunicaciones estandarizadas.&lt;/p>
+&lt;p>Este proyecto surge de la necesidad de generar masivamente documentos oficiales en dependencias judiciales, donde cada documento comparte una estructura comun pero difiere en datos especificos de las partes involucradas.&lt;/p></description></item></channel></rss>

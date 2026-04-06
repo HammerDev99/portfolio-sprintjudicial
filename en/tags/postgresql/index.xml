@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PostgreSQL | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/postgresql/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/postgresql/index.xml" rel="self" type="application/rss+xml"/><description>PostgreSQL</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>PostgreSQL</title><link>https://portfolio.sprintjudicial.com/en/tags/postgresql/</link></image><item><title>SIRAL - Workplace Harassment Registration System</title><link>https://portfolio.sprintjudicial.com/en/project/siral-system/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/siral-system/</guid><description>&lt;p>&lt;strong>SIRAL&lt;/strong> is a comprehensive platform for managing workplace harassment complaints in the Colombian Judicial Branch, developed in compliance with Law 1010/2006, Law 1581/2012 (Habeas Data), Resolution 3461/2025, and the General Archives Law.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Complaint Filing&lt;/strong>: 4-step registration workflow with mandatory identification of involved parties&lt;/li>
+&lt;li>&lt;strong>Role-Based Access Control (RBAC)&lt;/strong>: 5 differentiated roles (Superadmin, CCL Admin, CCL Member, Official, Public)&lt;/li>
+&lt;li>&lt;strong>Resolution Workflow&lt;/strong>: State management with 6-month deadline per Resolution 3461/2025&lt;/li>
+&lt;li>&lt;strong>Chain of Custody&lt;/strong>: Immutable SHA-256 hash for digital evidence&lt;/li>
+&lt;li>&lt;strong>Digital Notifications&lt;/strong>: Automated communication to the alleged harasser (Law 2213/2022)&lt;/li>
+&lt;li>&lt;strong>Committee Minutes&lt;/strong>: Recording and management of Workplace Coexistence Committee minutes&lt;/li>
+&lt;li>&lt;strong>Anonymized Statistics&lt;/strong>: Public reports without personal data&lt;/li>
+&lt;li>&lt;strong>Document Retention&lt;/strong>: 20-year preservation in accordance with the General Archives Law&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12+, FastAPI, Pydantic v2, SQLAlchemy 2.0 (async)&lt;/li>
+&lt;li>&lt;strong>Database&lt;/strong>: PostgreSQL 16&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (10 pages + sidebar + timeline + charts)&lt;/li>
+&lt;li>&lt;strong>Security&lt;/strong>: JWT (python-jose, 15 min expiration), bcrypt, RBAC, OWASP Top 10&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: Docker Swarm, EasyPanel, Traefik (HTTPS), GHCR&lt;/li>
+&lt;li>&lt;strong>CI/CD&lt;/strong>: GitHub Actions (6 jobs: lint + test + build + deploy)&lt;/li>
+&lt;li>&lt;strong>Quality&lt;/strong>: pytest, ruff, mypy, bandit&lt;/li>
+&lt;/ul>
+&lt;h2 id="architecture">Architecture&lt;/h2>
+&lt;p>Layered architecture following Clean Architecture:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Core&lt;/strong>: Domain entities, value objects, enums&lt;/li>
+&lt;li>&lt;strong>Application&lt;/strong>: Use cases, DTOs (frozen dataclasses), service ports&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: Persistence, security, notifications, storage&lt;/li>
+&lt;li>&lt;strong>Interfaces&lt;/strong>: FastAPI routes (9 endpoints + Swagger), Streamlit GUI&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>283 tests&lt;/strong> passing at 100% with complete quality gates (pytest + ruff + mypy + bandit)&lt;/li>
+&lt;li>&lt;strong>99 Python source files&lt;/strong> in src/&lt;/li>
+&lt;li>&lt;strong>6 use cases&lt;/strong> implemented (file complaint, change status, query, list, detail, minutes)&lt;/li>
+&lt;li>&lt;strong>55 audit findings&lt;/strong> resolved at 100% (5 review agents)&lt;/li>
+&lt;li>&lt;strong>10 planning documents&lt;/strong> (P00-P09) and 4 sprints completed&lt;/li>
+&lt;li>&lt;strong>Security&lt;/strong>: OWASP Top 10 remediated, CSP, HSTS, path sanitization&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This system fully digitizes the workplace harassment management process in the Judicial Branch, ensuring regulatory compliance, traceability of every action, and protection of the personal data of involved parties.&lt;/p>
+&lt;p>SIRAL arose from the need to formalize and systematize the workplace harassment complaint process at the Judicial Services Center of the Antioquia Sectional, replacing manual processes prone to errors and delays with a robust, auditable technology solution.&lt;/p></description></item></channel></rss>

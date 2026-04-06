@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NER | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/ner/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/ner/index.xml" rel="self" type="application/rss+xml"/><description>NER</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>NER</title><link>https://portfolio.sprintjudicial.com/tags/ner/</link></image><item><title>Sherlock-docs - Procesamiento Inteligente de Documentos Judiciales</title><link>https://portfolio.sprintjudicial.com/project/sherlock-docs/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/sherlock-docs/</guid><description>&lt;p>&lt;strong>Sherlock-docs&lt;/strong> es un sistema de procesamiento inteligente de documentos judiciales (tutelas y habeas corpus) que combina OCR, reconocimiento de entidades nombradas (NER) y deteccion de duplicados. Todo el procesamiento es 100% local, sin envio de datos a APIs externas.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>OCR Hibrido&lt;/strong>: PaddleOCR + Tesseract para documentos escaneados y digitales&lt;/li>
+&lt;li>&lt;strong>NER Legal&lt;/strong>: Extraccion de entidades con SpaCy, F1 score de 85.3% validado por humanos&lt;/li>
+&lt;li>&lt;strong>Deteccion de Duplicados Multinivel&lt;/strong>: Hash SHA-256, LZJD fuzzy hash, TF-IDF, Sentence-Transformers&lt;/li>
+&lt;li>&lt;strong>Busqueda Avanzada&lt;/strong>: SQLite FTS5 full-text search con filtrado avanzado&lt;/li>
+&lt;li>&lt;strong>API REST Completa&lt;/strong>: 22 endpoints FastAPI con autenticacion JWT y documentacion Swagger&lt;/li>
+&lt;li>&lt;strong>Interfaz Grafica&lt;/strong>: 9 paginas Streamlit para gestion interactiva de documentos&lt;/li>
+&lt;li>&lt;strong>CLI&lt;/strong>: 20 comandos para operaciones por lotes&lt;/li>
+&lt;li>&lt;strong>Aprendizaje Activo&lt;/strong>: Interfaz para validacion humana de entidades NER&lt;/li>
+&lt;li>&lt;strong>Exportacion&lt;/strong>: Generacion de reportes en Excel&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12.4, FastAPI, Pydantic&lt;/li>
+&lt;li>&lt;strong>OCR&lt;/strong>: PaddleOCR + Tesseract&lt;/li>
+&lt;li>&lt;strong>NLP/NER&lt;/strong>: SpaCy (modelo espanol legal)&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: SQLite + FTS5 (33 columnas, 11 indices, WAL mode)&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (9 paginas)&lt;/li>
+&lt;li>&lt;strong>Arquitectura&lt;/strong>: Clean Architecture por capas, Result-Oriented Programming (returns)&lt;/li>
+&lt;li>&lt;strong>Seguridad&lt;/strong>: JWT, RBAC, rate limiting, security headers&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Docker, Easypanel, GitHub Webhook automatizado&lt;/li>
+&lt;/ul>
+&lt;h2 id="arquitectura">Arquitectura&lt;/h2>
+&lt;p>5 capas con ServiceContainer (14 propiedades lazy-loaded):&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Core&lt;/strong>: Entidades, value objects&lt;/li>
+&lt;li>&lt;strong>Application&lt;/strong>: Casos de uso, DTOs, ServiceContainer&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: OCR, NER, deduplicacion, logging&lt;/li>
+&lt;li>&lt;strong>Persistence&lt;/strong>: SQLite + FTS5 con puertos ISP&lt;/li>
+&lt;li>&lt;strong>Interfaces&lt;/strong>: Streamlit GUI, CLI (20 comandos), FastAPI REST (22 endpoints)&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>1,832 tests&lt;/strong> (1,770 unitarios + 62 integracion) con &lt;strong>87% de cobertura&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>NER F1 85.3%&lt;/strong> con datos validados por operadores humanos&lt;/li>
+&lt;li>&lt;strong>22 endpoints REST&lt;/strong> documentados y funcionales&lt;/li>
+&lt;li>&lt;strong>16/16 SECs de seguridad&lt;/strong> + 4 SEC-API implementados&lt;/li>
+&lt;li>&lt;strong>9 sprints&lt;/strong> completados (S23-S28) con 30 documentos de planning&lt;/li>
+&lt;li>&lt;strong>mypy 0 errores&lt;/strong> en modo estricto sobre 130 archivos&lt;/li>
+&lt;li>&lt;strong>Auditoria SDD certificada&lt;/strong>: 39 conformes, 0 defectos&lt;/li>
+&lt;li>&lt;strong>Calidad de codigo&lt;/strong>: 9.1/10&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Sherlock-docs procesa ~100 documentos/dia con un objetivo de rendimiento de &amp;lt;2 minutos para documentos de 20 paginas y &amp;lt;100ms para documentos digitales, eliminando la clasificacion manual de documentos judiciales y detectando automaticamente documentos duplicados.&lt;/p>
+&lt;p>Este sistema nace de la necesidad de automatizar el registro y clasificacion de tutelas y habeas corpus en el sistema judicial colombiano, donde la deteccion de duplicados y la extraccion precisa de informacion de partes procesales son criticas para la eficiencia del despacho judicial.&lt;/p></description></item></channel></rss>

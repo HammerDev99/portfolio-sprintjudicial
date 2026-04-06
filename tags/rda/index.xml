@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RDA | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/rda/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/rda/index.xml" rel="self" type="application/rss+xml"/><description>RDA</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>RDA</title><link>https://portfolio.sprintjudicial.com/tags/rda/</link></image><item><title>Gestion de Expediente Electronico</title><link>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</guid><description>&lt;p>&lt;strong>Gestion de Expediente Electronico&lt;/strong> es un sistema desarrollado para automatizar la conformacion del expediente electronico en todas las dependencias de la Rama Judicial de Colombia. El proyecto ha evolucionado a traves de dos versiones principales.&lt;/p>
+&lt;h2 id="version-1---aplicacion-desktop-2022">Version 1 - Aplicacion Desktop (2022)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Arquitectura MVC&lt;/strong>: Patron Modelo-Vista-Controlador&lt;/li>
+&lt;li>&lt;strong>Interfaz Grafica&lt;/strong>: tkinter para operadores judiciales&lt;/li>
+&lt;li>&lt;strong>Procesamiento PDF&lt;/strong>: pypdf2 para manipulacion de documentos procesales&lt;/li>
+&lt;li>&lt;strong>Integracion Excel&lt;/strong>: xlwings y pandas para manipulacion de datos&lt;/li>
+&lt;li>&lt;strong>Lenguaje&lt;/strong>: Python 3.9.6&lt;/li>
+&lt;/ul>
+&lt;h2 id="version-2---rda--streamlit-2024">Version 2 - RDA + Streamlit (2024)&lt;/h2>
+&lt;p>La segunda version combina Automatizacion Robotica de Escritorio (RDA) con tecnologias modernas:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Frontend Web&lt;/strong>: Streamlit desplegado en la nube (&lt;a href="https://gestionexpedienteelectronico.streamlit.app/" target="_blank" rel="noopener">App en vivo&lt;/a>)&lt;/li>
+&lt;li>&lt;strong>RDA&lt;/strong>: Automatizacion robotica de escritorio para interaccion con sistemas legados&lt;/li>
+&lt;li>&lt;strong>Procesamiento Avanzado&lt;/strong>: Integracion con tecnologias modernas de procesamiento documental&lt;/li>
+&lt;/ul>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Automatizacion Completa&lt;/strong>: Elimina operaciones manuales de conformacion de expedientes&lt;/li>
+&lt;li>&lt;strong>Procesamiento de PDFs&lt;/strong>: Organizacion, renombrado y estructuracion automatica&lt;/li>
+&lt;li>&lt;strong>Integracion Judicial&lt;/strong>: Disenada para el flujo de trabajo especifico de la Rama Judicial&lt;/li>
+&lt;li>&lt;strong>Acceso Web&lt;/strong>: Version 2 accesible desde cualquier navegador&lt;/li>
+&lt;li>&lt;strong>Facilidad de Uso&lt;/strong>: Interfaz intuitiva para operadores judiciales sin conocimiento tecnico&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;p>&lt;strong>Disminucion del ~200% en el tiempo&lt;/strong> de protocolizacion de expedientes electronicos, optimizando significativamente la eficiencia operacional en dependencias judiciales a nivel nacional.&lt;/p>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Este proyecto asiste las operaciones manuales de conformacion del expediente electronico, automatizando procesos repetitivos y reduciendo drasticamente los tiempos de procesamiento. La Version 2 amplifica este impacto al ser accesible desde la nube.&lt;/p>
+&lt;p>La evolucion de este sistema refleja el crecimiento tecnologico del autor: desde una aplicacion desktop con tkinter hasta una solucion web moderna con Streamlit y RDA, manteniendo siempre el enfoque en resolver problemas reales de los operadores judiciales colombianos. Repositorios: &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">Version 1&lt;/a> | &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico" target="_blank" rel="noopener">Version 2&lt;/a>&lt;/p></description></item></channel></rss>

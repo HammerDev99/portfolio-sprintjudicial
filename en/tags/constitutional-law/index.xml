@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Constitutional Law | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/constitutional-law/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/constitutional-law/index.xml" rel="self" type="application/rss+xml"/><description>Constitutional Law</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Constitutional Law</title><link>https://portfolio.sprintjudicial.com/en/tags/constitutional-law/</link></image><item><title>TutelaBot - Fundamental Rights Assistant</title><link>https://portfolio.sprintjudicial.com/en/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tutelabot/</guid><description>&lt;p>&lt;strong>TutelaBot&lt;/strong> is a virtual assistant specialized in Colombian constitutional mechanisms for the protection of fundamental rights: the Accion de Tutela (constitutional protection action) and the Derecho de Peticion (right to petition).&lt;/p>
+&lt;h2 id="knowledge-base">Knowledge Base&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Political Constitution of Colombia 1991&lt;/strong>: Relevant articles on fundamental rights&lt;/li>
+&lt;li>&lt;strong>Decree 2591 of 1991&lt;/strong>: Regulation of the Accion de Tutela&lt;/li>
+&lt;/ul>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Tutela Guidance&lt;/strong>: Assistance on requirements, procedures, deadlines, and scope of the Accion de Tutela&lt;/li>
+&lt;li>&lt;strong>Right to Petition&lt;/strong>: Support on how to exercise the right to petition before public and private entities&lt;/li>
+&lt;li>&lt;strong>Legal Foundation&lt;/strong>: Responses grounded in current constitutional regulations&lt;/li>
+&lt;li>&lt;strong>Accessible Language&lt;/strong>: Clear explanations for citizens without legal training&lt;/li>
+&lt;li>&lt;strong>Conversational Interaction&lt;/strong>: Natural dialogue to resolve legal questions&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: Language model with Colombian constitutional knowledge&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>TutelaBot democratizes access to information about fundamental rights protection mechanisms, enabling any citizen to understand how to exercise their constitutional rights without the need for prior legal counsel.&lt;/p>
+&lt;p>This project stems from the conviction that technology can reduce the justice access gap by providing basic legal guidance on the most widely used mechanisms by Colombian citizens to protect their fundamental rights.&lt;/p></description></item></channel></rss>

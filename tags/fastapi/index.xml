@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FastAPI | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/fastapi/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/fastapi/index.xml" rel="self" type="application/rss+xml"/><description>FastAPI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>FastAPI</title><link>https://portfolio.sprintjudicial.com/tags/fastapi/</link></image><item><title>FocusCoach - Coaching con IA y Metodologia DISC</title><link>https://portfolio.sprintjudicial.com/project/focuscoach/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/focuscoach/</guid><description>&lt;p>&lt;strong>FocusCoach&lt;/strong> es una plataforma de coaching personalizado basada en inteligencia artificial y la metodologia de perfiles de personalidad DISC, disenada para ayudar a emprendedores (especialmente perfiles alta-I) a prevenir el abandono de proyectos.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Coaching Adaptativo&lt;/strong>: Sesiones personalizadas segun el perfil DISC del usuario&lt;/li>
+&lt;li>&lt;strong>Framework FOCUS-SPRINT&lt;/strong>: Metodologia propia para gestion de proyectos por sprints&lt;/li>
+&lt;li>&lt;strong>Parking Lot&lt;/strong>: Sistema de gestion de ideas para evitar distracciones&lt;/li>
+&lt;li>&lt;strong>Gamificacion DISC&lt;/strong>: Sistema de recompensas adaptado al perfil de personalidad&lt;/li>
+&lt;li>&lt;strong>Aprendizaje Activo&lt;/strong>: La IA aprende de las interacciones para mejorar las recomendaciones&lt;/li>
+&lt;li>&lt;strong>OCR de Documentos&lt;/strong>: Procesamiento de documentos con Mistral AI OCR&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12, FastAPI 0.115, Pydantic v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit 1.41&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: OpenAI Assistants API, LangChain&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: SQLite + FTS5 (WAL mode)&lt;/li>
+&lt;li>&lt;strong>Arquitectura&lt;/strong>: Clean Architecture (5 capas), DI, Railway-Oriented Programming (returns)&lt;/li>
+&lt;li>&lt;strong>Calidad&lt;/strong>: pytest + hypothesis, ruff, mypy &amp;ndash;strict&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Docker (2-stage build)&lt;/li>
+&lt;/ul>
+&lt;h2 id="arquitectura">Arquitectura&lt;/h2>
+&lt;p>Implementacion de Clean Architecture con 5 capas y patrones avanzados:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Strategy Pattern&lt;/strong> para adaptar coaching segun perfil DISC&lt;/li>
+&lt;li>&lt;strong>Dependency Injection&lt;/strong> para desacoplamiento de servicios&lt;/li>
+&lt;li>&lt;strong>Railway-Oriented Programming&lt;/strong> (Result[T, E]) para manejo de errores&lt;/li>
+&lt;li>&lt;strong>28 notebooks&lt;/strong> experimentales validando 8 MVPs antes de implementacion&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>46 tests&lt;/strong> pasando con type checking estricto (mypy &amp;ndash;strict)&lt;/li>
+&lt;li>&lt;strong>8 MVPs validados&lt;/strong> en notebooks antes de migracion a produccion&lt;/li>
+&lt;li>&lt;strong>5 capas arquitectonicas&lt;/strong> implementadas con DI completo&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>FocusCoach aborda un problema comun en emprendedores: el abandono de proyectos por falta de enfoque y estructura. Al personalizar el coaching segun la personalidad DISC, la plataforma ofrece estrategias que resuenan con el estilo cognitivo de cada usuario.&lt;/p>
+&lt;p>Este proyecto combina conocimientos de psicologia organizacional (metodologia DISC), ingenieria de software (Clean Architecture) e inteligencia artificial (LLMs + RAG) para crear una herramienta innovadora de productividad personal.&lt;/p></description></item><item><title>SIRAL - Sistema de Registro de Acoso Laboral</title><link>https://portfolio.sprintjudicial.com/project/siral-system/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/siral-system/</guid><description>&lt;p>&lt;strong>SIRAL&lt;/strong> es una plataforma integral para la gestion de quejas de acoso laboral en la Rama Judicial de Colombia, desarrollada en cumplimiento de la Ley 1010/2006, Ley 1581/2012 (Habeas Data), Resolucion 3461/2025 y la Ley de Archivo General.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Radicacion de Quejas&lt;/strong>: Flujo de registro en 4 pasos con identificacion obligatoria de partes involucradas&lt;/li>
+&lt;li>&lt;strong>Control de Acceso por Roles (RBAC)&lt;/strong>: 5 roles diferenciados (Superadmin, Admin CCL, Miembro CCL, Funcionario, Publico)&lt;/li>
+&lt;li>&lt;strong>Flujo de Resolucion&lt;/strong>: Gestion de estados con plazo de 6 meses segun Resolucion 3461/2025&lt;/li>
+&lt;li>&lt;strong>Cadena de Custodia&lt;/strong>: Hash SHA-256 inmutable para evidencia digital&lt;/li>
+&lt;li>&lt;strong>Notificaciones Digitales&lt;/strong>: Comunicacion automatizada al presunto acosador (Ley 2213/2022)&lt;/li>
+&lt;li>&lt;strong>Actas de Comite&lt;/strong>: Registro y gestion de actas del Comite de Convivencia Laboral&lt;/li>
+&lt;li>&lt;strong>Estadisticas Anonimizadas&lt;/strong>: Reportes publicos sin datos personales&lt;/li>
+&lt;li>&lt;strong>Retencion Documental&lt;/strong>: Conservacion de 20 anos conforme a la Ley de Archivo General&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12+, FastAPI, Pydantic v2, SQLAlchemy 2.0 (async)&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: PostgreSQL 16&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (10 paginas + sidebar + timeline + graficos)&lt;/li>
+&lt;li>&lt;strong>Seguridad&lt;/strong>: JWT (python-jose, 15 min expiracion), bcrypt, RBAC, OWASP Top 10&lt;/li>
+&lt;li>&lt;strong>Infraestructura&lt;/strong>: Docker Swarm, EasyPanel, Traefik (HTTPS), GHCR&lt;/li>
+&lt;li>&lt;strong>CI/CD&lt;/strong>: GitHub Actions (6 jobs: lint + test + build + deploy)&lt;/li>
+&lt;li>&lt;strong>Calidad&lt;/strong>: pytest, ruff, mypy, bandit&lt;/li>
+&lt;/ul>
+&lt;h2 id="arquitectura">Arquitectura&lt;/h2>
+&lt;p>Arquitectura por capas siguiendo Clean Architecture:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Core&lt;/strong>: Entidades de dominio, value objects, enums&lt;/li>
+&lt;li>&lt;strong>Application&lt;/strong>: Casos de uso, DTOs (frozen dataclasses), puertos de servicio&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: Persistencia, seguridad, notificaciones, almacenamiento&lt;/li>
+&lt;li>&lt;strong>Interfaces&lt;/strong>: Rutas FastAPI (9 endpoints + Swagger), GUI Streamlit&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>283 tests&lt;/strong> pasando al 100% con quality gates completos (pytest + ruff + mypy + bandit)&lt;/li>
+&lt;li>&lt;strong>99 archivos fuente&lt;/strong> Python en src/&lt;/li>
+&lt;li>&lt;strong>6 casos de uso&lt;/strong> implementados (radicar, cambiar estado, consultar, listar, detalle, actas)&lt;/li>
+&lt;li>&lt;strong>55 hallazgos de auditoria&lt;/strong> resueltos al 100% (5 agentes de revision)&lt;/li>
+&lt;li>&lt;strong>10 documentos de planning&lt;/strong> (P00-P09) y 4 sprints completados&lt;/li>
+&lt;li>&lt;strong>Seguridad&lt;/strong>: OWASP Top 10 remediado, CSP, HSTS, sanitizacion de paths&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Este sistema digitaliza completamente el proceso de gestion de acoso laboral en la Rama Judicial, garantizando el cumplimiento normativo, la trazabilidad de cada accion y la proteccion de datos personales de las partes involucradas.&lt;/p>
+&lt;p>SIRAL surge de la necesidad de formalizar y sistematizar el proceso de quejas de acoso laboral en el Centro de Servicios Judiciales de la Seccional Antioquia, reemplazando procesos manuales propensos a errores y demoras con una solucion tecnologica robusta y auditable.&lt;/p></description></item><item><title>Sherlock-docs - Procesamiento Inteligente de Documentos Judiciales</title><link>https://portfolio.sprintjudicial.com/project/sherlock-docs/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/sherlock-docs/</guid><description>&lt;p>&lt;strong>Sherlock-docs&lt;/strong> es un sistema de procesamiento inteligente de documentos judiciales (tutelas y habeas corpus) que combina OCR, reconocimiento de entidades nombradas (NER) y deteccion de duplicados. Todo el procesamiento es 100% local, sin envio de datos a APIs externas.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>OCR Hibrido&lt;/strong>: PaddleOCR + Tesseract para documentos escaneados y digitales&lt;/li>
+&lt;li>&lt;strong>NER Legal&lt;/strong>: Extraccion de entidades con SpaCy, F1 score de 85.3% validado por humanos&lt;/li>
+&lt;li>&lt;strong>Deteccion de Duplicados Multinivel&lt;/strong>: Hash SHA-256, LZJD fuzzy hash, TF-IDF, Sentence-Transformers&lt;/li>
+&lt;li>&lt;strong>Busqueda Avanzada&lt;/strong>: SQLite FTS5 full-text search con filtrado avanzado&lt;/li>
+&lt;li>&lt;strong>API REST Completa&lt;/strong>: 22 endpoints FastAPI con autenticacion JWT y documentacion Swagger&lt;/li>
+&lt;li>&lt;strong>Interfaz Grafica&lt;/strong>: 9 paginas Streamlit para gestion interactiva de documentos&lt;/li>
+&lt;li>&lt;strong>CLI&lt;/strong>: 20 comandos para operaciones por lotes&lt;/li>
+&lt;li>&lt;strong>Aprendizaje Activo&lt;/strong>: Interfaz para validacion humana de entidades NER&lt;/li>
+&lt;li>&lt;strong>Exportacion&lt;/strong>: Generacion de reportes en Excel&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12.4, FastAPI, Pydantic&lt;/li>
+&lt;li>&lt;strong>OCR&lt;/strong>: PaddleOCR + Tesseract&lt;/li>
+&lt;li>&lt;strong>NLP/NER&lt;/strong>: SpaCy (modelo espanol legal)&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: SQLite + FTS5 (33 columnas, 11 indices, WAL mode)&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (9 paginas)&lt;/li>
+&lt;li>&lt;strong>Arquitectura&lt;/strong>: Clean Architecture por capas, Result-Oriented Programming (returns)&lt;/li>
+&lt;li>&lt;strong>Seguridad&lt;/strong>: JWT, RBAC, rate limiting, security headers&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Docker, Easypanel, GitHub Webhook automatizado&lt;/li>
+&lt;/ul>
+&lt;h2 id="arquitectura">Arquitectura&lt;/h2>
+&lt;p>5 capas con ServiceContainer (14 propiedades lazy-loaded):&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Core&lt;/strong>: Entidades, value objects&lt;/li>
+&lt;li>&lt;strong>Application&lt;/strong>: Casos de uso, DTOs, ServiceContainer&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: OCR, NER, deduplicacion, logging&lt;/li>
+&lt;li>&lt;strong>Persistence&lt;/strong>: SQLite + FTS5 con puertos ISP&lt;/li>
+&lt;li>&lt;strong>Interfaces&lt;/strong>: Streamlit GUI, CLI (20 comandos), FastAPI REST (22 endpoints)&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>1,832 tests&lt;/strong> (1,770 unitarios + 62 integracion) con &lt;strong>87% de cobertura&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>NER F1 85.3%&lt;/strong> con datos validados por operadores humanos&lt;/li>
+&lt;li>&lt;strong>22 endpoints REST&lt;/strong> documentados y funcionales&lt;/li>
+&lt;li>&lt;strong>16/16 SECs de seguridad&lt;/strong> + 4 SEC-API implementados&lt;/li>
+&lt;li>&lt;strong>9 sprints&lt;/strong> completados (S23-S28) con 30 documentos de planning&lt;/li>
+&lt;li>&lt;strong>mypy 0 errores&lt;/strong> en modo estricto sobre 130 archivos&lt;/li>
+&lt;li>&lt;strong>Auditoria SDD certificada&lt;/strong>: 39 conformes, 0 defectos&lt;/li>
+&lt;li>&lt;strong>Calidad de codigo&lt;/strong>: 9.1/10&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Sherlock-docs procesa ~100 documentos/dia con un objetivo de rendimiento de &amp;lt;2 minutos para documentos de 20 paginas y &amp;lt;100ms para documentos digitales, eliminando la clasificacion manual de documentos judiciales y detectando automaticamente documentos duplicados.&lt;/p>
+&lt;p>Este sistema nace de la necesidad de automatizar el registro y clasificacion de tutelas y habeas corpus en el sistema judicial colombiano, donde la deteccion de duplicados y la extraccion precisa de informacion de partes procesales son criticas para la eficiencia del despacho judicial.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>API | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/api/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/api/index.xml" rel="self" type="application/rss+xml"/><description>API</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>API</title><link>https://portfolio.sprintjudicial.com/en/tags/api/</link></image><item><title>GexCom - Judicial Communications Management System</title><link>https://portfolio.sprintjudicial.com/en/project/gexcom/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gexcom/</guid><description>&lt;p>&lt;strong>GexCom&lt;/strong> is a communications management system developed to streamline and improve the accuracy of procedural party communications within the judicial system.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Communication Automation&lt;/strong>: Automated management of hearing citations&lt;/li>
+&lt;li>&lt;strong>API Integration&lt;/strong>: Message delivery through specialized APIs&lt;/li>
+&lt;li>&lt;strong>Format Management&lt;/strong>: Automated creation of referrals and postal mail formats&lt;/li>
+&lt;li>&lt;strong>Intelligent Storage&lt;/strong>: Database for relevant notification information&lt;/li>
+&lt;li>&lt;strong>Process Standardization&lt;/strong>: Uniformization of administrative procedures&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3&lt;/li>
+&lt;li>&lt;strong>Database&lt;/strong>: SQLite&lt;/li>
+&lt;li>&lt;strong>Version Control&lt;/strong>: Git and GitHub&lt;/li>
+&lt;li>&lt;strong>IDE&lt;/strong>: Visual Studio Code&lt;/li>
+&lt;li>&lt;strong>APIs&lt;/strong>: Integration with messaging services&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;p>Significant improvement in the efficiency and accuracy of communications management, specifically in the citation of parties to scheduled hearings and communications requested by Judicial Branch dependencies.&lt;/p>
+&lt;p>This project arose from the need to optimize the exhaustive operations in the judicial communications process, providing a technology solution that standardizes and automates the most critical administrative processes in the Colombian judicial system.&lt;/p></description></item></channel></rss>

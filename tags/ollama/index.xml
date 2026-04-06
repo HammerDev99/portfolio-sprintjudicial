@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ollama | Daniel Arbelaez Alvarez</title>
+    <link>https://portfolio.sprintjudicial.com/tags/ollama/</link>
+      <atom:link href="https://portfolio.sprintjudicial.com/tags/ollama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ollama</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url>
+      <title>Ollama</title>
+      <link>https://portfolio.sprintjudicial.com/tags/ollama/</link>
+    </image>
+    
+    <item>
+      <title>MALLO - Orquestador Multi-Agente de LLMs</title>
+      <link>https://portfolio.sprintjudicial.com/project/mallo/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.sprintjudicial.com/project/mallo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;MALLO&lt;/strong&gt; (MultiAgent LLM Orchestrator) es un sistema avanzado de orquestacion de multiples agentes de modelos de lenguaje de gran escala. Disenado para manejar consultas complejas, utiliza una variedad de agentes que van desde modelos locales hasta asistentes especializados y APIs de terceros.&lt;/p&gt;
+&lt;h2 id=&#34;caracteristicas-principales&#34;&gt;Caracteristicas Principales&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Seleccion Dinamica&lt;/strong&gt;: Enrutamiento inteligente de consultas al agente mas apropiado&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modelos Locales&lt;/strong&gt;: Integracion con Ollama para ejecucion de modelos en hardware local&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-Proveedor&lt;/strong&gt;: Soporte para OpenAI, Anthropic, Groq, Together, DeepInfra, Mistral, Coherence&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Agentes Especializados&lt;/strong&gt;: Cada agente optimizado para tipos especificos de tareas&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Escalabilidad&lt;/strong&gt;: Arquitectura disenada para agregar nuevos proveedores y modelos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tecnologias-utilizadas&#34;&gt;Tecnologias Utilizadas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lenguaje&lt;/strong&gt;: Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modelos Locales&lt;/strong&gt;: Ollama&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;APIs Cloud&lt;/strong&gt;: OpenAI, Anthropic Claude, Groq, Together AI, DeepInfra, Mistral AI, Coherence&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Orquestacion&lt;/strong&gt;: Sistema de enrutamiento personalizado&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impacto&#34;&gt;Impacto&lt;/h2&gt;
+&lt;p&gt;MALLO demuestra la capacidad de disenar sistemas complejos de orquestacion de IA que combinan lo mejor de los modelos locales (privacidad, costo) con las capacidades de APIs cloud (rendimiento, especializacion), ofreciendo una solucion flexible para diferentes escenarios de uso.&lt;/p&gt;
+&lt;p&gt;Este proyecto explora el paradigma emergente de sistemas multi-agente donde multiples LLMs colaboran para resolver problemas que ningun modelo individual podria abordar de manera optima.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

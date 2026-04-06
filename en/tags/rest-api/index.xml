@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>REST API | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/rest-api/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/rest-api/index.xml" rel="self" type="application/rss+xml"/><description>REST API</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>REST API</title><link>https://portfolio.sprintjudicial.com/en/tags/rest-api/</link></image><item><title>API Consumer - Judicial Data Extraction</title><link>https://portfolio.sprintjudicial.com/en/project/rama-judicial-api/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/rama-judicial-api/</guid><description>&lt;p>&lt;strong>Rama Judicial API Consumer&lt;/strong> is an ETL (Extract, Transform, Load) system that consumes the Colombian Judicial Branch&amp;rsquo;s public REST API to extract judicial process information, including PDF documents, and transform it into structured text format for analysis.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>REST API Consumption&lt;/strong>: Integration with the Judicial Branch&amp;rsquo;s public API&lt;/li>
+&lt;li>&lt;strong>PDF Extraction&lt;/strong>: Automatic download and parsing of procedural documents&lt;/li>
+&lt;li>&lt;strong>Rate Limiting&lt;/strong>: Request throttling to respect API limits&lt;/li>
+&lt;li>&lt;strong>Text Transformation&lt;/strong>: Conversion of PDFs to structured plain text&lt;/li>
+&lt;li>&lt;strong>Error Handling&lt;/strong>: Automatic retries and failure logging&lt;/li>
+&lt;li>&lt;strong>Caching&lt;/strong>: Local storage of responses to avoid redundant requests&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Language&lt;/strong>: TypeScript&lt;/li>
+&lt;li>&lt;strong>Runtime&lt;/strong>: Node.js&lt;/li>
+&lt;li>&lt;strong>HTTP Client&lt;/strong>: axios&lt;/li>
+&lt;li>&lt;strong>Rate Limiting&lt;/strong>: p-limit&lt;/li>
+&lt;li>&lt;strong>PDF Parsing&lt;/strong>: pdf-parse&lt;/li>
+&lt;li>&lt;strong>Output&lt;/strong>: Structured TXT files&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This system enables automated extraction of judicial data for statistical analysis and data mining, facilitating research on procedural patterns and report generation based on public information from the Judicial Branch.&lt;/p>
+&lt;p>Developed as a data pipeline to feed statistical analyses and intelligence tools on Colombian judicial processes, demonstrating integration capabilities with government APIs and document processing.&lt;/p></description></item></channel></rss>

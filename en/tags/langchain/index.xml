@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LangChain | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/langchain/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/langchain/index.xml" rel="self" type="application/rss+xml"/><description>LangChain</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>LangChain</title><link>https://portfolio.sprintjudicial.com/en/tags/langchain/</link></image><item><title>FocusCoach - AI Coaching with DISC Methodology</title><link>https://portfolio.sprintjudicial.com/en/project/focuscoach/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/focuscoach/</guid><description>&lt;p>&lt;strong>FocusCoach&lt;/strong> is a personalized coaching platform powered by artificial intelligence and the DISC personality profiling methodology, designed to help entrepreneurs (especially high-I profiles) prevent project abandonment.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Adaptive Coaching&lt;/strong>: Personalized sessions based on the user&amp;rsquo;s DISC profile&lt;/li>
+&lt;li>&lt;strong>FOCUS-SPRINT Framework&lt;/strong>: Proprietary methodology for sprint-based project management&lt;/li>
+&lt;li>&lt;strong>Parking Lot&lt;/strong>: Idea management system to avoid distractions&lt;/li>
+&lt;li>&lt;strong>DISC Gamification&lt;/strong>: Reward system adapted to the user&amp;rsquo;s personality profile&lt;/li>
+&lt;li>&lt;strong>Active Learning&lt;/strong>: The AI learns from interactions to improve recommendations&lt;/li>
+&lt;li>&lt;strong>Document OCR&lt;/strong>: Document processing with Mistral AI OCR&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12, FastAPI 0.115, Pydantic v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit 1.41&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: OpenAI Assistants API, LangChain&lt;/li>
+&lt;li>&lt;strong>Database&lt;/strong>: SQLite + FTS5 (WAL mode)&lt;/li>
+&lt;li>&lt;strong>Architecture&lt;/strong>: Clean Architecture (5 layers), DI, Railway-Oriented Programming (returns)&lt;/li>
+&lt;li>&lt;strong>Quality&lt;/strong>: pytest + hypothesis, ruff, mypy &amp;ndash;strict&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Docker (2-stage build)&lt;/li>
+&lt;/ul>
+&lt;h2 id="architecture">Architecture&lt;/h2>
+&lt;p>Clean Architecture implementation with 5 layers and advanced patterns:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Strategy Pattern&lt;/strong> for adapting coaching based on DISC profile&lt;/li>
+&lt;li>&lt;strong>Dependency Injection&lt;/strong> for service decoupling&lt;/li>
+&lt;li>&lt;strong>Railway-Oriented Programming&lt;/strong> (Result[T, E]) for error handling&lt;/li>
+&lt;li>&lt;strong>28 experimental notebooks&lt;/strong> validating 8 MVPs before implementation&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>46 tests&lt;/strong> passing with strict type checking (mypy &amp;ndash;strict)&lt;/li>
+&lt;li>&lt;strong>8 validated MVPs&lt;/strong> in notebooks before migration to production&lt;/li>
+&lt;li>&lt;strong>5 architectural layers&lt;/strong> implemented with complete DI&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>FocusCoach addresses a common problem among entrepreneurs: project abandonment due to lack of focus and structure. By personalizing coaching according to DISC personality, the platform offers strategies that resonate with each user&amp;rsquo;s cognitive style.&lt;/p>
+&lt;p>This project combines knowledge from organizational psychology (DISC methodology), software engineering (Clean Architecture), and artificial intelligence (LLMs + RAG) to create an innovative personal productivity tool.&lt;/p></description></item></channel></rss>

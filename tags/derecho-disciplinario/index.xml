@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Derecho Disciplinario | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/derecho-disciplinario/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/derecho-disciplinario/index.xml" rel="self" type="application/rss+xml"/><description>Derecho Disciplinario</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Derecho Disciplinario</title><link>https://portfolio.sprintjudicial.com/tags/derecho-disciplinario/</link></image><item><title>DisciplinaJudicial AI - Orientacion en Procesos Disciplinarios</title><link>https://portfolio.sprintjudicial.com/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/disciplina-judicial-ai/</guid><description>&lt;p>&lt;strong>DisciplinaJudicial AI&lt;/strong> es un asistente de inteligencia artificial especializado en procesos disciplinarios para servidores judiciales de Colombia, proporcionando orientacion sobre el regimen disciplinario, faltas, sanciones y derechos.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Regimen Disciplinario&lt;/strong>: Orientacion sobre el marco normativo disciplinario para servidores judiciales&lt;/li>
+&lt;li>&lt;strong>Tipificacion de Faltas&lt;/strong>: Guia sobre clasificacion y gravedad de faltas disciplinarias&lt;/li>
+&lt;li>&lt;strong>Procedimiento Disciplinario&lt;/strong>: Asistencia sobre etapas y terminos del proceso&lt;/li>
+&lt;li>&lt;strong>Sanciones&lt;/strong>: Informacion sobre tipos de sanciones y sus implicaciones&lt;/li>
+&lt;li>&lt;strong>Derechos del Investigado&lt;/strong>: Orientacion sobre garantias procesales&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: Modelo de lenguaje con base de conocimiento en derecho disciplinario judicial&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>DisciplinaJudicial AI facilita el acceso a informacion sobre el regimen disciplinario judicial, ayudando a servidores judiciales a comprender sus obligaciones, derechos y las consecuencias del incumplimiento de sus deberes funcionales.&lt;/p>
+&lt;p>Este asistente nace de la necesidad de brindar orientacion accesible sobre un area del derecho altamente especializada, donde la informacion suele ser fragmentada y dificil de interpretar para funcionarios sin formacion juridica profunda.&lt;/p></description></item></channel></rss>

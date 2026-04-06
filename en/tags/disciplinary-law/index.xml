@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Disciplinary Law | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/disciplinary-law/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/disciplinary-law/index.xml" rel="self" type="application/rss+xml"/><description>Disciplinary Law</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Disciplinary Law</title><link>https://portfolio.sprintjudicial.com/en/tags/disciplinary-law/</link></image><item><title>DisciplinaJudicial AI - Judicial Discipline Process Guidance</title><link>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</guid><description>&lt;p>&lt;strong>DisciplinaJudicial AI&lt;/strong> is an artificial intelligence assistant specialized in disciplinary processes for Colombian judicial servers, providing guidance on the disciplinary regime, offenses, sanctions, and rights.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Disciplinary Regime&lt;/strong>: Guidance on the regulatory framework for judicial server discipline&lt;/li>
+&lt;li>&lt;strong>Offense Classification&lt;/strong>: Assistance on the categorization and severity of disciplinary offenses&lt;/li>
+&lt;li>&lt;strong>Disciplinary Procedure&lt;/strong>: Support on stages and deadlines of the process&lt;/li>
+&lt;li>&lt;strong>Sanctions&lt;/strong>: Information on types of sanctions and their implications&lt;/li>
+&lt;li>&lt;strong>Rights of the Investigated&lt;/strong>: Guidance on procedural guarantees&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: Language model with a knowledge base in judicial disciplinary law&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>DisciplinaJudicial AI facilitates access to information about the judicial disciplinary regime, helping judicial servers understand their obligations, rights, and the consequences of failing to fulfill their functional duties.&lt;/p>
+&lt;p>This assistant was born from the need to provide accessible guidance in a highly specialized area of law, where information is often fragmented and difficult to interpret for officials without deep legal training.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docassemble | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/docassemble/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/docassemble/index.xml" rel="self" type="application/rss+xml"/><description>Docassemble</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Docassemble</title><link>https://portfolio.sprintjudicial.com/tags/docassemble/</link></image><item><title>Docassemble Expert - Automatizacion de Documentos Legales</title><link>https://portfolio.sprintjudicial.com/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/docassemble-expert/</guid><description>&lt;p>&lt;strong>Docassemble Expert&lt;/strong> es un asistente especializado en el framework Docassemble, disenado para ayudar a desarrolladores, abogados y organizaciones a crear entrevistas web automatizadas y sistemas de generacion de documentos legales.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Expertise en YAML&lt;/strong>: Conocimiento avanzado de la sintaxis YAML de Docassemble&lt;/li>
+&lt;li>&lt;strong>Diseno de Entrevistas&lt;/strong>: Patrones para crear entrevistas web guiadas&lt;/li>
+&lt;li>&lt;strong>Generacion Documental&lt;/strong>: Automatizacion de creacion de documentos legales&lt;/li>
+&lt;li>&lt;strong>Mejores Practicas&lt;/strong>: Guia sobre patrones de diseno y arquitectura de formularios&lt;/li>
+&lt;li>&lt;strong>Logica Condicional&lt;/strong>: Asistencia en flujos de entrevista complejos con ramificacion&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Framework&lt;/strong>: Docassemble (sistema experto de codigo abierto)&lt;/li>
+&lt;li>&lt;strong>Lenguaje de Configuracion&lt;/strong>: YAML&lt;/li>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python&lt;/li>
+&lt;li>&lt;strong>Documentacion&lt;/strong>: Markdown&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Docassemble Expert facilita la adopcion de herramientas de automatizacion documental en el sector legal, reduciendo la barrera tecnica para abogados y organizaciones que buscan digitalizar sus procesos de generacion de documentos.&lt;/p>
+&lt;p>Este proyecto apoya la vision de democratizar la automatizacion legal, permitiendo que profesionales del derecho creen sus propias herramientas de generacion de documentos sin necesidad de conocimiento profundo en programacion.&lt;/p></description></item></channel></rss>

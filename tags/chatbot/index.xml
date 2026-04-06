@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chatbot | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/chatbot/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/chatbot/index.xml" rel="self" type="application/rss+xml"/><description>Chatbot</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Chatbot</title><link>https://portfolio.sprintjudicial.com/tags/chatbot/</link></image><item><title>TYBABot - Asistente Virtual para Justicia XXI Web</title><link>https://portfolio.sprintjudicial.com/project/tybabot/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/tybabot/</guid><description>&lt;p>&lt;strong>TYBABot&lt;/strong> es un asistente virtual especializado en el Sistema Justicia XXI Web (Tyba) de Colombia, desarrollado con Streamlit y la API de OpenAI. Proporciona orientacion sobre gestion judicial electronica a funcionarios y operadores del sistema.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Gestion Documental&lt;/strong>: Orientacion sobre documentos e-judiciales y su manejo en Tyba&lt;/li>
+&lt;li>&lt;strong>Actuaciones Judiciales&lt;/strong>: Guia sobre registro y consulta de actuaciones procesales&lt;/li>
+&lt;li>&lt;strong>Memoriales&lt;/strong>: Asistencia en la gestion de memoriales electronicos&lt;/li>
+&lt;li>&lt;strong>Notificaciones&lt;/strong>: Orientacion sobre el sistema de notificaciones digitales&lt;/li>
+&lt;li>&lt;strong>Firmas Electronicas&lt;/strong>: Soporte sobre procesos de firma electronica judicial&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI Assistants API v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: Modelo de lenguaje con base de conocimiento especializada en Tyba&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>TYBABot reduce la curva de aprendizaje de los funcionarios judiciales al interactuar con el sistema Tyba, proporcionando respuestas contextualizadas basadas en la documentacion oficial del sistema y las mejores practicas de gestion judicial electronica.&lt;/p>
+&lt;p>Este asistente nace de la experiencia directa trabajando con el sistema Justicia XXI Web en la Rama Judicial, identificando las dificultades mas frecuentes que enfrentan los funcionarios al adoptar herramientas de gestion documental electronica.&lt;/p></description></item><item><title>TutelaBot - Asistente de Derechos Fundamentales</title><link>https://portfolio.sprintjudicial.com/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/tutelabot/</guid><description>&lt;p>&lt;strong>TutelaBot&lt;/strong> es un asistente virtual especializado en los mecanismos constitucionales de proteccion de derechos fundamentales en Colombia: la Accion de Tutela y el Derecho de Peticion.&lt;/p>
+&lt;h2 id="base-de-conocimiento">Base de Conocimiento&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Constitucion Politica de Colombia de 1991&lt;/strong>: Articulos relevantes sobre derechos fundamentales&lt;/li>
+&lt;li>&lt;strong>Decreto 2591 de 1991&lt;/strong>: Reglamentacion de la Accion de Tutela&lt;/li>
+&lt;/ul>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Orientacion sobre Tutela&lt;/strong>: Guia sobre requisitos, procedimiento, terminos y alcance de la Accion de Tutela&lt;/li>
+&lt;li>&lt;strong>Derecho de Peticion&lt;/strong>: Asistencia sobre como ejercer el derecho de peticion ante entidades publicas y privadas&lt;/li>
+&lt;li>&lt;strong>Fundamentacion Legal&lt;/strong>: Respuestas basadas en la normativa constitucional vigente&lt;/li>
+&lt;li>&lt;strong>Lenguaje Accesible&lt;/strong>: Explicaciones claras para ciudadanos sin formacion juridica&lt;/li>
+&lt;li>&lt;strong>Interaccion Conversacional&lt;/strong>: Dialogo natural para resolver dudas legales&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: Modelo de lenguaje con conocimiento constitucional colombiano&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>TutelaBot democratiza el acceso a informacion sobre mecanismos de proteccion de derechos fundamentales, permitiendo que cualquier ciudadano comprenda como ejercer sus derechos constitucionales sin necesidad de asesoria juridica previa.&lt;/p>
+&lt;p>Este proyecto surge de la conviccion de que la tecnologia puede reducir la brecha de acceso a la justicia, proporcionando orientacion juridica basica sobre los mecanismos mas utilizados por los ciudadanos colombianos para proteger sus derechos fundamentales.&lt;/p></description></item></channel></rss>

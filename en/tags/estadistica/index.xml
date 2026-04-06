@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Estadistica | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/estadistica/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/estadistica/index.xml" rel="self" type="application/rss+xml"/><description>Estadistica</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Estadistica</title><link>https://portfolio.sprintjudicial.com/en/tags/estadistica/</link></image><item><title>Experimental Statistical Data Analysis</title><link>https://portfolio.sprintjudicial.com/en/project/analisis-estadistico-experimental/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/analisis-estadistico-experimental/</guid><description>&lt;p>&lt;strong>Experimental Statistical Data Analysis&lt;/strong> is an open source tool developed for experimental data analysis and visualization using advanced statistical techniques.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>ANOVA Analysis&lt;/strong>: Implementation of analysis of variance for treatment comparison&lt;/li>
+&lt;li>&lt;strong>Tukey Test&lt;/strong>: Post-hoc analysis to identify significant differences&lt;/li>
+&lt;li>&lt;strong>Advanced Visualization&lt;/strong>: Statistical charts displaying differences between groups&lt;/li>
+&lt;li>&lt;strong>Result Export&lt;/strong>: Automatic saving of results to CSV files&lt;/li>
+&lt;li>&lt;strong>Open Source&lt;/strong>: Source code available for the scientific community&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Language&lt;/strong>: R in RStudio&lt;/li>
+&lt;li>&lt;strong>Specialized Libraries&lt;/strong>:
+&lt;ul>
+&lt;li>ggplot2 for advanced visualization&lt;/li>
+&lt;li>dplyr for data manipulation&lt;/li>
+&lt;li>readr for CSV file import&lt;/li>
+&lt;li>multcompView for post-hoc tests and significance visualization&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;p>Demonstrated proficiency in &lt;strong>data handling&lt;/strong> and &lt;strong>statistical result interpretation&lt;/strong> to support decisions based on experimental evidence.&lt;/p>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This project evaluates experimental data through advanced techniques, including ANOVA and Tukey Test, generating visualizations that facilitate the interpretation of significant differences between experimental groups.&lt;/p>
+&lt;p>The tool focuses on comparing experimental treatments and generating clear visualizations that allow researchers to identify patterns and statistically significant differences in their data, contributing to evidence-based scientific analysis.&lt;/p></description></item></channel></rss>

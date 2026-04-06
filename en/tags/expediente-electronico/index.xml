@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Expediente Electronico | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/expediente-electronico/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/expediente-electronico/index.xml" rel="self" type="application/rss+xml"/><description>Expediente Electronico</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Expediente Electronico</title><link>https://portfolio.sprintjudicial.com/en/tags/expediente-electronico/</link></image><item><title>Electronic Case File Management</title><link>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</guid><description>&lt;p>&lt;strong>Electronic Case File Management&lt;/strong> is a system developed to automate the assembly of electronic case files across all dependencies of the Colombian Judicial Branch. The project has evolved through two major versions.&lt;/p>
+&lt;h2 id="version-1---desktop-application-2022">Version 1 - Desktop Application (2022)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>MVC Architecture&lt;/strong>: Model-View-Controller pattern&lt;/li>
+&lt;li>&lt;strong>Graphical Interface&lt;/strong>: tkinter for judicial operators&lt;/li>
+&lt;li>&lt;strong>PDF Processing&lt;/strong>: pypdf2 for procedural document manipulation&lt;/li>
+&lt;li>&lt;strong>Excel Integration&lt;/strong>: xlwings and pandas for data manipulation&lt;/li>
+&lt;li>&lt;strong>Language&lt;/strong>: Python 3.9.6&lt;/li>
+&lt;/ul>
+&lt;h2 id="version-2---rda--streamlit-2024">Version 2 - RDA + Streamlit (2024)&lt;/h2>
+&lt;p>The second version combines Robotic Desktop Automation (RDA) with modern technologies:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Web Frontend&lt;/strong>: Streamlit deployed in the cloud (&lt;a href="https://gestionexpedienteelectronico.streamlit.app/" target="_blank" rel="noopener">Live App&lt;/a>)&lt;/li>
+&lt;li>&lt;strong>RDA&lt;/strong>: Robotic Desktop Automation for interaction with legacy systems&lt;/li>
+&lt;li>&lt;strong>Advanced Processing&lt;/strong>: Integration with modern document processing technologies&lt;/li>
+&lt;/ul>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Full Automation&lt;/strong>: Eliminates manual case file assembly operations&lt;/li>
+&lt;li>&lt;strong>PDF Processing&lt;/strong>: Automated organization, renaming, and structuring&lt;/li>
+&lt;li>&lt;strong>Judicial Integration&lt;/strong>: Designed for the specific workflow of the Judicial Branch&lt;/li>
+&lt;li>&lt;strong>Web Access&lt;/strong>: Version 2 accessible from any browser&lt;/li>
+&lt;li>&lt;strong>Ease of Use&lt;/strong>: Intuitive interface for judicial operators without technical knowledge&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;p>&lt;strong>~200% reduction in time&lt;/strong> for electronic case file formalization, significantly optimizing operational efficiency in judicial dependencies nationwide.&lt;/p>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This project assists the manual operations of electronic case file assembly, automating repetitive processes and drastically reducing processing times. Version 2 amplifies this impact by being accessible from the cloud.&lt;/p>
+&lt;p>The evolution of this system reflects the author&amp;rsquo;s technological growth: from a desktop application with tkinter to a modern web solution with Streamlit and RDA, always maintaining focus on solving real problems for Colombian judicial operators. Repositories: &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">Version 1&lt;/a> | &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico" target="_blank" rel="noopener">Version 2&lt;/a>&lt;/p></description></item></channel></rss>

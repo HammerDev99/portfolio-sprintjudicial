@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Automatizacion | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/automatizacion/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/automatizacion/index.xml" rel="self" type="application/rss+xml"/><description>Automatizacion</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Automatizacion</title><link>https://portfolio.sprintjudicial.com/en/tags/automatizacion/</link></image><item><title>GexCom - Judicial Communications Management System</title><link>https://portfolio.sprintjudicial.com/en/project/gexcom/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gexcom/</guid><description>&lt;p>&lt;strong>GexCom&lt;/strong> is a communications management system developed to streamline and improve the accuracy of procedural party communications within the judicial system.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Communication Automation&lt;/strong>: Automated management of hearing citations&lt;/li>
+&lt;li>&lt;strong>API Integration&lt;/strong>: Message delivery through specialized APIs&lt;/li>
+&lt;li>&lt;strong>Format Management&lt;/strong>: Automated creation of referrals and postal mail formats&lt;/li>
+&lt;li>&lt;strong>Intelligent Storage&lt;/strong>: Database for relevant notification information&lt;/li>
+&lt;li>&lt;strong>Process Standardization&lt;/strong>: Uniformization of administrative procedures&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3&lt;/li>
+&lt;li>&lt;strong>Database&lt;/strong>: SQLite&lt;/li>
+&lt;li>&lt;strong>Version Control&lt;/strong>: Git and GitHub&lt;/li>
+&lt;li>&lt;strong>IDE&lt;/strong>: Visual Studio Code&lt;/li>
+&lt;li>&lt;strong>APIs&lt;/strong>: Integration with messaging services&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;p>Significant improvement in the efficiency and accuracy of communications management, specifically in the citation of parties to scheduled hearings and communications requested by Judicial Branch dependencies.&lt;/p>
+&lt;p>This project arose from the need to optimize the exhaustive operations in the judicial communications process, providing a technology solution that standardizes and automates the most critical administrative processes in the Colombian judicial system.&lt;/p></description></item><item><title>Document Template Automation</title><link>https://portfolio.sprintjudicial.com/en/project/automatizacion-documentos/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/automatizacion-documentos/</guid><description>&lt;p>&lt;strong>Document Template Automation&lt;/strong> is a solution developed to improve administrative functions within Judicial Branch dependencies.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Automated Templates&lt;/strong>: Automatic creation of official documents and letters&lt;/li>
+&lt;li>&lt;strong>Technical Sheets&lt;/strong>: Automated generation of standardized technical sheets&lt;/li>
+&lt;li>&lt;strong>Email Tracking&lt;/strong>: Automated system for correspondence registration and tracking&lt;/li>
+&lt;li>&lt;strong>Automatic Statistics&lt;/strong>: Generation of administrative statistical reports&lt;/li>
+&lt;li>&lt;strong>Process Standardization&lt;/strong>: Uniformization of administrative procedures&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Language&lt;/strong>: Visual Basic&lt;/li>
+&lt;li>&lt;strong>Office Suite&lt;/strong>: Excel macros and Word templates&lt;/li>
+&lt;li>&lt;strong>IDE&lt;/strong>: Visual Studio Code&lt;/li>
+&lt;li>&lt;strong>Automation&lt;/strong>: VBA macros for Office&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;p>&lt;strong>Significant reduction in time&lt;/strong> for response and execution of administrative activities, optimizing repetitive operations and improving operational efficiency.&lt;/p>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This project assists repetitive operations and standardizes critical processes in official documentation creation, improving productivity and consistency across judicial dependencies.&lt;/p>
+&lt;p>The implementation of this solution has enabled Judicial Branch dependencies to optimize their most frequent administrative processes, reducing time dedicated to repetitive tasks and improving the quality and consistency of the official documentation generated.&lt;/p></description></item><item><title>Electronic Case File Management</title><link>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</guid><description>&lt;p>&lt;strong>Electronic Case File Management&lt;/strong> is a system developed to automate the assembly of electronic case files across all dependencies of the Colombian Judicial Branch. The project has evolved through two major versions.&lt;/p>
+&lt;h2 id="version-1---desktop-application-2022">Version 1 - Desktop Application (2022)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>MVC Architecture&lt;/strong>: Model-View-Controller pattern&lt;/li>
+&lt;li>&lt;strong>Graphical Interface&lt;/strong>: tkinter for judicial operators&lt;/li>
+&lt;li>&lt;strong>PDF Processing&lt;/strong>: pypdf2 for procedural document manipulation&lt;/li>
+&lt;li>&lt;strong>Excel Integration&lt;/strong>: xlwings and pandas for data manipulation&lt;/li>
+&lt;li>&lt;strong>Language&lt;/strong>: Python 3.9.6&lt;/li>
+&lt;/ul>
+&lt;h2 id="version-2---rda--streamlit-2024">Version 2 - RDA + Streamlit (2024)&lt;/h2>
+&lt;p>The second version combines Robotic Desktop Automation (RDA) with modern technologies:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Web Frontend&lt;/strong>: Streamlit deployed in the cloud (&lt;a href="https://gestionexpedienteelectronico.streamlit.app/" target="_blank" rel="noopener">Live App&lt;/a>)&lt;/li>
+&lt;li>&lt;strong>RDA&lt;/strong>: Robotic Desktop Automation for interaction with legacy systems&lt;/li>
+&lt;li>&lt;strong>Advanced Processing&lt;/strong>: Integration with modern document processing technologies&lt;/li>
+&lt;/ul>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Full Automation&lt;/strong>: Eliminates manual case file assembly operations&lt;/li>
+&lt;li>&lt;strong>PDF Processing&lt;/strong>: Automated organization, renaming, and structuring&lt;/li>
+&lt;li>&lt;strong>Judicial Integration&lt;/strong>: Designed for the specific workflow of the Judicial Branch&lt;/li>
+&lt;li>&lt;strong>Web Access&lt;/strong>: Version 2 accessible from any browser&lt;/li>
+&lt;li>&lt;strong>Ease of Use&lt;/strong>: Intuitive interface for judicial operators without technical knowledge&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;p>&lt;strong>~200% reduction in time&lt;/strong> for electronic case file formalization, significantly optimizing operational efficiency in judicial dependencies nationwide.&lt;/p>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This project assists the manual operations of electronic case file assembly, automating repetitive processes and drastically reducing processing times. Version 2 amplifies this impact by being accessible from the cloud.&lt;/p>
+&lt;p>The evolution of this system reflects the author&amp;rsquo;s technological growth: from a desktop application with tkinter to a modern web solution with Streamlit and RDA, always maintaining focus on solving real problems for Colombian judicial operators. Repositories: &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">Version 1&lt;/a> | &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico" target="_blank" rel="noopener">Version 2&lt;/a>&lt;/p></description></item></channel></rss>

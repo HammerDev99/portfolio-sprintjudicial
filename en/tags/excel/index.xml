@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Excel | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/excel/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/excel/index.xml" rel="self" type="application/rss+xml"/><description>Excel</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Excel</title><link>https://portfolio.sprintjudicial.com/en/tags/excel/</link></image><item><title>Document Template Automation</title><link>https://portfolio.sprintjudicial.com/en/project/automatizacion-documentos/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/automatizacion-documentos/</guid><description>&lt;p>&lt;strong>Document Template Automation&lt;/strong> is a solution developed to improve administrative functions within Judicial Branch dependencies.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Automated Templates&lt;/strong>: Automatic creation of official documents and letters&lt;/li>
+&lt;li>&lt;strong>Technical Sheets&lt;/strong>: Automated generation of standardized technical sheets&lt;/li>
+&lt;li>&lt;strong>Email Tracking&lt;/strong>: Automated system for correspondence registration and tracking&lt;/li>
+&lt;li>&lt;strong>Automatic Statistics&lt;/strong>: Generation of administrative statistical reports&lt;/li>
+&lt;li>&lt;strong>Process Standardization&lt;/strong>: Uniformization of administrative procedures&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Language&lt;/strong>: Visual Basic&lt;/li>
+&lt;li>&lt;strong>Office Suite&lt;/strong>: Excel macros and Word templates&lt;/li>
+&lt;li>&lt;strong>IDE&lt;/strong>: Visual Studio Code&lt;/li>
+&lt;li>&lt;strong>Automation&lt;/strong>: VBA macros for Office&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;p>&lt;strong>Significant reduction in time&lt;/strong> for response and execution of administrative activities, optimizing repetitive operations and improving operational efficiency.&lt;/p>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This project assists repetitive operations and standardizes critical processes in official documentation creation, improving productivity and consistency across judicial dependencies.&lt;/p>
+&lt;p>The implementation of this solution has enabled Judicial Branch dependencies to optimize their most frequent administrative processes, reducing time dedicated to repetitive tasks and improving the quality and consistency of the official documentation generated.&lt;/p></description></item></channel></rss>

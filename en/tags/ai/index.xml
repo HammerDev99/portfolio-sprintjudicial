@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/ai/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/ai/index.xml" rel="self" type="application/rss+xml"/><description>AI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>AI</title><link>https://portfolio.sprintjudicial.com/en/tags/ai/</link></image><item><title>FocusCoach - AI Coaching with DISC Methodology</title><link>https://portfolio.sprintjudicial.com/en/project/focuscoach/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/focuscoach/</guid><description>&lt;p>&lt;strong>FocusCoach&lt;/strong> is a personalized coaching platform powered by artificial intelligence and the DISC personality profiling methodology, designed to help entrepreneurs (especially high-I profiles) prevent project abandonment.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Adaptive Coaching&lt;/strong>: Personalized sessions based on the user&amp;rsquo;s DISC profile&lt;/li>
+&lt;li>&lt;strong>FOCUS-SPRINT Framework&lt;/strong>: Proprietary methodology for sprint-based project management&lt;/li>
+&lt;li>&lt;strong>Parking Lot&lt;/strong>: Idea management system to avoid distractions&lt;/li>
+&lt;li>&lt;strong>DISC Gamification&lt;/strong>: Reward system adapted to the user&amp;rsquo;s personality profile&lt;/li>
+&lt;li>&lt;strong>Active Learning&lt;/strong>: The AI learns from interactions to improve recommendations&lt;/li>
+&lt;li>&lt;strong>Document OCR&lt;/strong>: Document processing with Mistral AI OCR&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12, FastAPI 0.115, Pydantic v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit 1.41&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: OpenAI Assistants API, LangChain&lt;/li>
+&lt;li>&lt;strong>Database&lt;/strong>: SQLite + FTS5 (WAL mode)&lt;/li>
+&lt;li>&lt;strong>Architecture&lt;/strong>: Clean Architecture (5 layers), DI, Railway-Oriented Programming (returns)&lt;/li>
+&lt;li>&lt;strong>Quality&lt;/strong>: pytest + hypothesis, ruff, mypy &amp;ndash;strict&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Docker (2-stage build)&lt;/li>
+&lt;/ul>
+&lt;h2 id="architecture">Architecture&lt;/h2>
+&lt;p>Clean Architecture implementation with 5 layers and advanced patterns:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Strategy Pattern&lt;/strong> for adapting coaching based on DISC profile&lt;/li>
+&lt;li>&lt;strong>Dependency Injection&lt;/strong> for service decoupling&lt;/li>
+&lt;li>&lt;strong>Railway-Oriented Programming&lt;/strong> (Result[T, E]) for error handling&lt;/li>
+&lt;li>&lt;strong>28 experimental notebooks&lt;/strong> validating 8 MVPs before implementation&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>46 tests&lt;/strong> passing with strict type checking (mypy &amp;ndash;strict)&lt;/li>
+&lt;li>&lt;strong>8 validated MVPs&lt;/strong> in notebooks before migration to production&lt;/li>
+&lt;li>&lt;strong>5 architectural layers&lt;/strong> implemented with complete DI&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>FocusCoach addresses a common problem among entrepreneurs: project abandonment due to lack of focus and structure. By personalizing coaching according to DISC personality, the platform offers strategies that resonate with each user&amp;rsquo;s cognitive style.&lt;/p>
+&lt;p>This project combines knowledge from organizational psychology (DISC methodology), software engineering (Clean Architecture), and artificial intelligence (LLMs + RAG) to create an innovative personal productivity tool.&lt;/p></description></item><item><title>DisciplinaJudicial AI - Judicial Discipline Process Guidance</title><link>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</guid><description>&lt;p>&lt;strong>DisciplinaJudicial AI&lt;/strong> is an artificial intelligence assistant specialized in disciplinary processes for Colombian judicial servers, providing guidance on the disciplinary regime, offenses, sanctions, and rights.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Disciplinary Regime&lt;/strong>: Guidance on the regulatory framework for judicial server discipline&lt;/li>
+&lt;li>&lt;strong>Offense Classification&lt;/strong>: Assistance on the categorization and severity of disciplinary offenses&lt;/li>
+&lt;li>&lt;strong>Disciplinary Procedure&lt;/strong>: Support on stages and deadlines of the process&lt;/li>
+&lt;li>&lt;strong>Sanctions&lt;/strong>: Information on types of sanctions and their implications&lt;/li>
+&lt;li>&lt;strong>Rights of the Investigated&lt;/strong>: Guidance on procedural guarantees&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: Language model with a knowledge base in judicial disciplinary law&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>DisciplinaJudicial AI facilitates access to information about the judicial disciplinary regime, helping judicial servers understand their obligations, rights, and the consequences of failing to fulfill their functional duties.&lt;/p>
+&lt;p>This assistant was born from the need to provide accessible guidance in a highly specialized area of law, where information is often fragmented and difficult to interpret for officials without deep legal training.&lt;/p></description></item><item><title>TutelaBot - Fundamental Rights Assistant</title><link>https://portfolio.sprintjudicial.com/en/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tutelabot/</guid><description>&lt;p>&lt;strong>TutelaBot&lt;/strong> is a virtual assistant specialized in Colombian constitutional mechanisms for the protection of fundamental rights: the Accion de Tutela (constitutional protection action) and the Derecho de Peticion (right to petition).&lt;/p>
+&lt;h2 id="knowledge-base">Knowledge Base&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Political Constitution of Colombia 1991&lt;/strong>: Relevant articles on fundamental rights&lt;/li>
+&lt;li>&lt;strong>Decree 2591 of 1991&lt;/strong>: Regulation of the Accion de Tutela&lt;/li>
+&lt;/ul>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Tutela Guidance&lt;/strong>: Assistance on requirements, procedures, deadlines, and scope of the Accion de Tutela&lt;/li>
+&lt;li>&lt;strong>Right to Petition&lt;/strong>: Support on how to exercise the right to petition before public and private entities&lt;/li>
+&lt;li>&lt;strong>Legal Foundation&lt;/strong>: Responses grounded in current constitutional regulations&lt;/li>
+&lt;li>&lt;strong>Accessible Language&lt;/strong>: Clear explanations for citizens without legal training&lt;/li>
+&lt;li>&lt;strong>Conversational Interaction&lt;/strong>: Natural dialogue to resolve legal questions&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: Language model with Colombian constitutional knowledge&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>TutelaBot democratizes access to information about fundamental rights protection mechanisms, enabling any citizen to understand how to exercise their constitutional rights without the need for prior legal counsel.&lt;/p>
+&lt;p>This project stems from the conviction that technology can reduce the justice access gap by providing basic legal guidance on the most widely used mechanisms by Colombian citizens to protect their fundamental rights.&lt;/p></description></item><item><title>LLM Chat App - Multi-Provider Application</title><link>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</guid><description>&lt;p>&lt;strong>LLM Chat App&lt;/strong> is an interactive chat web application with support for multiple language model providers, including Anthropic Claude and OpenAI GPT, featuring a clean interface and straightforward API key configuration.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Multi-Provider&lt;/strong>: Support for Anthropic Claude and OpenAI GPT in a single interface&lt;/li>
+&lt;li>&lt;strong>Simple Configuration&lt;/strong>: API key entry directly within the application&lt;/li>
+&lt;li>&lt;strong>Conversational Interface&lt;/strong>: Interactive chat with conversation history&lt;/li>
+&lt;li>&lt;strong>Docker Deployment&lt;/strong>: Production-ready Docker image&lt;/li>
+&lt;li>&lt;strong>Model Selection&lt;/strong>: Dynamic switching between providers and models&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>APIs&lt;/strong>: Anthropic Claude API, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Container&lt;/strong>: Docker&lt;/li>
+&lt;li>&lt;strong>Language&lt;/strong>: Python&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This application simplifies experimentation with different language models by providing a unified interface for interacting with leading LLM providers, ideal for comparing responses and evaluating capabilities across models.&lt;/p>
+&lt;p>Developed as an exploration and demonstration tool for LLM API integration, facilitating rapid evaluation of different models for specific use cases.&lt;/p></description></item></channel></rss>

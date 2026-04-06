@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docassemble | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/docassemble/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/docassemble/index.xml" rel="self" type="application/rss+xml"/><description>Docassemble</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Docassemble</title><link>https://portfolio.sprintjudicial.com/en/tags/docassemble/</link></image><item><title>Docassemble Expert - Legal Document Automation</title><link>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</guid><description>&lt;p>&lt;strong>Docassemble Expert&lt;/strong> is a specialized assistant for the Docassemble framework, designed to help developers, lawyers, and organizations create automated web interviews and legal document generation systems.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>YAML Expertise&lt;/strong>: Advanced knowledge of Docassemble&amp;rsquo;s YAML syntax&lt;/li>
+&lt;li>&lt;strong>Interview Design&lt;/strong>: Patterns for creating guided web interviews&lt;/li>
+&lt;li>&lt;strong>Document Generation&lt;/strong>: Automation of legal document creation&lt;/li>
+&lt;li>&lt;strong>Best Practices&lt;/strong>: Guidance on design patterns and form architecture&lt;/li>
+&lt;li>&lt;strong>Conditional Logic&lt;/strong>: Assistance with complex interview flows and branching&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Framework&lt;/strong>: Docassemble (open-source expert system)&lt;/li>
+&lt;li>&lt;strong>Configuration Language&lt;/strong>: YAML&lt;/li>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python&lt;/li>
+&lt;li>&lt;strong>Documentation&lt;/strong>: Markdown&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>Docassemble Expert facilitates the adoption of document automation tools in the legal sector, reducing the technical barrier for lawyers and organizations seeking to digitize their document generation processes.&lt;/p>
+&lt;p>This project supports the vision of democratizing legal automation, enabling legal professionals to create their own document generation tools without requiring deep programming knowledge.&lt;/p></description></item></channel></rss>

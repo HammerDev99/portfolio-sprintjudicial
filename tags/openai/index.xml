@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OpenAI | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/openai/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/openai/index.xml" rel="self" type="application/rss+xml"/><description>OpenAI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>OpenAI</title><link>https://portfolio.sprintjudicial.com/tags/openai/</link></image><item><title>FocusCoach - Coaching con IA y Metodologia DISC</title><link>https://portfolio.sprintjudicial.com/project/focuscoach/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/focuscoach/</guid><description>&lt;p>&lt;strong>FocusCoach&lt;/strong> es una plataforma de coaching personalizado basada en inteligencia artificial y la metodologia de perfiles de personalidad DISC, disenada para ayudar a emprendedores (especialmente perfiles alta-I) a prevenir el abandono de proyectos.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Coaching Adaptativo&lt;/strong>: Sesiones personalizadas segun el perfil DISC del usuario&lt;/li>
+&lt;li>&lt;strong>Framework FOCUS-SPRINT&lt;/strong>: Metodologia propia para gestion de proyectos por sprints&lt;/li>
+&lt;li>&lt;strong>Parking Lot&lt;/strong>: Sistema de gestion de ideas para evitar distracciones&lt;/li>
+&lt;li>&lt;strong>Gamificacion DISC&lt;/strong>: Sistema de recompensas adaptado al perfil de personalidad&lt;/li>
+&lt;li>&lt;strong>Aprendizaje Activo&lt;/strong>: La IA aprende de las interacciones para mejorar las recomendaciones&lt;/li>
+&lt;li>&lt;strong>OCR de Documentos&lt;/strong>: Procesamiento de documentos con Mistral AI OCR&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12, FastAPI 0.115, Pydantic v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit 1.41&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: OpenAI Assistants API, LangChain&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: SQLite + FTS5 (WAL mode)&lt;/li>
+&lt;li>&lt;strong>Arquitectura&lt;/strong>: Clean Architecture (5 capas), DI, Railway-Oriented Programming (returns)&lt;/li>
+&lt;li>&lt;strong>Calidad&lt;/strong>: pytest + hypothesis, ruff, mypy &amp;ndash;strict&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Docker (2-stage build)&lt;/li>
+&lt;/ul>
+&lt;h2 id="arquitectura">Arquitectura&lt;/h2>
+&lt;p>Implementacion de Clean Architecture con 5 capas y patrones avanzados:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Strategy Pattern&lt;/strong> para adaptar coaching segun perfil DISC&lt;/li>
+&lt;li>&lt;strong>Dependency Injection&lt;/strong> para desacoplamiento de servicios&lt;/li>
+&lt;li>&lt;strong>Railway-Oriented Programming&lt;/strong> (Result[T, E]) para manejo de errores&lt;/li>
+&lt;li>&lt;strong>28 notebooks&lt;/strong> experimentales validando 8 MVPs antes de implementacion&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>46 tests&lt;/strong> pasando con type checking estricto (mypy &amp;ndash;strict)&lt;/li>
+&lt;li>&lt;strong>8 MVPs validados&lt;/strong> en notebooks antes de migracion a produccion&lt;/li>
+&lt;li>&lt;strong>5 capas arquitectonicas&lt;/strong> implementadas con DI completo&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>FocusCoach aborda un problema comun en emprendedores: el abandono de proyectos por falta de enfoque y estructura. Al personalizar el coaching segun la personalidad DISC, la plataforma ofrece estrategias que resuenan con el estilo cognitivo de cada usuario.&lt;/p>
+&lt;p>Este proyecto combina conocimientos de psicologia organizacional (metodologia DISC), ingenieria de software (Clean Architecture) e inteligencia artificial (LLMs + RAG) para crear una herramienta innovadora de productividad personal.&lt;/p></description></item><item><title>DisciplinaJudicial AI - Orientacion en Procesos Disciplinarios</title><link>https://portfolio.sprintjudicial.com/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/disciplina-judicial-ai/</guid><description>&lt;p>&lt;strong>DisciplinaJudicial AI&lt;/strong> es un asistente de inteligencia artificial especializado en procesos disciplinarios para servidores judiciales de Colombia, proporcionando orientacion sobre el regimen disciplinario, faltas, sanciones y derechos.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Regimen Disciplinario&lt;/strong>: Orientacion sobre el marco normativo disciplinario para servidores judiciales&lt;/li>
+&lt;li>&lt;strong>Tipificacion de Faltas&lt;/strong>: Guia sobre clasificacion y gravedad de faltas disciplinarias&lt;/li>
+&lt;li>&lt;strong>Procedimiento Disciplinario&lt;/strong>: Asistencia sobre etapas y terminos del proceso&lt;/li>
+&lt;li>&lt;strong>Sanciones&lt;/strong>: Informacion sobre tipos de sanciones y sus implicaciones&lt;/li>
+&lt;li>&lt;strong>Derechos del Investigado&lt;/strong>: Orientacion sobre garantias procesales&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: Modelo de lenguaje con base de conocimiento en derecho disciplinario judicial&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>DisciplinaJudicial AI facilita el acceso a informacion sobre el regimen disciplinario judicial, ayudando a servidores judiciales a comprender sus obligaciones, derechos y las consecuencias del incumplimiento de sus deberes funcionales.&lt;/p>
+&lt;p>Este asistente nace de la necesidad de brindar orientacion accesible sobre un area del derecho altamente especializada, donde la informacion suele ser fragmentada y dificil de interpretar para funcionarios sin formacion juridica profunda.&lt;/p></description></item><item><title>TYBABot - Asistente Virtual para Justicia XXI Web</title><link>https://portfolio.sprintjudicial.com/project/tybabot/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/tybabot/</guid><description>&lt;p>&lt;strong>TYBABot&lt;/strong> es un asistente virtual especializado en el Sistema Justicia XXI Web (Tyba) de Colombia, desarrollado con Streamlit y la API de OpenAI. Proporciona orientacion sobre gestion judicial electronica a funcionarios y operadores del sistema.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Gestion Documental&lt;/strong>: Orientacion sobre documentos e-judiciales y su manejo en Tyba&lt;/li>
+&lt;li>&lt;strong>Actuaciones Judiciales&lt;/strong>: Guia sobre registro y consulta de actuaciones procesales&lt;/li>
+&lt;li>&lt;strong>Memoriales&lt;/strong>: Asistencia en la gestion de memoriales electronicos&lt;/li>
+&lt;li>&lt;strong>Notificaciones&lt;/strong>: Orientacion sobre el sistema de notificaciones digitales&lt;/li>
+&lt;li>&lt;strong>Firmas Electronicas&lt;/strong>: Soporte sobre procesos de firma electronica judicial&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI Assistants API v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: Modelo de lenguaje con base de conocimiento especializada en Tyba&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>TYBABot reduce la curva de aprendizaje de los funcionarios judiciales al interactuar con el sistema Tyba, proporcionando respuestas contextualizadas basadas en la documentacion oficial del sistema y las mejores practicas de gestion judicial electronica.&lt;/p>
+&lt;p>Este asistente nace de la experiencia directa trabajando con el sistema Justicia XXI Web en la Rama Judicial, identificando las dificultades mas frecuentes que enfrentan los funcionarios al adoptar herramientas de gestion documental electronica.&lt;/p></description></item><item><title>TutelaBot - Asistente de Derechos Fundamentales</title><link>https://portfolio.sprintjudicial.com/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/tutelabot/</guid><description>&lt;p>&lt;strong>TutelaBot&lt;/strong> es un asistente virtual especializado en los mecanismos constitucionales de proteccion de derechos fundamentales en Colombia: la Accion de Tutela y el Derecho de Peticion.&lt;/p>
+&lt;h2 id="base-de-conocimiento">Base de Conocimiento&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Constitucion Politica de Colombia de 1991&lt;/strong>: Articulos relevantes sobre derechos fundamentales&lt;/li>
+&lt;li>&lt;strong>Decreto 2591 de 1991&lt;/strong>: Reglamentacion de la Accion de Tutela&lt;/li>
+&lt;/ul>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Orientacion sobre Tutela&lt;/strong>: Guia sobre requisitos, procedimiento, terminos y alcance de la Accion de Tutela&lt;/li>
+&lt;li>&lt;strong>Derecho de Peticion&lt;/strong>: Asistencia sobre como ejercer el derecho de peticion ante entidades publicas y privadas&lt;/li>
+&lt;li>&lt;strong>Fundamentacion Legal&lt;/strong>: Respuestas basadas en la normativa constitucional vigente&lt;/li>
+&lt;li>&lt;strong>Lenguaje Accesible&lt;/strong>: Explicaciones claras para ciudadanos sin formacion juridica&lt;/li>
+&lt;li>&lt;strong>Interaccion Conversacional&lt;/strong>: Dialogo natural para resolver dudas legales&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: Modelo de lenguaje con conocimiento constitucional colombiano&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>TutelaBot democratiza el acceso a informacion sobre mecanismos de proteccion de derechos fundamentales, permitiendo que cualquier ciudadano comprenda como ejercer sus derechos constitucionales sin necesidad de asesoria juridica previa.&lt;/p>
+&lt;p>Este proyecto surge de la conviccion de que la tecnologia puede reducir la brecha de acceso a la justicia, proporcionando orientacion juridica basica sobre los mecanismos mas utilizados por los ciudadanos colombianos para proteger sus derechos fundamentales.&lt;/p></description></item><item><title>LLM Chat App - Aplicacion Multi-Proveedor</title><link>https://portfolio.sprintjudicial.com/project/bot-api-claude/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/bot-api-claude/</guid><description>&lt;p>&lt;strong>LLM Chat App&lt;/strong> es una aplicacion web de chat interactivo con soporte para multiples proveedores de modelos de lenguaje, incluyendo Anthropic Claude y OpenAI GPT, con una interfaz limpia y configuracion sencilla de API keys.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Multi-Proveedor&lt;/strong>: Soporte para Anthropic Claude y OpenAI GPT en una sola interfaz&lt;/li>
+&lt;li>&lt;strong>Configuracion Sencilla&lt;/strong>: Ingreso de API keys directamente en la aplicacion&lt;/li>
+&lt;li>&lt;strong>Interfaz Conversacional&lt;/strong>: Chat interactivo con historial de conversacion&lt;/li>
+&lt;li>&lt;strong>Despliegue Docker&lt;/strong>: Imagen Docker lista para produccion&lt;/li>
+&lt;li>&lt;strong>Seleccion de Modelos&lt;/strong>: Cambio dinamico entre proveedores y modelos&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>APIs&lt;/strong>: Anthropic Claude API, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Contenedor&lt;/strong>: Docker&lt;/li>
+&lt;li>&lt;strong>Lenguaje&lt;/strong>: Python&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Esta aplicacion simplifica la experimentacion con diferentes modelos de lenguaje al proporcionar una interfaz unificada para interactuar con los principales proveedores de LLMs, ideal para comparar respuestas y evaluar capacidades entre modelos.&lt;/p>
+&lt;p>Proyecto desarrollado como herramienta de exploracion y demostracion de integracion con APIs de LLMs, facilitando la evaluacion rapida de diferentes modelos para casos de uso especificos.&lt;/p></description></item></channel></rss>

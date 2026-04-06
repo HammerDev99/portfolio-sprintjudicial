@@ -71,7 +71,7 @@
 &lt;p>&lt;a href="https://docs.hugoblox.com/getting-started/customize/" target="_blank" rel="noopener">Elige un &lt;strong>tema&lt;/strong> y &lt;strong>fuente&lt;/strong>&lt;/a> impresionante para tu sitio. Los temas son completamente personalizables.&lt;/p>
 &lt;h2 id="licencia">Licencia&lt;/h2>
 &lt;p>Copyright 2016-presente &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Lanzado bajo la licencia &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a>.&lt;/p></description></item><item><title>Pandas</title><link>https://portfolio.sprintjudicial.com/project/pandas/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/pandas/</guid><description>&lt;p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p></description></item><item><title>PyTorch</title><link>https://portfolio.sprintjudicial.com/project/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/pytorch/</guid><description>&lt;p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p></description></item><item><title>scikit-learn</title><link>https://portfolio.sprintjudicial.com/project/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/scikit/</guid><description>&lt;p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p></description></item><item><title>🧠 Agudiza tu pensamiento con un segundo cerebro</title><link>https://portfolio.sprintjudicial.com/post/second-brain/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/post/second-brain/</guid><description>&lt;p>Crea una base de conocimiento personal y comparte tu conocimiento con tus colegas.&lt;/p>
+&lt;p>Lanzado bajo la licencia &lt;a href="https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a>.&lt;/p></description></item><item><title>🧠 Agudiza tu pensamiento con un segundo cerebro</title><link>https://portfolio.sprintjudicial.com/post/second-brain/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/post/second-brain/</guid><description>&lt;p>Crea una base de conocimiento personal y comparte tu conocimiento con tus colegas.&lt;/p>
 &lt;p>El framework web Hugo Blox te capacita con una de las capacidades de toma de notas más flexibles que existen.&lt;/p>
 &lt;p>Crea una base de conocimiento poderosa que funciona sobre una carpeta local de archivos de texto plano Markdown.&lt;/p>
 &lt;p>Úsalo como tu segundo cerebro, ya sea compartiendo públicamente tu conocimiento con tus colegas a través de tu sitio web, o mediante un repositorio privado de GitHub y un sitio protegido por contraseña solo para ti.&lt;/p>
@@ -176,7 +176,7 @@ console.log('code block');
 &lt;p>Hugo Blox admite el formato popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> para visualizaciones de datos interactivas. ¡Con Plotly, puedes diseñar casi cualquier tipo de visualización que puedas imaginar!&lt;/p>
 &lt;p>Guarda tu JSON de Plotly en la carpeta de tu página, por ejemplo &lt;code>line-chart.json&lt;/code>, y luego añade el shortcode &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> donde quieras que aparezca el gráfico.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-586374129" class="chart">&lt;/div>
+&lt;div id="chart-687231549" class="chart">&lt;/div>
 &lt;script>
 async function fetchChartJSON() {
 console.debug('Hugo Blox fetching chart JSON...')
@@ -192,7 +192,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart => {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-586374129', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-687231549', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();

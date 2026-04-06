@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Node.js | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/node.js/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/node.js/index.xml" rel="self" type="application/rss+xml"/><description>Node.js</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Node.js</title><link>https://portfolio.sprintjudicial.com/tags/node.js/</link></image><item><title>API Consumer - Extraccion de Datos Judiciales</title><link>https://portfolio.sprintjudicial.com/project/rama-judicial-api/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/rama-judicial-api/</guid><description>&lt;p>&lt;strong>Rama Judicial API Consumer&lt;/strong> es un sistema ETL (Extract, Transform, Load) que consume la API REST publica de la Rama Judicial de Colombia para extraer informacion de procesos judiciales, incluyendo documentos PDF, y transformarla a formato de texto estructurado para analisis.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Consumo de API REST&lt;/strong>: Integracion con la API publica de la Rama Judicial&lt;/li>
+&lt;li>&lt;strong>Extraccion de PDFs&lt;/strong>: Descarga y parsing automatico de documentos procesales&lt;/li>
+&lt;li>&lt;strong>Rate Limiting&lt;/strong>: Control de velocidad de peticiones para respetar limites de la API&lt;/li>
+&lt;li>&lt;strong>Transformacion a Texto&lt;/strong>: Conversion de PDFs a texto plano estructurado&lt;/li>
+&lt;li>&lt;strong>Manejo de Errores&lt;/strong>: Reintentos automaticos y logging de fallos&lt;/li>
+&lt;li>&lt;strong>Caching&lt;/strong>: Almacenamiento local de respuestas para evitar peticiones redundantes&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Lenguaje&lt;/strong>: TypeScript&lt;/li>
+&lt;li>&lt;strong>Runtime&lt;/strong>: Node.js&lt;/li>
+&lt;li>&lt;strong>HTTP Client&lt;/strong>: axios&lt;/li>
+&lt;li>&lt;strong>Rate Limiting&lt;/strong>: p-limit&lt;/li>
+&lt;li>&lt;strong>PDF Parsing&lt;/strong>: pdf-parse&lt;/li>
+&lt;li>&lt;strong>Output&lt;/strong>: Archivos TXT estructurados&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Este sistema permite la extraccion automatizada de datos judiciales para analisis estadistico y mineria de datos, facilitando la investigacion sobre patrones procesales y la generacion de reportes basados en informacion publica de la Rama Judicial.&lt;/p>
+&lt;p>Proyecto desarrollado como pipeline de datos para alimentar analisis estadisticos y herramientas de inteligencia sobre procesos judiciales colombianos, demostrando capacidades de integracion con APIs gubernamentales y procesamiento de documentos.&lt;/p></description></item></channel></rss>

@@ -1,4 +1,211 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LegalTech | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/legaltech/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/legaltech/index.xml" rel="self" type="application/rss+xml"/><description>LegalTech</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>LegalTech</title><link>https://portfolio.sprintjudicial.com/tags/legaltech/</link></image><item><title>GexCom - Sistema de Gestión de Comunicaciones</title><link>https://portfolio.sprintjudicial.com/project/gexcom/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/gexcom/</guid><description>&lt;p>&lt;strong>GexCom&lt;/strong> es un sistema de gestión de comunicaciones desarrollado para agilizar y mejorar la precisión de las comunicaciones de las partes procesales en el sistema judicial.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LegalTech | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/legaltech/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/legaltech/index.xml" rel="self" type="application/rss+xml"/><description>LegalTech</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>LegalTech</title><link>https://portfolio.sprintjudicial.com/tags/legaltech/</link></image><item><title>DisciplinaJudicial AI - Orientacion en Procesos Disciplinarios</title><link>https://portfolio.sprintjudicial.com/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/disciplina-judicial-ai/</guid><description>&lt;p>&lt;strong>DisciplinaJudicial AI&lt;/strong> es un asistente de inteligencia artificial especializado en procesos disciplinarios para servidores judiciales de Colombia, proporcionando orientacion sobre el regimen disciplinario, faltas, sanciones y derechos.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Regimen Disciplinario&lt;/strong>: Orientacion sobre el marco normativo disciplinario para servidores judiciales&lt;/li>
+&lt;li>&lt;strong>Tipificacion de Faltas&lt;/strong>: Guia sobre clasificacion y gravedad de faltas disciplinarias&lt;/li>
+&lt;li>&lt;strong>Procedimiento Disciplinario&lt;/strong>: Asistencia sobre etapas y terminos del proceso&lt;/li>
+&lt;li>&lt;strong>Sanciones&lt;/strong>: Informacion sobre tipos de sanciones y sus implicaciones&lt;/li>
+&lt;li>&lt;strong>Derechos del Investigado&lt;/strong>: Orientacion sobre garantias procesales&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: Modelo de lenguaje con base de conocimiento en derecho disciplinario judicial&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>DisciplinaJudicial AI facilita el acceso a informacion sobre el regimen disciplinario judicial, ayudando a servidores judiciales a comprender sus obligaciones, derechos y las consecuencias del incumplimiento de sus deberes funcionales.&lt;/p>
+&lt;p>Este asistente nace de la necesidad de brindar orientacion accesible sobre un area del derecho altamente especializada, donde la informacion suele ser fragmentada y dificil de interpretar para funcionarios sin formacion juridica profunda.&lt;/p></description></item><item><title>SIRAL - Sistema de Registro de Acoso Laboral</title><link>https://portfolio.sprintjudicial.com/project/siral-system/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/siral-system/</guid><description>&lt;p>&lt;strong>SIRAL&lt;/strong> es una plataforma integral para la gestion de quejas de acoso laboral en la Rama Judicial de Colombia, desarrollada en cumplimiento de la Ley 1010/2006, Ley 1581/2012 (Habeas Data), Resolucion 3461/2025 y la Ley de Archivo General.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Radicacion de Quejas&lt;/strong>: Flujo de registro en 4 pasos con identificacion obligatoria de partes involucradas&lt;/li>
+&lt;li>&lt;strong>Control de Acceso por Roles (RBAC)&lt;/strong>: 5 roles diferenciados (Superadmin, Admin CCL, Miembro CCL, Funcionario, Publico)&lt;/li>
+&lt;li>&lt;strong>Flujo de Resolucion&lt;/strong>: Gestion de estados con plazo de 6 meses segun Resolucion 3461/2025&lt;/li>
+&lt;li>&lt;strong>Cadena de Custodia&lt;/strong>: Hash SHA-256 inmutable para evidencia digital&lt;/li>
+&lt;li>&lt;strong>Notificaciones Digitales&lt;/strong>: Comunicacion automatizada al presunto acosador (Ley 2213/2022)&lt;/li>
+&lt;li>&lt;strong>Actas de Comite&lt;/strong>: Registro y gestion de actas del Comite de Convivencia Laboral&lt;/li>
+&lt;li>&lt;strong>Estadisticas Anonimizadas&lt;/strong>: Reportes publicos sin datos personales&lt;/li>
+&lt;li>&lt;strong>Retencion Documental&lt;/strong>: Conservacion de 20 anos conforme a la Ley de Archivo General&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12+, FastAPI, Pydantic v2, SQLAlchemy 2.0 (async)&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: PostgreSQL 16&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (10 paginas + sidebar + timeline + graficos)&lt;/li>
+&lt;li>&lt;strong>Seguridad&lt;/strong>: JWT (python-jose, 15 min expiracion), bcrypt, RBAC, OWASP Top 10&lt;/li>
+&lt;li>&lt;strong>Infraestructura&lt;/strong>: Docker Swarm, EasyPanel, Traefik (HTTPS), GHCR&lt;/li>
+&lt;li>&lt;strong>CI/CD&lt;/strong>: GitHub Actions (6 jobs: lint + test + build + deploy)&lt;/li>
+&lt;li>&lt;strong>Calidad&lt;/strong>: pytest, ruff, mypy, bandit&lt;/li>
+&lt;/ul>
+&lt;h2 id="arquitectura">Arquitectura&lt;/h2>
+&lt;p>Arquitectura por capas siguiendo Clean Architecture:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Core&lt;/strong>: Entidades de dominio, value objects, enums&lt;/li>
+&lt;li>&lt;strong>Application&lt;/strong>: Casos de uso, DTOs (frozen dataclasses), puertos de servicio&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: Persistencia, seguridad, notificaciones, almacenamiento&lt;/li>
+&lt;li>&lt;strong>Interfaces&lt;/strong>: Rutas FastAPI (9 endpoints + Swagger), GUI Streamlit&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>283 tests&lt;/strong> pasando al 100% con quality gates completos (pytest + ruff + mypy + bandit)&lt;/li>
+&lt;li>&lt;strong>99 archivos fuente&lt;/strong> Python en src/&lt;/li>
+&lt;li>&lt;strong>6 casos de uso&lt;/strong> implementados (radicar, cambiar estado, consultar, listar, detalle, actas)&lt;/li>
+&lt;li>&lt;strong>55 hallazgos de auditoria&lt;/strong> resueltos al 100% (5 agentes de revision)&lt;/li>
+&lt;li>&lt;strong>10 documentos de planning&lt;/strong> (P00-P09) y 4 sprints completados&lt;/li>
+&lt;li>&lt;strong>Seguridad&lt;/strong>: OWASP Top 10 remediado, CSP, HSTS, sanitizacion de paths&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Este sistema digitaliza completamente el proceso de gestion de acoso laboral en la Rama Judicial, garantizando el cumplimiento normativo, la trazabilidad de cada accion y la proteccion de datos personales de las partes involucradas.&lt;/p>
+&lt;p>SIRAL surge de la necesidad de formalizar y sistematizar el proceso de quejas de acoso laboral en el Centro de Servicios Judiciales de la Seccional Antioquia, reemplazando procesos manuales propensos a errores y demoras con una solucion tecnologica robusta y auditable.&lt;/p></description></item><item><title>Sherlock-docs - Procesamiento Inteligente de Documentos Judiciales</title><link>https://portfolio.sprintjudicial.com/project/sherlock-docs/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/sherlock-docs/</guid><description>&lt;p>&lt;strong>Sherlock-docs&lt;/strong> es un sistema de procesamiento inteligente de documentos judiciales (tutelas y habeas corpus) que combina OCR, reconocimiento de entidades nombradas (NER) y deteccion de duplicados. Todo el procesamiento es 100% local, sin envio de datos a APIs externas.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>OCR Hibrido&lt;/strong>: PaddleOCR + Tesseract para documentos escaneados y digitales&lt;/li>
+&lt;li>&lt;strong>NER Legal&lt;/strong>: Extraccion de entidades con SpaCy, F1 score de 85.3% validado por humanos&lt;/li>
+&lt;li>&lt;strong>Deteccion de Duplicados Multinivel&lt;/strong>: Hash SHA-256, LZJD fuzzy hash, TF-IDF, Sentence-Transformers&lt;/li>
+&lt;li>&lt;strong>Busqueda Avanzada&lt;/strong>: SQLite FTS5 full-text search con filtrado avanzado&lt;/li>
+&lt;li>&lt;strong>API REST Completa&lt;/strong>: 22 endpoints FastAPI con autenticacion JWT y documentacion Swagger&lt;/li>
+&lt;li>&lt;strong>Interfaz Grafica&lt;/strong>: 9 paginas Streamlit para gestion interactiva de documentos&lt;/li>
+&lt;li>&lt;strong>CLI&lt;/strong>: 20 comandos para operaciones por lotes&lt;/li>
+&lt;li>&lt;strong>Aprendizaje Activo&lt;/strong>: Interfaz para validacion humana de entidades NER&lt;/li>
+&lt;li>&lt;strong>Exportacion&lt;/strong>: Generacion de reportes en Excel&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12.4, FastAPI, Pydantic&lt;/li>
+&lt;li>&lt;strong>OCR&lt;/strong>: PaddleOCR + Tesseract&lt;/li>
+&lt;li>&lt;strong>NLP/NER&lt;/strong>: SpaCy (modelo espanol legal)&lt;/li>
+&lt;li>&lt;strong>Base de Datos&lt;/strong>: SQLite + FTS5 (33 columnas, 11 indices, WAL mode)&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (9 paginas)&lt;/li>
+&lt;li>&lt;strong>Arquitectura&lt;/strong>: Clean Architecture por capas, Result-Oriented Programming (returns)&lt;/li>
+&lt;li>&lt;strong>Seguridad&lt;/strong>: JWT, RBAC, rate limiting, security headers&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Docker, Easypanel, GitHub Webhook automatizado&lt;/li>
+&lt;/ul>
+&lt;h2 id="arquitectura">Arquitectura&lt;/h2>
+&lt;p>5 capas con ServiceContainer (14 propiedades lazy-loaded):&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Core&lt;/strong>: Entidades, value objects&lt;/li>
+&lt;li>&lt;strong>Application&lt;/strong>: Casos de uso, DTOs, ServiceContainer&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: OCR, NER, deduplicacion, logging&lt;/li>
+&lt;li>&lt;strong>Persistence&lt;/strong>: SQLite + FTS5 con puertos ISP&lt;/li>
+&lt;li>&lt;strong>Interfaces&lt;/strong>: Streamlit GUI, CLI (20 comandos), FastAPI REST (22 endpoints)&lt;/li>
+&lt;/ul>
+&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>1,832 tests&lt;/strong> (1,770 unitarios + 62 integracion) con &lt;strong>87% de cobertura&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>NER F1 85.3%&lt;/strong> con datos validados por operadores humanos&lt;/li>
+&lt;li>&lt;strong>22 endpoints REST&lt;/strong> documentados y funcionales&lt;/li>
+&lt;li>&lt;strong>16/16 SECs de seguridad&lt;/strong> + 4 SEC-API implementados&lt;/li>
+&lt;li>&lt;strong>9 sprints&lt;/strong> completados (S23-S28) con 30 documentos de planning&lt;/li>
+&lt;li>&lt;strong>mypy 0 errores&lt;/strong> en modo estricto sobre 130 archivos&lt;/li>
+&lt;li>&lt;strong>Auditoria SDD certificada&lt;/strong>: 39 conformes, 0 defectos&lt;/li>
+&lt;li>&lt;strong>Calidad de codigo&lt;/strong>: 9.1/10&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Sherlock-docs procesa ~100 documentos/dia con un objetivo de rendimiento de &amp;lt;2 minutos para documentos de 20 paginas y &amp;lt;100ms para documentos digitales, eliminando la clasificacion manual de documentos judiciales y detectando automaticamente documentos duplicados.&lt;/p>
+&lt;p>Este sistema nace de la necesidad de automatizar el registro y clasificacion de tutelas y habeas corpus en el sistema judicial colombiano, donde la deteccion de duplicados y la extraccion precisa de informacion de partes procesales son criticas para la eficiencia del despacho judicial.&lt;/p></description></item><item><title>Docassemble Expert - Automatizacion de Documentos Legales</title><link>https://portfolio.sprintjudicial.com/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/docassemble-expert/</guid><description>&lt;p>&lt;strong>Docassemble Expert&lt;/strong> es un asistente especializado en el framework Docassemble, disenado para ayudar a desarrolladores, abogados y organizaciones a crear entrevistas web automatizadas y sistemas de generacion de documentos legales.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Expertise en YAML&lt;/strong>: Conocimiento avanzado de la sintaxis YAML de Docassemble&lt;/li>
+&lt;li>&lt;strong>Diseno de Entrevistas&lt;/strong>: Patrones para crear entrevistas web guiadas&lt;/li>
+&lt;li>&lt;strong>Generacion Documental&lt;/strong>: Automatizacion de creacion de documentos legales&lt;/li>
+&lt;li>&lt;strong>Mejores Practicas&lt;/strong>: Guia sobre patrones de diseno y arquitectura de formularios&lt;/li>
+&lt;li>&lt;strong>Logica Condicional&lt;/strong>: Asistencia en flujos de entrevista complejos con ramificacion&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Framework&lt;/strong>: Docassemble (sistema experto de codigo abierto)&lt;/li>
+&lt;li>&lt;strong>Lenguaje de Configuracion&lt;/strong>: YAML&lt;/li>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python&lt;/li>
+&lt;li>&lt;strong>Documentacion&lt;/strong>: Markdown&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Docassemble Expert facilita la adopcion de herramientas de automatizacion documental en el sector legal, reduciendo la barrera tecnica para abogados y organizaciones que buscan digitalizar sus procesos de generacion de documentos.&lt;/p>
+&lt;p>Este proyecto apoya la vision de democratizar la automatizacion legal, permitiendo que profesionales del derecho creen sus propias herramientas de generacion de documentos sin necesidad de conocimiento profundo en programacion.&lt;/p></description></item><item><title>TYBABot - Asistente Virtual para Justicia XXI Web</title><link>https://portfolio.sprintjudicial.com/project/tybabot/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/tybabot/</guid><description>&lt;p>&lt;strong>TYBABot&lt;/strong> es un asistente virtual especializado en el Sistema Justicia XXI Web (Tyba) de Colombia, desarrollado con Streamlit y la API de OpenAI. Proporciona orientacion sobre gestion judicial electronica a funcionarios y operadores del sistema.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Gestion Documental&lt;/strong>: Orientacion sobre documentos e-judiciales y su manejo en Tyba&lt;/li>
+&lt;li>&lt;strong>Actuaciones Judiciales&lt;/strong>: Guia sobre registro y consulta de actuaciones procesales&lt;/li>
+&lt;li>&lt;strong>Memoriales&lt;/strong>: Asistencia en la gestion de memoriales electronicos&lt;/li>
+&lt;li>&lt;strong>Notificaciones&lt;/strong>: Orientacion sobre el sistema de notificaciones digitales&lt;/li>
+&lt;li>&lt;strong>Firmas Electronicas&lt;/strong>: Soporte sobre procesos de firma electronica judicial&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI Assistants API v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: Modelo de lenguaje con base de conocimiento especializada en Tyba&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>TYBABot reduce la curva de aprendizaje de los funcionarios judiciales al interactuar con el sistema Tyba, proporcionando respuestas contextualizadas basadas en la documentacion oficial del sistema y las mejores practicas de gestion judicial electronica.&lt;/p>
+&lt;p>Este asistente nace de la experiencia directa trabajando con el sistema Justicia XXI Web en la Rama Judicial, identificando las dificultades mas frecuentes que enfrentan los funcionarios al adoptar herramientas de gestion documental electronica.&lt;/p></description></item><item><title>TutelaBot - Asistente de Derechos Fundamentales</title><link>https://portfolio.sprintjudicial.com/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/tutelabot/</guid><description>&lt;p>&lt;strong>TutelaBot&lt;/strong> es un asistente virtual especializado en los mecanismos constitucionales de proteccion de derechos fundamentales en Colombia: la Accion de Tutela y el Derecho de Peticion.&lt;/p>
+&lt;h2 id="base-de-conocimiento">Base de Conocimiento&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Constitucion Politica de Colombia de 1991&lt;/strong>: Articulos relevantes sobre derechos fundamentales&lt;/li>
+&lt;li>&lt;strong>Decreto 2591 de 1991&lt;/strong>: Reglamentacion de la Accion de Tutela&lt;/li>
+&lt;/ul>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Orientacion sobre Tutela&lt;/strong>: Guia sobre requisitos, procedimiento, terminos y alcance de la Accion de Tutela&lt;/li>
+&lt;li>&lt;strong>Derecho de Peticion&lt;/strong>: Asistencia sobre como ejercer el derecho de peticion ante entidades publicas y privadas&lt;/li>
+&lt;li>&lt;strong>Fundamentacion Legal&lt;/strong>: Respuestas basadas en la normativa constitucional vigente&lt;/li>
+&lt;li>&lt;strong>Lenguaje Accesible&lt;/strong>: Explicaciones claras para ciudadanos sin formacion juridica&lt;/li>
+&lt;li>&lt;strong>Interaccion Conversacional&lt;/strong>: Dialogo natural para resolver dudas legales&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>IA&lt;/strong>: Modelo de lenguaje con conocimiento constitucional colombiano&lt;/li>
+&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>TutelaBot democratiza el acceso a informacion sobre mecanismos de proteccion de derechos fundamentales, permitiendo que cualquier ciudadano comprenda como ejercer sus derechos constitucionales sin necesidad de asesoria juridica previa.&lt;/p>
+&lt;p>Este proyecto surge de la conviccion de que la tecnologia puede reducir la brecha de acceso a la justicia, proporcionando orientacion juridica basica sobre los mecanismos mas utilizados por los ciudadanos colombianos para proteger sus derechos fundamentales.&lt;/p></description></item><item><title>API Consumer - Extraccion de Datos Judiciales</title><link>https://portfolio.sprintjudicial.com/project/rama-judicial-api/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/rama-judicial-api/</guid><description>&lt;p>&lt;strong>Rama Judicial API Consumer&lt;/strong> es un sistema ETL (Extract, Transform, Load) que consume la API REST publica de la Rama Judicial de Colombia para extraer informacion de procesos judiciales, incluyendo documentos PDF, y transformarla a formato de texto estructurado para analisis.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Consumo de API REST&lt;/strong>: Integracion con la API publica de la Rama Judicial&lt;/li>
+&lt;li>&lt;strong>Extraccion de PDFs&lt;/strong>: Descarga y parsing automatico de documentos procesales&lt;/li>
+&lt;li>&lt;strong>Rate Limiting&lt;/strong>: Control de velocidad de peticiones para respetar limites de la API&lt;/li>
+&lt;li>&lt;strong>Transformacion a Texto&lt;/strong>: Conversion de PDFs a texto plano estructurado&lt;/li>
+&lt;li>&lt;strong>Manejo de Errores&lt;/strong>: Reintentos automaticos y logging de fallos&lt;/li>
+&lt;li>&lt;strong>Caching&lt;/strong>: Almacenamiento local de respuestas para evitar peticiones redundantes&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Lenguaje&lt;/strong>: TypeScript&lt;/li>
+&lt;li>&lt;strong>Runtime&lt;/strong>: Node.js&lt;/li>
+&lt;li>&lt;strong>HTTP Client&lt;/strong>: axios&lt;/li>
+&lt;li>&lt;strong>Rate Limiting&lt;/strong>: p-limit&lt;/li>
+&lt;li>&lt;strong>PDF Parsing&lt;/strong>: pdf-parse&lt;/li>
+&lt;li>&lt;strong>Output&lt;/strong>: Archivos TXT estructurados&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Este sistema permite la extraccion automatizada de datos judiciales para analisis estadistico y mineria de datos, facilitando la investigacion sobre patrones procesales y la generacion de reportes basados en informacion publica de la Rama Judicial.&lt;/p>
+&lt;p>Proyecto desarrollado como pipeline de datos para alimentar analisis estadisticos y herramientas de inteligencia sobre procesos judiciales colombianos, demostrando capacidades de integracion con APIs gubernamentales y procesamiento de documentos.&lt;/p></description></item><item><title>DocumentGenerator - Generacion Masiva de Documentos</title><link>https://portfolio.sprintjudicial.com/project/document-generator/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/document-generator/</guid><description>&lt;p>&lt;strong>DocumentGenerator&lt;/strong> es un sistema de generacion masiva de documentos que utiliza plantillas Word y datos de hojas de calculo Excel para producir grandes volumenes de documentos estandarizados con procesamiento concurrente.&lt;/p>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Generacion Masiva&lt;/strong>: Creacion de cientos de documentos a partir de una plantilla y datos XLSX&lt;/li>
+&lt;li>&lt;strong>Procesamiento Concurrente&lt;/strong>: ThreadPoolExecutor para generacion en paralelo&lt;/li>
+&lt;li>&lt;strong>Plantillas Flexibles&lt;/strong>: Motor python-docx-template con sintaxis Jinja2&lt;/li>
+&lt;li>&lt;strong>Configuracion YAML&lt;/strong>: Parametrizacion completa sin modificar codigo&lt;/li>
+&lt;li>&lt;strong>Logging Estructurado&lt;/strong>: Registro JSON de cada operacion&lt;/li>
+&lt;li>&lt;strong>Gestion de Errores&lt;/strong>: Manejo robusto de errores por documento individual&lt;/li>
+&lt;/ul>
+&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Lenguaje&lt;/strong>: Python 3.9+&lt;/li>
+&lt;li>&lt;strong>Templates&lt;/strong>: python-docx-template (Jinja2 para Word)&lt;/li>
+&lt;li>&lt;strong>Datos&lt;/strong>: pandas (lectura XLSX)&lt;/li>
+&lt;li>&lt;strong>Concurrencia&lt;/strong>: concurrent.futures (ThreadPoolExecutor)&lt;/li>
+&lt;li>&lt;strong>Configuracion&lt;/strong>: YAML&lt;/li>
+&lt;li>&lt;strong>Logging&lt;/strong>: JSON estructurado&lt;/li>
+&lt;/ul>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>DocumentGenerator automatiza la creacion de documentacion oficial en lote, eliminando la produccion manual de documentos repetitivos y reduciendo errores de transcripcion en entornos donde se requiere generar grandes volumenes de comunicaciones estandarizadas.&lt;/p>
+&lt;p>Este proyecto surge de la necesidad de generar masivamente documentos oficiales en dependencias judiciales, donde cada documento comparte una estructura comun pero difiere en datos especificos de las partes involucradas.&lt;/p></description></item><item><title>GexCom - Sistema de Gestión de Comunicaciones</title><link>https://portfolio.sprintjudicial.com/project/gexcom/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/gexcom/</guid><description>&lt;p>&lt;strong>GexCom&lt;/strong> es un sistema de gestión de comunicaciones desarrollado para agilizar y mejorar la precisión de las comunicaciones de las partes procesales en el sistema judicial.&lt;/p>
 &lt;h2 id="características-principales">Características Principales&lt;/h2>
 &lt;ul>
 &lt;li>&lt;strong>Automatización de Comunicaciones&lt;/strong>: Gestión automatizada de citaciones a audiencias&lt;/li>
@@ -17,32 +224,32 @@
 &lt;/ul>
 &lt;h2 id="logros-esperados">Logros Esperados&lt;/h2>
 &lt;p>Se espera mejorar significativamente la eficiencia y precisión en la gestión de comunicaciones, específicamente en la citación de partes a audiencias programadas y comunicaciones solicitadas por las dependencias de la Rama Judicial.&lt;/p>
-&lt;p>Este proyecto surge de la necesidad de optimizar las operaciones extenuantes en el proceso de comunicaciones judiciales, proporcionando una solución tecnológica que estandariza y automatiza los procesos administrativos más críticos del sistema judicial colombiano.&lt;/p></description></item><item><title>Gestión de Expediente Electrónico</title><link>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</guid><description>&lt;p>&lt;strong>Gestión de Expediente Electrónico&lt;/strong> es una aplicación desarrollada para automatizar una función administrativa crítica llevada a cabo en todas las dependencias de la Rama Judicial del país.&lt;/p>
-&lt;h2 id="características-principales">Características Principales&lt;/h2>
+&lt;p>Este proyecto surge de la necesidad de optimizar las operaciones extenuantes en el proceso de comunicaciones judiciales, proporcionando una solución tecnológica que estandariza y automatiza los procesos administrativos más críticos del sistema judicial colombiano.&lt;/p></description></item><item><title>Gestion de Expediente Electronico</title><link>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</guid><description>&lt;p>&lt;strong>Gestion de Expediente Electronico&lt;/strong> es un sistema desarrollado para automatizar la conformacion del expediente electronico en todas las dependencias de la Rama Judicial de Colombia. El proyecto ha evolucionado a traves de dos versiones principales.&lt;/p>
+&lt;h2 id="version-1---aplicacion-desktop-2022">Version 1 - Aplicacion Desktop (2022)&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Automatización Completa&lt;/strong>: Automatiza operaciones manuales de conformación de expedientes&lt;/li>
-&lt;li>&lt;strong>Arquitectura MVC&lt;/strong>: Desarrollada siguiendo el patrón Modelo-Vista-Controlador&lt;/li>
-&lt;li>&lt;strong>Procesamiento Inteligente&lt;/strong>: Gestión automatizada de documentos procesales&lt;/li>
-&lt;li>&lt;strong>Integración Judicial&lt;/strong>: Diseñada específicamente para el sistema judicial colombiano&lt;/li>
-&lt;li>&lt;strong>Interfaz Intuitiva&lt;/strong>: Fácil de usar para operadores judiciales&lt;/li>
-&lt;/ul>
-&lt;h2 id="tecnologías-utilizadas">Tecnologías Utilizadas&lt;/h2>
-&lt;ul>
+&lt;li>&lt;strong>Arquitectura MVC&lt;/strong>: Patron Modelo-Vista-Controlador&lt;/li>
+&lt;li>&lt;strong>Interfaz Grafica&lt;/strong>: tkinter para operadores judiciales&lt;/li>
+&lt;li>&lt;strong>Procesamiento PDF&lt;/strong>: pypdf2 para manipulacion de documentos procesales&lt;/li>
+&lt;li>&lt;strong>Integracion Excel&lt;/strong>: xlwings y pandas para manipulacion de datos&lt;/li>
 &lt;li>&lt;strong>Lenguaje&lt;/strong>: Python 3.9.6&lt;/li>
-&lt;li>&lt;strong>Librerías&lt;/strong>:
-&lt;ul>
-&lt;li>pypdf2 para manejo de PDFs&lt;/li>
-&lt;li>tkinter para interfaz gráfica&lt;/li>
-&lt;li>pandas para manipulación de datos&lt;/li>
-&lt;li>xlwings para integración con Excel&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;li>&lt;strong>Control de Versiones&lt;/strong>: Git y GitHub&lt;/li>
-&lt;li>&lt;strong>IDE&lt;/strong>: Visual Studio Code&lt;/li>
-&lt;li>&lt;strong>Arquitectura&lt;/strong>: Patrón MVC (Modelo-Vista-Controlador)&lt;/li>
+&lt;h2 id="version-2---rda--streamlit-2024">Version 2 - RDA + Streamlit (2024)&lt;/h2>
+&lt;p>La segunda version combina Automatizacion Robotica de Escritorio (RDA) con tecnologias modernas:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Frontend Web&lt;/strong>: Streamlit desplegado en la nube (&lt;a href="https://gestionexpedienteelectronico.streamlit.app/" target="_blank" rel="noopener">App en vivo&lt;/a>)&lt;/li>
+&lt;li>&lt;strong>RDA&lt;/strong>: Automatizacion robotica de escritorio para interaccion con sistemas legados&lt;/li>
+&lt;li>&lt;strong>Procesamiento Avanzado&lt;/strong>: Integracion con tecnologias modernas de procesamiento documental&lt;/li>
+&lt;/ul>
+&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Automatizacion Completa&lt;/strong>: Elimina operaciones manuales de conformacion de expedientes&lt;/li>
+&lt;li>&lt;strong>Procesamiento de PDFs&lt;/strong>: Organizacion, renombrado y estructuracion automatica&lt;/li>
+&lt;li>&lt;strong>Integracion Judicial&lt;/strong>: Disenada para el flujo de trabajo especifico de la Rama Judicial&lt;/li>
+&lt;li>&lt;strong>Acceso Web&lt;/strong>: Version 2 accesible desde cualquier navegador&lt;/li>
+&lt;li>&lt;strong>Facilidad de Uso&lt;/strong>: Interfaz intuitiva para operadores judiciales sin conocimiento tecnico&lt;/li>
 &lt;/ul>
 &lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
-&lt;p>&lt;strong>Disminución del ~200% en el tiempo&lt;/strong> que tarda el proceso de protocolización de expedientes electrónicos, optimizando significativamente la eficiencia operacional.&lt;/p>
+&lt;p>&lt;strong>Disminucion del ~200% en el tiempo&lt;/strong> de protocolizacion de expedientes electronicos, optimizando significativamente la eficiencia operacional en dependencias judiciales a nivel nacional.&lt;/p>
 &lt;h2 id="impacto">Impacto&lt;/h2>
-&lt;p>Este proyecto asiste las operaciones manuales que realizaba un empleado en la conformación del expediente electrónico, automatizando procesos repetitivos y reduciendo drásticamente los tiempos de procesamiento.&lt;/p>
-&lt;p>La aplicación representa un avance significativo en la digitalización de procesos judiciales, eliminando tareas manuales propensas a errores y mejorando la consistencia en la conformación de expedientes electrónicos a nivel nacional en la Rama Judicial colombiana.&lt;/p></description></item></channel></rss>
+&lt;p>Este proyecto asiste las operaciones manuales de conformacion del expediente electronico, automatizando procesos repetitivos y reduciendo drasticamente los tiempos de procesamiento. La Version 2 amplifica este impacto al ser accesible desde la nube.&lt;/p>
+&lt;p>La evolucion de este sistema refleja el crecimiento tecnologico del autor: desde una aplicacion desktop con tkinter hasta una solucion web moderna con Streamlit y RDA, manteniendo siempre el enfoque en resolver problemas reales de los operadores judiciales colombianos. Repositorios: &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">Version 1&lt;/a> | &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico" target="_blank" rel="noopener">Version 2&lt;/a>&lt;/p></description></item></channel></rss>

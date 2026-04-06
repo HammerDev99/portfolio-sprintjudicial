@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Streamlit | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/streamlit/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/streamlit/index.xml" rel="self" type="application/rss+xml"/><description>Streamlit</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Streamlit</title><link>https://portfolio.sprintjudicial.com/en/tags/streamlit/</link></image><item><title>FocusCoach - AI Coaching with DISC Methodology</title><link>https://portfolio.sprintjudicial.com/en/project/focuscoach/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/focuscoach/</guid><description>&lt;p>&lt;strong>FocusCoach&lt;/strong> is a personalized coaching platform powered by artificial intelligence and the DISC personality profiling methodology, designed to help entrepreneurs (especially high-I profiles) prevent project abandonment.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Adaptive Coaching&lt;/strong>: Personalized sessions based on the user&amp;rsquo;s DISC profile&lt;/li>
+&lt;li>&lt;strong>FOCUS-SPRINT Framework&lt;/strong>: Proprietary methodology for sprint-based project management&lt;/li>
+&lt;li>&lt;strong>Parking Lot&lt;/strong>: Idea management system to avoid distractions&lt;/li>
+&lt;li>&lt;strong>DISC Gamification&lt;/strong>: Reward system adapted to the user&amp;rsquo;s personality profile&lt;/li>
+&lt;li>&lt;strong>Active Learning&lt;/strong>: The AI learns from interactions to improve recommendations&lt;/li>
+&lt;li>&lt;strong>Document OCR&lt;/strong>: Document processing with Mistral AI OCR&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12, FastAPI 0.115, Pydantic v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit 1.41&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: OpenAI Assistants API, LangChain&lt;/li>
+&lt;li>&lt;strong>Database&lt;/strong>: SQLite + FTS5 (WAL mode)&lt;/li>
+&lt;li>&lt;strong>Architecture&lt;/strong>: Clean Architecture (5 layers), DI, Railway-Oriented Programming (returns)&lt;/li>
+&lt;li>&lt;strong>Quality&lt;/strong>: pytest + hypothesis, ruff, mypy &amp;ndash;strict&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Docker (2-stage build)&lt;/li>
+&lt;/ul>
+&lt;h2 id="architecture">Architecture&lt;/h2>
+&lt;p>Clean Architecture implementation with 5 layers and advanced patterns:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Strategy Pattern&lt;/strong> for adapting coaching based on DISC profile&lt;/li>
+&lt;li>&lt;strong>Dependency Injection&lt;/strong> for service decoupling&lt;/li>
+&lt;li>&lt;strong>Railway-Oriented Programming&lt;/strong> (Result[T, E]) for error handling&lt;/li>
+&lt;li>&lt;strong>28 experimental notebooks&lt;/strong> validating 8 MVPs before implementation&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>46 tests&lt;/strong> passing with strict type checking (mypy &amp;ndash;strict)&lt;/li>
+&lt;li>&lt;strong>8 validated MVPs&lt;/strong> in notebooks before migration to production&lt;/li>
+&lt;li>&lt;strong>5 architectural layers&lt;/strong> implemented with complete DI&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>FocusCoach addresses a common problem among entrepreneurs: project abandonment due to lack of focus and structure. By personalizing coaching according to DISC personality, the platform offers strategies that resonate with each user&amp;rsquo;s cognitive style.&lt;/p>
+&lt;p>This project combines knowledge from organizational psychology (DISC methodology), software engineering (Clean Architecture), and artificial intelligence (LLMs + RAG) to create an innovative personal productivity tool.&lt;/p></description></item><item><title>DisciplinaJudicial AI - Judicial Discipline Process Guidance</title><link>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</guid><description>&lt;p>&lt;strong>DisciplinaJudicial AI&lt;/strong> is an artificial intelligence assistant specialized in disciplinary processes for Colombian judicial servers, providing guidance on the disciplinary regime, offenses, sanctions, and rights.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Disciplinary Regime&lt;/strong>: Guidance on the regulatory framework for judicial server discipline&lt;/li>
+&lt;li>&lt;strong>Offense Classification&lt;/strong>: Assistance on the categorization and severity of disciplinary offenses&lt;/li>
+&lt;li>&lt;strong>Disciplinary Procedure&lt;/strong>: Support on stages and deadlines of the process&lt;/li>
+&lt;li>&lt;strong>Sanctions&lt;/strong>: Information on types of sanctions and their implications&lt;/li>
+&lt;li>&lt;strong>Rights of the Investigated&lt;/strong>: Guidance on procedural guarantees&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: Language model with a knowledge base in judicial disciplinary law&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>DisciplinaJudicial AI facilitates access to information about the judicial disciplinary regime, helping judicial servers understand their obligations, rights, and the consequences of failing to fulfill their functional duties.&lt;/p>
+&lt;p>This assistant was born from the need to provide accessible guidance in a highly specialized area of law, where information is often fragmented and difficult to interpret for officials without deep legal training.&lt;/p></description></item><item><title>SIRAL - Workplace Harassment Registration System</title><link>https://portfolio.sprintjudicial.com/en/project/siral-system/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/siral-system/</guid><description>&lt;p>&lt;strong>SIRAL&lt;/strong> is a comprehensive platform for managing workplace harassment complaints in the Colombian Judicial Branch, developed in compliance with Law 1010/2006, Law 1581/2012 (Habeas Data), Resolution 3461/2025, and the General Archives Law.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Complaint Filing&lt;/strong>: 4-step registration workflow with mandatory identification of involved parties&lt;/li>
+&lt;li>&lt;strong>Role-Based Access Control (RBAC)&lt;/strong>: 5 differentiated roles (Superadmin, CCL Admin, CCL Member, Official, Public)&lt;/li>
+&lt;li>&lt;strong>Resolution Workflow&lt;/strong>: State management with 6-month deadline per Resolution 3461/2025&lt;/li>
+&lt;li>&lt;strong>Chain of Custody&lt;/strong>: Immutable SHA-256 hash for digital evidence&lt;/li>
+&lt;li>&lt;strong>Digital Notifications&lt;/strong>: Automated communication to the alleged harasser (Law 2213/2022)&lt;/li>
+&lt;li>&lt;strong>Committee Minutes&lt;/strong>: Recording and management of Workplace Coexistence Committee minutes&lt;/li>
+&lt;li>&lt;strong>Anonymized Statistics&lt;/strong>: Public reports without personal data&lt;/li>
+&lt;li>&lt;strong>Document Retention&lt;/strong>: 20-year preservation in accordance with the General Archives Law&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12+, FastAPI, Pydantic v2, SQLAlchemy 2.0 (async)&lt;/li>
+&lt;li>&lt;strong>Database&lt;/strong>: PostgreSQL 16&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (10 pages + sidebar + timeline + charts)&lt;/li>
+&lt;li>&lt;strong>Security&lt;/strong>: JWT (python-jose, 15 min expiration), bcrypt, RBAC, OWASP Top 10&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: Docker Swarm, EasyPanel, Traefik (HTTPS), GHCR&lt;/li>
+&lt;li>&lt;strong>CI/CD&lt;/strong>: GitHub Actions (6 jobs: lint + test + build + deploy)&lt;/li>
+&lt;li>&lt;strong>Quality&lt;/strong>: pytest, ruff, mypy, bandit&lt;/li>
+&lt;/ul>
+&lt;h2 id="architecture">Architecture&lt;/h2>
+&lt;p>Layered architecture following Clean Architecture:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Core&lt;/strong>: Domain entities, value objects, enums&lt;/li>
+&lt;li>&lt;strong>Application&lt;/strong>: Use cases, DTOs (frozen dataclasses), service ports&lt;/li>
+&lt;li>&lt;strong>Infrastructure&lt;/strong>: Persistence, security, notifications, storage&lt;/li>
+&lt;li>&lt;strong>Interfaces&lt;/strong>: FastAPI routes (9 endpoints + Swagger), Streamlit GUI&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>283 tests&lt;/strong> passing at 100% with complete quality gates (pytest + ruff + mypy + bandit)&lt;/li>
+&lt;li>&lt;strong>99 Python source files&lt;/strong> in src/&lt;/li>
+&lt;li>&lt;strong>6 use cases&lt;/strong> implemented (file complaint, change status, query, list, detail, minutes)&lt;/li>
+&lt;li>&lt;strong>55 audit findings&lt;/strong> resolved at 100% (5 review agents)&lt;/li>
+&lt;li>&lt;strong>10 planning documents&lt;/strong> (P00-P09) and 4 sprints completed&lt;/li>
+&lt;li>&lt;strong>Security&lt;/strong>: OWASP Top 10 remediated, CSP, HSTS, path sanitization&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This system fully digitizes the workplace harassment management process in the Judicial Branch, ensuring regulatory compliance, traceability of every action, and protection of the personal data of involved parties.&lt;/p>
+&lt;p>SIRAL arose from the need to formalize and systematize the workplace harassment complaint process at the Judicial Services Center of the Antioquia Sectional, replacing manual processes prone to errors and delays with a robust, auditable technology solution.&lt;/p></description></item><item><title>TYBABot - Virtual Assistant for Justicia XXI Web</title><link>https://portfolio.sprintjudicial.com/en/project/tybabot/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tybabot/</guid><description>&lt;p>&lt;strong>TYBABot&lt;/strong> is a specialized virtual assistant for Colombia&amp;rsquo;s Justicia XXI Web (Tyba) system, developed with Streamlit and the OpenAI API. It provides guidance on electronic judicial management to officials and system operators.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Document Management&lt;/strong>: Guidance on e-judicial documents and their handling in Tyba&lt;/li>
+&lt;li>&lt;strong>Judicial Proceedings&lt;/strong>: Guide on registering and querying procedural actions&lt;/li>
+&lt;li>&lt;strong>Petitions&lt;/strong>: Assistance in managing electronic petitions (memoriales)&lt;/li>
+&lt;li>&lt;strong>Notifications&lt;/strong>: Guidance on the digital notification system&lt;/li>
+&lt;li>&lt;strong>Electronic Signatures&lt;/strong>: Support for judicial electronic signature processes&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI Assistants API v2&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: Language model with specialized knowledge base on Tyba&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>TYBABot reduces the learning curve for judicial officials interacting with the Tyba system, providing contextualized responses based on the official system documentation and best practices for electronic judicial management.&lt;/p>
+&lt;p>This assistant was born from direct experience working with the Justicia XXI Web system in the Judicial Branch, identifying the most frequent difficulties officials face when adopting electronic document management tools.&lt;/p></description></item><item><title>TutelaBot - Fundamental Rights Assistant</title><link>https://portfolio.sprintjudicial.com/en/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tutelabot/</guid><description>&lt;p>&lt;strong>TutelaBot&lt;/strong> is a virtual assistant specialized in Colombian constitutional mechanisms for the protection of fundamental rights: the Accion de Tutela (constitutional protection action) and the Derecho de Peticion (right to petition).&lt;/p>
+&lt;h2 id="knowledge-base">Knowledge Base&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Political Constitution of Colombia 1991&lt;/strong>: Relevant articles on fundamental rights&lt;/li>
+&lt;li>&lt;strong>Decree 2591 of 1991&lt;/strong>: Regulation of the Accion de Tutela&lt;/li>
+&lt;/ul>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Tutela Guidance&lt;/strong>: Assistance on requirements, procedures, deadlines, and scope of the Accion de Tutela&lt;/li>
+&lt;li>&lt;strong>Right to Petition&lt;/strong>: Support on how to exercise the right to petition before public and private entities&lt;/li>
+&lt;li>&lt;strong>Legal Foundation&lt;/strong>: Responses grounded in current constitutional regulations&lt;/li>
+&lt;li>&lt;strong>Accessible Language&lt;/strong>: Clear explanations for citizens without legal training&lt;/li>
+&lt;li>&lt;strong>Conversational Interaction&lt;/strong>: Natural dialogue to resolve legal questions&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>AI&lt;/strong>: Language model with Colombian constitutional knowledge&lt;/li>
+&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>TutelaBot democratizes access to information about fundamental rights protection mechanisms, enabling any citizen to understand how to exercise their constitutional rights without the need for prior legal counsel.&lt;/p>
+&lt;p>This project stems from the conviction that technology can reduce the justice access gap by providing basic legal guidance on the most widely used mechanisms by Colombian citizens to protect their fundamental rights.&lt;/p></description></item><item><title>LLM Chat App - Multi-Provider Application</title><link>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</guid><description>&lt;p>&lt;strong>LLM Chat App&lt;/strong> is an interactive chat web application with support for multiple language model providers, including Anthropic Claude and OpenAI GPT, featuring a clean interface and straightforward API key configuration.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Multi-Provider&lt;/strong>: Support for Anthropic Claude and OpenAI GPT in a single interface&lt;/li>
+&lt;li>&lt;strong>Simple Configuration&lt;/strong>: API key entry directly within the application&lt;/li>
+&lt;li>&lt;strong>Conversational Interface&lt;/strong>: Interactive chat with conversation history&lt;/li>
+&lt;li>&lt;strong>Docker Deployment&lt;/strong>: Production-ready Docker image&lt;/li>
+&lt;li>&lt;strong>Model Selection&lt;/strong>: Dynamic switching between providers and models&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
+&lt;li>&lt;strong>APIs&lt;/strong>: Anthropic Claude API, OpenAI API&lt;/li>
+&lt;li>&lt;strong>Container&lt;/strong>: Docker&lt;/li>
+&lt;li>&lt;strong>Language&lt;/strong>: Python&lt;/li>
+&lt;/ul>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This application simplifies experimentation with different language models by providing a unified interface for interacting with leading LLM providers, ideal for comparing responses and evaluating capabilities across models.&lt;/p>
+&lt;p>Developed as an exploration and demonstration tool for LLM API integration, facilitating rapid evaluation of different models for specific use cases.&lt;/p></description></item><item><title>Electronic Case File Management</title><link>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</guid><description>&lt;p>&lt;strong>Electronic Case File Management&lt;/strong> is a system developed to automate the assembly of electronic case files across all dependencies of the Colombian Judicial Branch. The project has evolved through two major versions.&lt;/p>
+&lt;h2 id="version-1---desktop-application-2022">Version 1 - Desktop Application (2022)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>MVC Architecture&lt;/strong>: Model-View-Controller pattern&lt;/li>
+&lt;li>&lt;strong>Graphical Interface&lt;/strong>: tkinter for judicial operators&lt;/li>
+&lt;li>&lt;strong>PDF Processing&lt;/strong>: pypdf2 for procedural document manipulation&lt;/li>
+&lt;li>&lt;strong>Excel Integration&lt;/strong>: xlwings and pandas for data manipulation&lt;/li>
+&lt;li>&lt;strong>Language&lt;/strong>: Python 3.9.6&lt;/li>
+&lt;/ul>
+&lt;h2 id="version-2---rda--streamlit-2024">Version 2 - RDA + Streamlit (2024)&lt;/h2>
+&lt;p>The second version combines Robotic Desktop Automation (RDA) with modern technologies:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Web Frontend&lt;/strong>: Streamlit deployed in the cloud (&lt;a href="https://gestionexpedienteelectronico.streamlit.app/" target="_blank" rel="noopener">Live App&lt;/a>)&lt;/li>
+&lt;li>&lt;strong>RDA&lt;/strong>: Robotic Desktop Automation for interaction with legacy systems&lt;/li>
+&lt;li>&lt;strong>Advanced Processing&lt;/strong>: Integration with modern document processing technologies&lt;/li>
+&lt;/ul>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Full Automation&lt;/strong>: Eliminates manual case file assembly operations&lt;/li>
+&lt;li>&lt;strong>PDF Processing&lt;/strong>: Automated organization, renaming, and structuring&lt;/li>
+&lt;li>&lt;strong>Judicial Integration&lt;/strong>: Designed for the specific workflow of the Judicial Branch&lt;/li>
+&lt;li>&lt;strong>Web Access&lt;/strong>: Version 2 accessible from any browser&lt;/li>
+&lt;li>&lt;strong>Ease of Use&lt;/strong>: Intuitive interface for judicial operators without technical knowledge&lt;/li>
+&lt;/ul>
+&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;p>&lt;strong>~200% reduction in time&lt;/strong> for electronic case file formalization, significantly optimizing operational efficiency in judicial dependencies nationwide.&lt;/p>
+&lt;h2 id="impact">Impact&lt;/h2>
+&lt;p>This project assists the manual operations of electronic case file assembly, automating repetitive processes and drastically reducing processing times. Version 2 amplifies this impact by being accessible from the cloud.&lt;/p>
+&lt;p>The evolution of this system reflects the author&amp;rsquo;s technological growth: from a desktop application with tkinter to a modern web solution with Streamlit and RDA, always maintaining focus on solving real problems for Colombian judicial operators. Repositories: &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">Version 1&lt;/a> | &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico" target="_blank" rel="noopener">Version 2&lt;/a>&lt;/p></description></item></channel></rss>
