@@ -1,20 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docassemble | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/docassemble/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/docassemble/index.xml" rel="self" type="application/rss+xml"/><description>Docassemble</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Docassemble</title><link>https://portfolio.sprintjudicial.com/tags/docassemble/</link></image><item><title>Docassemble Expert - Automatizacion de Documentos Legales</title><link>https://portfolio.sprintjudicial.com/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/docassemble-expert/</guid><description>&lt;p>&lt;strong>Docassemble Expert&lt;/strong> es un asistente especializado en el framework Docassemble, disenado para ayudar a desarrolladores, abogados y organizaciones a crear entrevistas web automatizadas y sistemas de generacion de documentos legales.&lt;/p>
-&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docassemble | Daniel Arbeláez Álvarez</title><link>https://portfolio.sprintjudicial.com/tags/docassemble/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/docassemble/index.xml" rel="self" type="application/rss+xml"/><description>Docassemble</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Docassemble</title><link>https://portfolio.sprintjudicial.com/tags/docassemble/</link></image><item><title>Docassemble Expert</title><link>https://portfolio.sprintjudicial.com/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/docassemble-expert/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Campo&lt;/th>
+&lt;th>Detalle&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Qué resuelve&lt;/strong>&lt;/td>
+&lt;td>Asistente conversacional para escribir y depurar entrevistas YAML del framework de código abierto Docassemble.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Estado&lt;/strong>&lt;/td>
+&lt;td>Publicado, con demo pública.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Licencia&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Código&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/docassemble-expert" target="_blank" rel="noopener">HammerDev99/docassemble-expert&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://docassemble-expert.streamlit.app" target="_blank" rel="noopener">docassemble-expert.streamlit.app&lt;/a>. La demo usa servicios de IA de terceros. No ingreses datos personales ni información de procesos reales.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Inicio&lt;/strong>&lt;/td>
+&lt;td>Primer commit: 25/09/2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Reconocimientos&lt;/strong>&lt;/td>
+&lt;td>Ninguno.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
+&lt;td>Construido por el autor a partir de una plantilla de otro autor (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">perfil del autor de la plantilla&lt;/a>), con equipo y cuentas propias, sin encargo ni instrucción de ninguna entidad o dependencia.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="qué-hace">Qué hace&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Expertise en YAML&lt;/strong>: Conocimiento avanzado de la sintaxis YAML de Docassemble&lt;/li>
-&lt;li>&lt;strong>Diseno de Entrevistas&lt;/strong>: Patrones para crear entrevistas web guiadas&lt;/li>
-&lt;li>&lt;strong>Generacion Documental&lt;/strong>: Automatizacion de creacion de documentos legales&lt;/li>
-&lt;li>&lt;strong>Mejores Practicas&lt;/strong>: Guia sobre patrones de diseno y arquitectura de formularios&lt;/li>
-&lt;li>&lt;strong>Logica Condicional&lt;/strong>: Asistencia en flujos de entrevista complejos con ramificacion&lt;/li>
+&lt;li>Explica la sintaxis YAML de Docassemble.&lt;/li>
+&lt;li>Ayuda a diseñar entrevistas guiadas con lógica condicional.&lt;/li>
+&lt;li>Orienta sobre la generación de documentos a partir de las respuestas.&lt;/li>
 &lt;/ul>
-&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Framework&lt;/strong>: Docassemble (sistema experto de codigo abierto)&lt;/li>
-&lt;li>&lt;strong>Lenguaje de Configuracion&lt;/strong>: YAML&lt;/li>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python&lt;/li>
-&lt;li>&lt;strong>Documentacion&lt;/strong>: Markdown&lt;/li>
-&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
-&lt;/ul>
-&lt;h2 id="impacto">Impacto&lt;/h2>
-&lt;p>Docassemble Expert facilita la adopcion de herramientas de automatizacion documental en el sector legal, reduciendo la barrera tecnica para abogados y organizaciones que buscan digitalizar sus procesos de generacion de documentos.&lt;/p>
-&lt;p>Este proyecto apoya la vision de democratizar la automatizacion legal, permitiendo que profesionales del derecho creen sus propias herramientas de generacion de documentos sin necesidad de conocimiento profundo en programacion.&lt;/p></description></item></channel></rss>
+&lt;h2 id="tecnologías">Tecnologías&lt;/h2>
+&lt;p>Python, Streamlit y la API de Assistants de OpenAI.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Herramienta personal de software libre, publicada a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item></channel></rss>

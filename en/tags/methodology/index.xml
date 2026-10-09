@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Methodology | Daniel Arbeláez Álvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/methodology/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/methodology/index.xml" rel="self" type="application/rss+xml"/><description>Methodology</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Methodology</title><link>https://portfolio.sprintjudicial.com/en/tags/methodology/</link></image><item><title>CDAID</title><link>https://portfolio.sprintjudicial.com/en/project/cdaid/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/cdaid/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Methodology and repository template for developing software with AI agents from specifications: conventions, layered documentation, agents, skills, and sprint, planning and audit templates.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>In development.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>Code not published.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>Not published.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 6 March 2026.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Personal project of the author, developed with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-includes">What it includes&lt;/h2>
+&lt;ul>
+&lt;li>Repository conventions and documentation organized by level of detail.&lt;/li>
+&lt;li>Agent and skill definitions for working with coding assistants.&lt;/li>
+&lt;li>Sprint, planning and audit templates.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;em>Personal project, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item></channel></rss>

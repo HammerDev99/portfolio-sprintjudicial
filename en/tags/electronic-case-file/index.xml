@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electronic Case File | Daniel Arbeláez Álvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/electronic-case-file/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/electronic-case-file/index.xml" rel="self" type="application/rss+xml"/><description>Electronic Case File</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Electronic Case File</title><link>https://portfolio.sprintjudicial.com/en/tags/electronic-case-file/</link></image><item><title>AgilEx (formerly GestionExpedienteElectronico)</title><link>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</link><pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Creates and fills in the electronic index of a court case file from the metadata of the files in a folder, following Agreement PCSJA20-11567 of 2020.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2022 Daniel Arbeláez&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">HammerDev99/GestionExpedienteElectronico_Version1&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Documentation&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://docs.agilex.sprintjudicial.com/" target="_blank" rel="noopener">docs.agilex.sprintjudicial.com&lt;/a> (in Spanish)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 5 January 2022. Registered with the DNDA (Colombian copyright office) on 3 November 2022 (Book 13, Volume 92, Entry 259), version 1.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>The author was a member of team Marduk, winner of the 1st JusticIALab Innovation Contest 2024, Data-Driven Justice category (&lt;a href="https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/construimos-la-justicia-del-futuro-con-el-primer-concurso-de-innovaci%C3%B3n-de-la-rama-judicial" target="_blank" rel="noopener">Superior Council of the Judiciary news, 13 December 2024&lt;/a>, in Spanish).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Version 1 (2022): personal project of the author, developed with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
+&lt;ul>
+&lt;li>Extracts metadata (page count, dates, format and size) from PDF, Word and Excel files.&lt;/li>
+&lt;li>Works in three modes: single folder, case file and multiple case files.&lt;/li>
+&lt;li>Validates the unique case identifier (CUI) and the folder structure.&lt;/li>
+&lt;li>Writes the index into an &lt;code>.xlsm&lt;/code> template.&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Tkinter, pandas, PyPDF2, xlwings, PyInstaller and MkDocs.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item></channel></rss>

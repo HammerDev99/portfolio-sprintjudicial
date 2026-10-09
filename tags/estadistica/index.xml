@@ -1,26 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Estadística | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/estadistica/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/estadistica/index.xml" rel="self" type="application/rss+xml"/><description>Estadística</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Estadística</title><link>https://portfolio.sprintjudicial.com/tags/estadistica/</link></image><item><title>Análisis Estadístico de Datos Experimentales</title><link>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</guid><description>&lt;p>&lt;strong>Análisis Estadístico de Datos Experimentales&lt;/strong> es una herramienta open source desarrollada para análisis y visualización de datos experimentales mediante técnicas estadísticas avanzadas.&lt;/p>
-&lt;h2 id="características-principales">Características Principales&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Estadística | Daniel Arbeláez Álvarez</title><link>https://portfolio.sprintjudicial.com/tags/estadistica/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/estadistica/index.xml" rel="self" type="application/rss+xml"/><description>Estadística</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Estadística</title><link>https://portfolio.sprintjudicial.com/tags/estadistica/</link></image><item><title>Análisis estadístico de datos experimentales</title><link>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</link><pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/analisis-estadistico-experimental/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Campo&lt;/th>
+&lt;th>Detalle&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Qué resuelve&lt;/strong>&lt;/td>
+&lt;td>Documenta paso a paso un análisis de varianza (ANOVA) y una prueba de Tukey en R sobre datos de un experimento agronómico.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Estado&lt;/strong>&lt;/td>
+&lt;td>Publicado.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Licencia&lt;/strong>&lt;/td>
+&lt;td>Repositorio público sin archivo de licencia.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Código&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/analisis_estadistico_datos_expetimentales" target="_blank" rel="noopener">HammerDev99/analisis_estadistico_datos_expetimentales&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Inicio&lt;/strong>&lt;/td>
+&lt;td>Primer commit: 31/10/2024.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Reconocimientos&lt;/strong>&lt;/td>
+&lt;td>Ninguno.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
+&lt;td>Proyecto personal del autor, desarrollado con equipo y cuentas propias, sin encargo ni instrucción de ninguna entidad o dependencia.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="qué-hace">Qué hace&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Análisis ANOVA&lt;/strong>: Implementación de análisis de varianza para comparación de tratamientos&lt;/li>
-&lt;li>&lt;strong>Prueba de Tukey&lt;/strong>: Análisis post-hoc para identificar diferencias significativas&lt;/li>
-&lt;li>&lt;strong>Visualización Avanzada&lt;/strong>: Gráficos estadísticos que muestran diferencias entre grupos&lt;/li>
-&lt;li>&lt;strong>Exportación de Resultados&lt;/strong>: Guardado automático de resultados en archivos CSV&lt;/li>
-&lt;li>&lt;strong>Open Source&lt;/strong>: Código abierto disponible para la comunidad científica&lt;/li>
+&lt;li>Compara tratamientos con ANOVA y prueba de Tukey.&lt;/li>
+&lt;li>Genera gráficos de las diferencias entre grupos y guarda los resultados en CSV.&lt;/li>
 &lt;/ul>
-&lt;h2 id="tecnologías-utilizadas">Tecnologías Utilizadas&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Lenguaje&lt;/strong>: R en RStudio&lt;/li>
-&lt;li>&lt;strong>Librerías Especializadas&lt;/strong>:
-&lt;ul>
-&lt;li>ggplot2 para visualización avanzada&lt;/li>
-&lt;li>dplyr para manipulación de datos&lt;/li>
-&lt;li>readr para importación desde archivos CSV&lt;/li>
-&lt;li>multcompView para pruebas post-hoc y visualización de significancias&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
-&lt;p>Demostró mi &lt;strong>habilidad en el manejo de datos&lt;/strong> y en la &lt;strong>interpretación de resultados estadísticos&lt;/strong> para respaldar decisiones basadas en evidencia experimental.&lt;/p>
-&lt;h2 id="impacto-científico">Impacto Científico&lt;/h2>
-&lt;p>Este proyecto evalúa datos experimentales mediante técnicas avanzadas, incluyendo ANOVA y Prueba de Tukey, generando visualizaciones que facilitan la interpretación de diferencias significativas entre grupos experimentales.&lt;/p>
-&lt;p>La herramienta se centra en comparar tratamientos experimentales y generar visualizaciones claras que permiten a investigadores identificar patrones y diferencias estadísticamente significativas en sus datos, contribuyendo al análisis científico basado en evidencia.&lt;/p></description></item></channel></rss>
+&lt;h2 id="tecnologías">Tecnologías&lt;/h2>
+&lt;p>R, RStudio, ggplot2, dplyr, readr y multcompView.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Proyecto personal, publicado a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item></channel></rss>

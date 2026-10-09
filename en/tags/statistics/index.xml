@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Statistics | Daniel Arbeláez Álvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/statistics/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/statistics/index.xml" rel="self" type="application/rss+xml"/><description>Statistics</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Statistics</title><link>https://portfolio.sprintjudicial.com/en/tags/statistics/</link></image><item><title>Statistical analysis of experimental data</title><link>https://portfolio.sprintjudicial.com/en/project/analisis-estadistico-experimental/</link><pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/analisis-estadistico-experimental/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Documents, step by step, an analysis of variance (ANOVA) and a Tukey test in R on data from an agronomic experiment.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>Public repository without a license file.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/analisis_estadistico_datos_expetimentales" target="_blank" rel="noopener">HammerDev99/analisis_estadistico_datos_expetimentales&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 31 October 2024.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Personal project of the author, developed with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
+&lt;ul>
+&lt;li>Compares treatments with ANOVA and the Tukey test.&lt;/li>
+&lt;li>Plots the differences between groups and saves the results to CSV.&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>R, RStudio, ggplot2, dplyr, readr and multcompView.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal project, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item></channel></rss>

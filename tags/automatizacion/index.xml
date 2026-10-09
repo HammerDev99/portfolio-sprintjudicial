@@ -1,69 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Automatizacion | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/tags/automatizacion/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/automatizacion/index.xml" rel="self" type="application/rss+xml"/><description>Automatizacion</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Automatizacion</title><link>https://portfolio.sprintjudicial.com/tags/automatizacion/</link></image><item><title>Docassemble Expert - Automatizacion de Documentos Legales</title><link>https://portfolio.sprintjudicial.com/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/docassemble-expert/</guid><description>&lt;p>&lt;strong>Docassemble Expert&lt;/strong> es un asistente especializado en el framework Docassemble, disenado para ayudar a desarrolladores, abogados y organizaciones a crear entrevistas web automatizadas y sistemas de generacion de documentos legales.&lt;/p>
-&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Automatización | Daniel Arbeláez Álvarez</title><link>https://portfolio.sprintjudicial.com/tags/automatizacion/</link><atom:link href="https://portfolio.sprintjudicial.com/tags/automatizacion/index.xml" rel="self" type="application/rss+xml"/><description>Automatización</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Automatización</title><link>https://portfolio.sprintjudicial.com/tags/automatizacion/</link></image><item><title>AgilEx (antes GestionExpedienteElectronico)</title><link>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</link><pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Campo&lt;/th>
+&lt;th>Detalle&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Qué resuelve&lt;/strong>&lt;/td>
+&lt;td>Crea y diligencia el índice electrónico de un expediente judicial a partir de los metadatos de los archivos de una carpeta, según el Acuerdo PCSJA20-11567 de 2020.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Estado&lt;/strong>&lt;/td>
+&lt;td>Publicado.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Licencia&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2022 Daniel Arbeláez&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Código&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">HammerDev99/GestionExpedienteElectronico_Version1&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Documentación&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://docs.agilex.sprintjudicial.com/" target="_blank" rel="noopener">docs.agilex.sprintjudicial.com&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Inicio&lt;/strong>&lt;/td>
+&lt;td>Primer commit: 05/01/2022. Registro ante la DNDA: 03/11/2022 (Libro 13, Tomo 92, Partida 259), versión 1.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Reconocimientos&lt;/strong>&lt;/td>
+&lt;td>El autor integró el equipo Marduk, ganador del I Concurso de Innovación JusticIALab 2024, categoría Justicia Basada en Datos (&lt;a href="https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/construimos-la-justicia-del-futuro-con-el-primer-concurso-de-innovaci%C3%B3n-de-la-rama-judicial" target="_blank" rel="noopener">noticia del Consejo Superior de la Judicatura, 13/12/2024&lt;/a>).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
+&lt;td>Versión 1 (2022): proyecto personal del autor, desarrollado con equipo y cuentas propias, sin encargo ni instrucción de ninguna entidad o dependencia.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="qué-hace">Qué hace&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Expertise en YAML&lt;/strong>: Conocimiento avanzado de la sintaxis YAML de Docassemble&lt;/li>
-&lt;li>&lt;strong>Diseno de Entrevistas&lt;/strong>: Patrones para crear entrevistas web guiadas&lt;/li>
-&lt;li>&lt;strong>Generacion Documental&lt;/strong>: Automatizacion de creacion de documentos legales&lt;/li>
-&lt;li>&lt;strong>Mejores Practicas&lt;/strong>: Guia sobre patrones de diseno y arquitectura de formularios&lt;/li>
-&lt;li>&lt;strong>Logica Condicional&lt;/strong>: Asistencia en flujos de entrevista complejos con ramificacion&lt;/li>
+&lt;li>Extrae metadatos (número de páginas, fechas, formato y tamaño) de archivos PDF, Word y Excel.&lt;/li>
+&lt;li>Trabaja en tres modos: cuaderno único, expediente y varios expedientes.&lt;/li>
+&lt;li>Valida el código único de identificación (CUI) y la estructura de carpetas.&lt;/li>
+&lt;li>Escribe el índice sobre una plantilla en formato &lt;code>.xlsm&lt;/code>.&lt;/li>
 &lt;/ul>
-&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Framework&lt;/strong>: Docassemble (sistema experto de codigo abierto)&lt;/li>
-&lt;li>&lt;strong>Lenguaje de Configuracion&lt;/strong>: YAML&lt;/li>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python&lt;/li>
-&lt;li>&lt;strong>Documentacion&lt;/strong>: Markdown&lt;/li>
-&lt;li>&lt;strong>Despliegue&lt;/strong>: Streamlit Cloud (accesible tambien desde &lt;a href="https://chat.sprintjudicial.com" target="_blank" rel="noopener">chat.sprintjudicial.com&lt;/a>)&lt;/li>
-&lt;/ul>
-&lt;h2 id="impacto">Impacto&lt;/h2>
-&lt;p>Docassemble Expert facilita la adopcion de herramientas de automatizacion documental en el sector legal, reduciendo la barrera tecnica para abogados y organizaciones que buscan digitalizar sus procesos de generacion de documentos.&lt;/p>
-&lt;p>Este proyecto apoya la vision de democratizar la automatizacion legal, permitiendo que profesionales del derecho creen sus propias herramientas de generacion de documentos sin necesidad de conocimiento profundo en programacion.&lt;/p></description></item><item><title>DocumentGenerator - Generacion Masiva de Documentos</title><link>https://portfolio.sprintjudicial.com/project/document-generator/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/document-generator/</guid><description>&lt;p>&lt;strong>DocumentGenerator&lt;/strong> es un sistema de generacion masiva de documentos que utiliza plantillas Word y datos de hojas de calculo Excel para producir grandes volumenes de documentos estandarizados con procesamiento concurrente.&lt;/p>
-&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Generacion Masiva&lt;/strong>: Creacion de cientos de documentos a partir de una plantilla y datos XLSX&lt;/li>
-&lt;li>&lt;strong>Procesamiento Concurrente&lt;/strong>: ThreadPoolExecutor para generacion en paralelo&lt;/li>
-&lt;li>&lt;strong>Plantillas Flexibles&lt;/strong>: Motor python-docx-template con sintaxis Jinja2&lt;/li>
-&lt;li>&lt;strong>Configuracion YAML&lt;/strong>: Parametrizacion completa sin modificar codigo&lt;/li>
-&lt;li>&lt;strong>Logging Estructurado&lt;/strong>: Registro JSON de cada operacion&lt;/li>
-&lt;li>&lt;strong>Gestion de Errores&lt;/strong>: Manejo robusto de errores por documento individual&lt;/li>
-&lt;/ul>
-&lt;h2 id="tecnologias-utilizadas">Tecnologias Utilizadas&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Lenguaje&lt;/strong>: Python 3.9+&lt;/li>
-&lt;li>&lt;strong>Templates&lt;/strong>: python-docx-template (Jinja2 para Word)&lt;/li>
-&lt;li>&lt;strong>Datos&lt;/strong>: pandas (lectura XLSX)&lt;/li>
-&lt;li>&lt;strong>Concurrencia&lt;/strong>: concurrent.futures (ThreadPoolExecutor)&lt;/li>
-&lt;li>&lt;strong>Configuracion&lt;/strong>: YAML&lt;/li>
-&lt;li>&lt;strong>Logging&lt;/strong>: JSON estructurado&lt;/li>
-&lt;/ul>
-&lt;h2 id="impacto">Impacto&lt;/h2>
-&lt;p>DocumentGenerator automatiza la creacion de documentacion oficial en lote, eliminando la produccion manual de documentos repetitivos y reduciendo errores de transcripcion en entornos donde se requiere generar grandes volumenes de comunicaciones estandarizadas.&lt;/p>
-&lt;p>Este proyecto surge de la necesidad de generar masivamente documentos oficiales en dependencias judiciales, donde cada documento comparte una estructura comun pero difiere en datos especificos de las partes involucradas.&lt;/p></description></item><item><title>Gestion de Expediente Electronico</title><link>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/gestion-expediente-electronico/</guid><description>&lt;p>&lt;strong>Gestion de Expediente Electronico&lt;/strong> es un sistema desarrollado para automatizar la conformacion del expediente electronico en todas las dependencias de la Rama Judicial de Colombia. El proyecto ha evolucionado a traves de dos versiones principales.&lt;/p>
-&lt;h2 id="version-1---aplicacion-desktop-2022">Version 1 - Aplicacion Desktop (2022)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Arquitectura MVC&lt;/strong>: Patron Modelo-Vista-Controlador&lt;/li>
-&lt;li>&lt;strong>Interfaz Grafica&lt;/strong>: tkinter para operadores judiciales&lt;/li>
-&lt;li>&lt;strong>Procesamiento PDF&lt;/strong>: pypdf2 para manipulacion de documentos procesales&lt;/li>
-&lt;li>&lt;strong>Integracion Excel&lt;/strong>: xlwings y pandas para manipulacion de datos&lt;/li>
-&lt;li>&lt;strong>Lenguaje&lt;/strong>: Python 3.9.6&lt;/li>
-&lt;/ul>
-&lt;h2 id="version-2---rda--streamlit-2024">Version 2 - RDA + Streamlit (2024)&lt;/h2>
-&lt;p>La segunda version combina Automatizacion Robotica de Escritorio (RDA) con tecnologias modernas:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Frontend Web&lt;/strong>: Streamlit desplegado en la nube (&lt;a href="https://gestionexpedienteelectronico.streamlit.app/" target="_blank" rel="noopener">App en vivo&lt;/a>)&lt;/li>
-&lt;li>&lt;strong>RDA&lt;/strong>: Automatizacion robotica de escritorio para interaccion con sistemas legados&lt;/li>
-&lt;li>&lt;strong>Procesamiento Avanzado&lt;/strong>: Integracion con tecnologias modernas de procesamiento documental&lt;/li>
-&lt;/ul>
-&lt;h2 id="caracteristicas-principales">Caracteristicas Principales&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Automatizacion Completa&lt;/strong>: Elimina operaciones manuales de conformacion de expedientes&lt;/li>
-&lt;li>&lt;strong>Procesamiento de PDFs&lt;/strong>: Organizacion, renombrado y estructuracion automatica&lt;/li>
-&lt;li>&lt;strong>Integracion Judicial&lt;/strong>: Disenada para el flujo de trabajo especifico de la Rama Judicial&lt;/li>
-&lt;li>&lt;strong>Acceso Web&lt;/strong>: Version 2 accesible desde cualquier navegador&lt;/li>
-&lt;li>&lt;strong>Facilidad de Uso&lt;/strong>: Interfaz intuitiva para operadores judiciales sin conocimiento tecnico&lt;/li>
-&lt;/ul>
-&lt;h2 id="logros-alcanzados">Logros Alcanzados&lt;/h2>
-&lt;p>&lt;strong>Disminucion del ~200% en el tiempo&lt;/strong> de protocolizacion de expedientes electronicos, optimizando significativamente la eficiencia operacional en dependencias judiciales a nivel nacional.&lt;/p>
-&lt;h2 id="impacto">Impacto&lt;/h2>
-&lt;p>Este proyecto asiste las operaciones manuales de conformacion del expediente electronico, automatizando procesos repetitivos y reduciendo drasticamente los tiempos de procesamiento. La Version 2 amplifica este impacto al ser accesible desde la nube.&lt;/p>
-&lt;p>La evolucion de este sistema refleja el crecimiento tecnologico del autor: desde una aplicacion desktop con tkinter hasta una solucion web moderna con Streamlit y RDA, manteniendo siempre el enfoque en resolver problemas reales de los operadores judiciales colombianos. Repositorios: &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">Version 1&lt;/a> | &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico" target="_blank" rel="noopener">Version 2&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;h2 id="tecnologías">Tecnologías&lt;/h2>
+&lt;p>Python, Tkinter, pandas, PyPDF2, xlwings, PyInstaller y MkDocs.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Herramienta personal de software libre, publicada a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item></channel></rss>

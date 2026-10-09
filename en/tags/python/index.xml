@@ -1,374 +1,306 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/python/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/python/index.xml" rel="self" type="application/rss+xml"/><description>Python</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Python</title><link>https://portfolio.sprintjudicial.com/en/tags/python/</link></image><item><title>FocusCoach - AI Coaching with DISC Methodology</title><link>https://portfolio.sprintjudicial.com/en/project/focuscoach/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/focuscoach/</guid><description>&lt;p>&lt;strong>FocusCoach&lt;/strong> is a personalized coaching platform powered by artificial intelligence and the DISC personality profiling methodology, designed to help entrepreneurs (especially high-I profiles) prevent project abandonment.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python | Daniel Arbeláez Álvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/python/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/python/index.xml" rel="self" type="application/rss+xml"/><description>Python</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Python</title><link>https://portfolio.sprintjudicial.com/en/tags/python/</link></image><item><title>DisciplinaJudicialAI</title><link>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant that guides judicial servants on the disciplinary regime (Laws 1952 of 2019, 2094 of 2021 and 270 of 1996), without advice on specific cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published, with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Scope&lt;/strong>&lt;/td>
+&lt;td>General guidance. It does not replace advice from a lawyer and does not handle specific cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/disciplinajudicialai" target="_blank" rel="noopener">HammerDev99/disciplinajudicialai&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://disciplinajudicialai.streamlit.app/" target="_blank" rel="noopener">disciplinajudicialai.streamlit.app&lt;/a> (in Spanish). The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 6 March 2026.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Adaptive Coaching&lt;/strong>: Personalized sessions based on the user&amp;rsquo;s DISC profile&lt;/li>
-&lt;li>&lt;strong>FOCUS-SPRINT Framework&lt;/strong>: Proprietary methodology for sprint-based project management&lt;/li>
-&lt;li>&lt;strong>Parking Lot&lt;/strong>: Idea management system to avoid distractions&lt;/li>
-&lt;li>&lt;strong>DISC Gamification&lt;/strong>: Reward system adapted to the user&amp;rsquo;s personality profile&lt;/li>
-&lt;li>&lt;strong>Active Learning&lt;/strong>: The AI learns from interactions to improve recommendations&lt;/li>
-&lt;li>&lt;strong>Document OCR&lt;/strong>: Document processing with Mistral AI OCR&lt;/li>
+&lt;li>Explains the stages and deadlines of the disciplinary process.&lt;/li>
+&lt;li>Guides users on how offences are classified, the sanctions and the rights of the person under investigation.&lt;/li>
 &lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit, the OpenAI Assistants API and the texts of the cited laws.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>Docassemble Expert</title><link>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant for writing and debugging YAML interviews for the open-source Docassemble framework.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published, with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/docassemble-expert" target="_blank" rel="noopener">HammerDev99/docassemble-expert&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://docassemble-expert.streamlit.app" target="_blank" rel="noopener">docassemble-expert.streamlit.app&lt;/a>. The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 25 September 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12, FastAPI 0.115, Pydantic v2&lt;/li>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit 1.41&lt;/li>
-&lt;li>&lt;strong>AI&lt;/strong>: OpenAI Assistants API, LangChain&lt;/li>
-&lt;li>&lt;strong>Database&lt;/strong>: SQLite + FTS5 (WAL mode)&lt;/li>
-&lt;li>&lt;strong>Architecture&lt;/strong>: Clean Architecture (5 layers), DI, Railway-Oriented Programming (returns)&lt;/li>
-&lt;li>&lt;strong>Quality&lt;/strong>: pytest + hypothesis, ruff, mypy &amp;ndash;strict&lt;/li>
-&lt;li>&lt;strong>Deployment&lt;/strong>: Docker (2-stage build)&lt;/li>
+&lt;li>Explains Docassemble&amp;rsquo;s YAML syntax.&lt;/li>
+&lt;li>Helps design guided interviews with conditional logic.&lt;/li>
+&lt;li>Guides users on generating documents from the answers.&lt;/li>
 &lt;/ul>
-&lt;h2 id="architecture">Architecture&lt;/h2>
-&lt;p>Clean Architecture implementation with 5 layers and advanced patterns:&lt;/p>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>TYBABot</title><link>https://portfolio.sprintjudicial.com/en/project/tybabot/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tybabot/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant that guides users on Justicia XXI Web (TYBA), Colombia&amp;rsquo;s court case management system, based on the system&amp;rsquo;s procedures manual (August 2023 version).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published, with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/TYBABot" target="_blank" rel="noopener">HammerDev99/TYBABot&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://tybabot.streamlit.app" target="_blank" rel="noopener">tybabot.streamlit.app&lt;/a> (in Spanish). The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 19 September 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Strategy Pattern&lt;/strong> for adapting coaching based on DISC profile&lt;/li>
-&lt;li>&lt;strong>Dependency Injection&lt;/strong> for service decoupling&lt;/li>
-&lt;li>&lt;strong>Railway-Oriented Programming&lt;/strong> (Result[T, E]) for error handling&lt;/li>
-&lt;li>&lt;strong>28 experimental notebooks&lt;/strong> validating 8 MVPs before implementation&lt;/li>
+&lt;li>Answers questions about electronic documents, case entries, filings, notifications and signatures in Justicia XXI Web.&lt;/li>
+&lt;li>Lets users upload documents and export the conversation to PDF.&lt;/li>
 &lt;/ul>
-&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>TutelaBot (adaptation)</title><link>https://portfolio.sprintjudicial.com/en/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tutelabot/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant on the acción de tutela (constitutional protection action) and the right of petition, based on the 1991 Constitution, Decree 2591 of 1991 and Law 1755 of 2015.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published (adaptation), with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2023&amp;rdquo; held by the author of the &lt;a href="https://github.com/alexanderoviedofadul/TutelaBot" target="_blank" rel="noopener">original project&lt;/a>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/TutelaBot" target="_blank" rel="noopener">HammerDev99/TutelaBot&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://tutela-bot.streamlit.app/" target="_blank" rel="noopener">tutela-bot.streamlit.app&lt;/a> (in Spanish). The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>Adaptation since 18 September 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Adaptation of an &lt;a href="https://github.com/alexanderoviedofadul/TutelaBot" target="_blank" rel="noopener">MIT-licensed project by another author&lt;/a>. Changes by the author (September and October 2025): own assistant configuration, reference legal documents, removal of one module, and usage analytics. Done with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>46 tests&lt;/strong> passing with strict type checking (mypy &amp;ndash;strict)&lt;/li>
-&lt;li>&lt;strong>8 validated MVPs&lt;/strong> in notebooks before migration to production&lt;/li>
-&lt;li>&lt;strong>5 architectural layers&lt;/strong> implemented with complete DI&lt;/li>
+&lt;li>Explains the requirements, procedure and deadlines of the acción de tutela.&lt;/li>
+&lt;li>Guides users on exercising the right of petition before public and private entities.&lt;/li>
+&lt;li>Answers in plain language, citing the relevant legal provisions.&lt;/li>
 &lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>FocusCoach addresses a common problem among entrepreneurs: project abandonment due to lack of focus and structure. By personalizing coaching according to DISC personality, the platform offers strategies that resonate with each user&amp;rsquo;s cognitive style.&lt;/p>
-&lt;p>This project combines knowledge from organizational psychology (DISC methodology), software engineering (Clean Architecture), and artificial intelligence (LLMs + RAG) to create an innovative personal productivity tool.&lt;/p></description></item><item><title>DisciplinaJudicial AI - Judicial Discipline Process Guidance</title><link>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</guid><description>&lt;p>&lt;strong>DisciplinaJudicial AI&lt;/strong> is an artificial intelligence assistant specialized in disciplinary processes for Colombian judicial servers, providing guidance on the disciplinary regime, offenses, sanctions, and rights.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>LLM Chat App</title><link>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Streamlit chat interface for talking to Anthropic (Claude) and OpenAI (GPT) models through their APIs, with deployment scripts for Ubuntu.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>Public repository without a license file.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/BotApiClaude" target="_blank" rel="noopener">HammerDev99/BotApiClaude&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 3 July 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Personal project of the author, developed with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Disciplinary Regime&lt;/strong>: Guidance on the regulatory framework for judicial server discipline&lt;/li>
-&lt;li>&lt;strong>Offense Classification&lt;/strong>: Assistance on the categorization and severity of disciplinary offenses&lt;/li>
-&lt;li>&lt;strong>Disciplinary Procedure&lt;/strong>: Support on stages and deadlines of the process&lt;/li>
-&lt;li>&lt;strong>Sanctions&lt;/strong>: Information on types of sanctions and their implications&lt;/li>
-&lt;li>&lt;strong>Rights of the Investigated&lt;/strong>: Guidance on procedural guarantees&lt;/li>
+&lt;li>Lets the user pick a provider and model and chat with history.&lt;/li>
+&lt;li>The API key is entered by the person using the app.&lt;/li>
+&lt;li>Includes a Dockerfile and deployment scripts with Caddy and systemd.&lt;/li>
 &lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit, Docker, Caddy and systemd.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal project, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>AgilEx (formerly GestionExpedienteElectronico)</title><link>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</link><pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Creates and fills in the electronic index of a court case file from the metadata of the files in a folder, following Agreement PCSJA20-11567 of 2020.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2022 Daniel Arbeláez&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">HammerDev99/GestionExpedienteElectronico_Version1&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Documentation&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://docs.agilex.sprintjudicial.com/" target="_blank" rel="noopener">docs.agilex.sprintjudicial.com&lt;/a> (in Spanish)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 5 January 2022. Registered with the DNDA (Colombian copyright office) on 3 November 2022 (Book 13, Volume 92, Entry 259), version 1.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>The author was a member of team Marduk, winner of the 1st JusticIALab Innovation Contest 2024, Data-Driven Justice category (&lt;a href="https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/construimos-la-justicia-del-futuro-con-el-primer-concurso-de-innovaci%C3%B3n-de-la-rama-judicial" target="_blank" rel="noopener">Superior Council of the Judiciary news, 13 December 2024&lt;/a>, in Spanish).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Version 1 (2022): personal project of the author, developed with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
-&lt;li>&lt;strong>AI&lt;/strong>: Language model with a knowledge base in judicial disciplinary law&lt;/li>
-&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
+&lt;li>Extracts metadata (page count, dates, format and size) from PDF, Word and Excel files.&lt;/li>
+&lt;li>Works in three modes: single folder, case file and multiple case files.&lt;/li>
+&lt;li>Validates the unique case identifier (CUI) and the folder structure.&lt;/li>
+&lt;li>Writes the index into an &lt;code>.xlsm&lt;/code> template.&lt;/li>
 &lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>DisciplinaJudicial AI facilitates access to information about the judicial disciplinary regime, helping judicial servers understand their obligations, rights, and the consequences of failing to fulfill their functional duties.&lt;/p>
-&lt;p>This assistant was born from the need to provide accessible guidance in a highly specialized area of law, where information is often fragmented and difficult to interpret for officials without deep legal training.&lt;/p></description></item><item><title>SIRAL - Workplace Harassment Registration System</title><link>https://portfolio.sprintjudicial.com/en/project/siral-system/</link><pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/siral-system/</guid><description>&lt;p>&lt;strong>SIRAL&lt;/strong> is a comprehensive platform for managing workplace harassment complaints in the Colombian Judicial Branch, developed in compliance with Law 1010/2006, Law 1581/2012 (Habeas Data), Resolution 3461/2025, and the General Archives Law.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Complaint Filing&lt;/strong>: 4-step registration workflow with mandatory identification of involved parties&lt;/li>
-&lt;li>&lt;strong>Role-Based Access Control (RBAC)&lt;/strong>: 5 differentiated roles (Superadmin, CCL Admin, CCL Member, Official, Public)&lt;/li>
-&lt;li>&lt;strong>Resolution Workflow&lt;/strong>: State management with 6-month deadline per Resolution 3461/2025&lt;/li>
-&lt;li>&lt;strong>Chain of Custody&lt;/strong>: Immutable SHA-256 hash for digital evidence&lt;/li>
-&lt;li>&lt;strong>Digital Notifications&lt;/strong>: Automated communication to the alleged harasser (Law 2213/2022)&lt;/li>
-&lt;li>&lt;strong>Committee Minutes&lt;/strong>: Recording and management of Workplace Coexistence Committee minutes&lt;/li>
-&lt;li>&lt;strong>Anonymized Statistics&lt;/strong>: Public reports without personal data&lt;/li>
-&lt;li>&lt;strong>Document Retention&lt;/strong>: 20-year preservation in accordance with the General Archives Law&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12+, FastAPI, Pydantic v2, SQLAlchemy 2.0 (async)&lt;/li>
-&lt;li>&lt;strong>Database&lt;/strong>: PostgreSQL 16&lt;/li>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (10 pages + sidebar + timeline + charts)&lt;/li>
-&lt;li>&lt;strong>Security&lt;/strong>: JWT (python-jose, 15 min expiration), bcrypt, RBAC, OWASP Top 10&lt;/li>
-&lt;li>&lt;strong>Infrastructure&lt;/strong>: Docker Swarm, EasyPanel, Traefik (HTTPS), GHCR&lt;/li>
-&lt;li>&lt;strong>CI/CD&lt;/strong>: GitHub Actions (6 jobs: lint + test + build + deploy)&lt;/li>
-&lt;li>&lt;strong>Quality&lt;/strong>: pytest, ruff, mypy, bandit&lt;/li>
-&lt;/ul>
-&lt;h2 id="architecture">Architecture&lt;/h2>
-&lt;p>Layered architecture following Clean Architecture:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Core&lt;/strong>: Domain entities, value objects, enums&lt;/li>
-&lt;li>&lt;strong>Application&lt;/strong>: Use cases, DTOs (frozen dataclasses), service ports&lt;/li>
-&lt;li>&lt;strong>Infrastructure&lt;/strong>: Persistence, security, notifications, storage&lt;/li>
-&lt;li>&lt;strong>Interfaces&lt;/strong>: FastAPI routes (9 endpoints + Swagger), Streamlit GUI&lt;/li>
-&lt;/ul>
-&lt;h2 id="achievements">Achievements&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>283 tests&lt;/strong> passing at 100% with complete quality gates (pytest + ruff + mypy + bandit)&lt;/li>
-&lt;li>&lt;strong>99 Python source files&lt;/strong> in src/&lt;/li>
-&lt;li>&lt;strong>6 use cases&lt;/strong> implemented (file complaint, change status, query, list, detail, minutes)&lt;/li>
-&lt;li>&lt;strong>55 audit findings&lt;/strong> resolved at 100% (5 review agents)&lt;/li>
-&lt;li>&lt;strong>10 planning documents&lt;/strong> (P00-P09) and 4 sprints completed&lt;/li>
-&lt;li>&lt;strong>Security&lt;/strong>: OWASP Top 10 remediated, CSP, HSTS, path sanitization&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>This system fully digitizes the workplace harassment management process in the Judicial Branch, ensuring regulatory compliance, traceability of every action, and protection of the personal data of involved parties.&lt;/p>
-&lt;p>SIRAL arose from the need to formalize and systematize the workplace harassment complaint process at the Judicial Services Center of the Antioquia Sectional, replacing manual processes prone to errors and delays with a robust, auditable technology solution.&lt;/p></description></item><item><title>Sherlock-docs - Intelligent Legal Document Processing</title><link>https://portfolio.sprintjudicial.com/en/project/sherlock-docs/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/sherlock-docs/</guid><description>&lt;p>&lt;strong>Sherlock-docs&lt;/strong> is an intelligent processing system for judicial documents (tutelas and habeas corpus) that combines OCR, named entity recognition (NER), and duplicate detection. All processing is 100% local, with no data sent to external APIs.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Hybrid OCR&lt;/strong>: PaddleOCR + Tesseract for scanned and digital documents&lt;/li>
-&lt;li>&lt;strong>Legal NER&lt;/strong>: Entity extraction with SpaCy, F1 score of 85.3% validated by humans&lt;/li>
-&lt;li>&lt;strong>Multi-Level Duplicate Detection&lt;/strong>: SHA-256 hash, LZJD fuzzy hash, TF-IDF, Sentence-Transformers&lt;/li>
-&lt;li>&lt;strong>Advanced Search&lt;/strong>: SQLite FTS5 full-text search with advanced filtering&lt;/li>
-&lt;li>&lt;strong>Complete REST API&lt;/strong>: 22 FastAPI endpoints with JWT authentication and Swagger documentation&lt;/li>
-&lt;li>&lt;strong>Graphical Interface&lt;/strong>: 9 Streamlit pages for interactive document management&lt;/li>
-&lt;li>&lt;strong>CLI&lt;/strong>: 20 commands for batch operations&lt;/li>
-&lt;li>&lt;strong>Active Learning&lt;/strong>: Interface for human validation of NER entities&lt;/li>
-&lt;li>&lt;strong>Export&lt;/strong>: Excel report generation&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12.4, FastAPI, Pydantic&lt;/li>
-&lt;li>&lt;strong>OCR&lt;/strong>: PaddleOCR + Tesseract&lt;/li>
-&lt;li>&lt;strong>NLP/NER&lt;/strong>: SpaCy (Spanish legal model)&lt;/li>
-&lt;li>&lt;strong>Database&lt;/strong>: SQLite + FTS5 (33 columns, 11 indexes, WAL mode)&lt;/li>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit (9 pages)&lt;/li>
-&lt;li>&lt;strong>Architecture&lt;/strong>: Layered Clean Architecture, Result-Oriented Programming (returns)&lt;/li>
-&lt;li>&lt;strong>Security&lt;/strong>: JWT, RBAC, rate limiting, security headers&lt;/li>
-&lt;li>&lt;strong>Deployment&lt;/strong>: Docker, Easypanel, automated GitHub Webhook&lt;/li>
-&lt;/ul>
-&lt;h2 id="architecture">Architecture&lt;/h2>
-&lt;p>5 layers with ServiceContainer (14 lazy-loaded properties):&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Core&lt;/strong>: Entities, value objects&lt;/li>
-&lt;li>&lt;strong>Application&lt;/strong>: Use cases, DTOs, ServiceContainer&lt;/li>
-&lt;li>&lt;strong>Infrastructure&lt;/strong>: OCR, NER, deduplication, logging&lt;/li>
-&lt;li>&lt;strong>Persistence&lt;/strong>: SQLite + FTS5 with ISP ports&lt;/li>
-&lt;li>&lt;strong>Interfaces&lt;/strong>: Streamlit GUI, CLI (20 commands), FastAPI REST (22 endpoints)&lt;/li>
-&lt;/ul>
-&lt;h2 id="achievements">Achievements&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>1,832 tests&lt;/strong> (1,770 unit + 62 integration) with &lt;strong>87% coverage&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>NER F1 85.3%&lt;/strong> with data validated by human operators&lt;/li>
-&lt;li>&lt;strong>22 REST endpoints&lt;/strong> documented and functional&lt;/li>
-&lt;li>&lt;strong>16/16 security SECs&lt;/strong> + 4 SEC-API implemented&lt;/li>
-&lt;li>&lt;strong>9 sprints&lt;/strong> completed (S23-S28) with 30 planning documents&lt;/li>
-&lt;li>&lt;strong>mypy 0 errors&lt;/strong> in strict mode across 130 files&lt;/li>
-&lt;li>&lt;strong>Certified SDD audit&lt;/strong>: 39 conforming, 0 defects&lt;/li>
-&lt;li>&lt;strong>Code quality&lt;/strong>: 9.1/10&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>Sherlock-docs processes ~100 documents/day with a performance target of &amp;lt;2 minutes for 20-page documents and &amp;lt;100ms for digital documents, eliminating manual classification of judicial documents and automatically detecting duplicate filings.&lt;/p>
-&lt;p>This system was born from the need to automate the registration and classification of tutelas and habeas corpus in the Colombian judicial system, where duplicate detection and accurate extraction of procedural party information are critical to judicial office efficiency.&lt;/p></description></item><item><title>Docassemble Expert - Legal Document Automation</title><link>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</guid><description>&lt;p>&lt;strong>Docassemble Expert&lt;/strong> is a specialized assistant for the Docassemble framework, designed to help developers, lawyers, and organizations create automated web interviews and legal document generation systems.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>YAML Expertise&lt;/strong>: Advanced knowledge of Docassemble&amp;rsquo;s YAML syntax&lt;/li>
-&lt;li>&lt;strong>Interview Design&lt;/strong>: Patterns for creating guided web interviews&lt;/li>
-&lt;li>&lt;strong>Document Generation&lt;/strong>: Automation of legal document creation&lt;/li>
-&lt;li>&lt;strong>Best Practices&lt;/strong>: Guidance on design patterns and form architecture&lt;/li>
-&lt;li>&lt;strong>Conditional Logic&lt;/strong>: Assistance with complex interview flows and branching&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Framework&lt;/strong>: Docassemble (open-source expert system)&lt;/li>
-&lt;li>&lt;strong>Configuration Language&lt;/strong>: YAML&lt;/li>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python&lt;/li>
-&lt;li>&lt;strong>Documentation&lt;/strong>: Markdown&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>Docassemble Expert facilitates the adoption of document automation tools in the legal sector, reducing the technical barrier for lawyers and organizations seeking to digitize their document generation processes.&lt;/p>
-&lt;p>This project supports the vision of democratizing legal automation, enabling legal professionals to create their own document generation tools without requiring deep programming knowledge.&lt;/p></description></item><item><title>TYBABot - Virtual Assistant for Justicia XXI Web</title><link>https://portfolio.sprintjudicial.com/en/project/tybabot/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tybabot/</guid><description>&lt;p>&lt;strong>TYBABot&lt;/strong> is a specialized virtual assistant for Colombia&amp;rsquo;s Justicia XXI Web (Tyba) system, developed with Streamlit and the OpenAI API. It provides guidance on electronic judicial management to officials and system operators.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Document Management&lt;/strong>: Guidance on e-judicial documents and their handling in Tyba&lt;/li>
-&lt;li>&lt;strong>Judicial Proceedings&lt;/strong>: Guide on registering and querying procedural actions&lt;/li>
-&lt;li>&lt;strong>Petitions&lt;/strong>: Assistance in managing electronic petitions (memoriales)&lt;/li>
-&lt;li>&lt;strong>Notifications&lt;/strong>: Guidance on the digital notification system&lt;/li>
-&lt;li>&lt;strong>Electronic Signatures&lt;/strong>: Support for judicial electronic signature processes&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI Assistants API v2&lt;/li>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
-&lt;li>&lt;strong>AI&lt;/strong>: Language model with specialized knowledge base on Tyba&lt;/li>
-&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>TYBABot reduces the learning curve for judicial officials interacting with the Tyba system, providing contextualized responses based on the official system documentation and best practices for electronic judicial management.&lt;/p>
-&lt;p>This assistant was born from direct experience working with the Justicia XXI Web system in the Judicial Branch, identifying the most frequent difficulties officials face when adopting electronic document management tools.&lt;/p></description></item><item><title>TutelaBot - Fundamental Rights Assistant</title><link>https://portfolio.sprintjudicial.com/en/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tutelabot/</guid><description>&lt;p>&lt;strong>TutelaBot&lt;/strong> is a virtual assistant specialized in Colombian constitutional mechanisms for the protection of fundamental rights: the Accion de Tutela (constitutional protection action) and the Derecho de Peticion (right to petition).&lt;/p>
-&lt;h2 id="knowledge-base">Knowledge Base&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Political Constitution of Colombia 1991&lt;/strong>: Relevant articles on fundamental rights&lt;/li>
-&lt;li>&lt;strong>Decree 2591 of 1991&lt;/strong>: Regulation of the Accion de Tutela&lt;/li>
-&lt;/ul>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Tutela Guidance&lt;/strong>: Assistance on requirements, procedures, deadlines, and scope of the Accion de Tutela&lt;/li>
-&lt;li>&lt;strong>Right to Petition&lt;/strong>: Support on how to exercise the right to petition before public and private entities&lt;/li>
-&lt;li>&lt;strong>Legal Foundation&lt;/strong>: Responses grounded in current constitutional regulations&lt;/li>
-&lt;li>&lt;strong>Accessible Language&lt;/strong>: Clear explanations for citizens without legal training&lt;/li>
-&lt;li>&lt;strong>Conversational Interaction&lt;/strong>: Natural dialogue to resolve legal questions&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
-&lt;li>&lt;strong>AI&lt;/strong>: Language model with Colombian constitutional knowledge&lt;/li>
-&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>TutelaBot democratizes access to information about fundamental rights protection mechanisms, enabling any citizen to understand how to exercise their constitutional rights without the need for prior legal counsel.&lt;/p>
-&lt;p>This project stems from the conviction that technology can reduce the justice access gap by providing basic legal guidance on the most widely used mechanisms by Colombian citizens to protect their fundamental rights.&lt;/p></description></item><item><title>LLM Chat App - Multi-Provider Application</title><link>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</guid><description>&lt;p>&lt;strong>LLM Chat App&lt;/strong> is an interactive chat web application with support for multiple language model providers, including Anthropic Claude and OpenAI GPT, featuring a clean interface and straightforward API key configuration.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Multi-Provider&lt;/strong>: Support for Anthropic Claude and OpenAI GPT in a single interface&lt;/li>
-&lt;li>&lt;strong>Simple Configuration&lt;/strong>: API key entry directly within the application&lt;/li>
-&lt;li>&lt;strong>Conversational Interface&lt;/strong>: Interactive chat with conversation history&lt;/li>
-&lt;li>&lt;strong>Docker Deployment&lt;/strong>: Production-ready Docker image&lt;/li>
-&lt;li>&lt;strong>Model Selection&lt;/strong>: Dynamic switching between providers and models&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
-&lt;li>&lt;strong>APIs&lt;/strong>: Anthropic Claude API, OpenAI API&lt;/li>
-&lt;li>&lt;strong>Container&lt;/strong>: Docker&lt;/li>
-&lt;li>&lt;strong>Language&lt;/strong>: Python&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>This application simplifies experimentation with different language models by providing a unified interface for interacting with leading LLM providers, ideal for comparing responses and evaluating capabilities across models.&lt;/p>
-&lt;p>Developed as an exploration and demonstration tool for LLM API integration, facilitating rapid evaluation of different models for specific use cases.&lt;/p></description></item><item><title>DocumentGenerator - Bulk Document Generation</title><link>https://portfolio.sprintjudicial.com/en/project/document-generator/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/document-generator/</guid><description>&lt;p>&lt;strong>DocumentGenerator&lt;/strong> is a bulk document generation system that uses Word templates and Excel spreadsheet data to produce large volumes of standardized documents with concurrent processing.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Bulk Generation&lt;/strong>: Creation of hundreds of documents from a single template and XLSX data&lt;/li>
-&lt;li>&lt;strong>Concurrent Processing&lt;/strong>: ThreadPoolExecutor for parallel generation&lt;/li>
-&lt;li>&lt;strong>Flexible Templates&lt;/strong>: python-docx-template engine with Jinja2 syntax&lt;/li>
-&lt;li>&lt;strong>YAML Configuration&lt;/strong>: Complete parameterization without code modification&lt;/li>
-&lt;li>&lt;strong>Structured Logging&lt;/strong>: JSON logging for every operation&lt;/li>
-&lt;li>&lt;strong>Error Management&lt;/strong>: Robust per-document error handling&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Language&lt;/strong>: Python 3.9+&lt;/li>
-&lt;li>&lt;strong>Templates&lt;/strong>: python-docx-template (Jinja2 for Word)&lt;/li>
-&lt;li>&lt;strong>Data&lt;/strong>: pandas (XLSX reading)&lt;/li>
-&lt;li>&lt;strong>Concurrency&lt;/strong>: concurrent.futures (ThreadPoolExecutor)&lt;/li>
-&lt;li>&lt;strong>Configuration&lt;/strong>: YAML&lt;/li>
-&lt;li>&lt;strong>Logging&lt;/strong>: Structured JSON&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>DocumentGenerator automates batch creation of official documents, eliminating manual production of repetitive documents and reducing transcription errors in environments that require generating large volumes of standardized communications.&lt;/p>
-&lt;p>This project was born from the need to generate official documents in bulk within judicial offices, where each document shares a common structure but differs in the specific data of the parties involved.&lt;/p></description></item><item><title>GexCom - Judicial Communications Management System</title><link>https://portfolio.sprintjudicial.com/en/project/gexcom/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gexcom/</guid><description>&lt;p>&lt;strong>GexCom&lt;/strong> is a communications management system developed to streamline and improve the accuracy of procedural party communications within the judicial system.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Communication Automation&lt;/strong>: Automated management of hearing citations&lt;/li>
-&lt;li>&lt;strong>API Integration&lt;/strong>: Message delivery through specialized APIs&lt;/li>
-&lt;li>&lt;strong>Format Management&lt;/strong>: Automated creation of referrals and postal mail formats&lt;/li>
-&lt;li>&lt;strong>Intelligent Storage&lt;/strong>: Database for relevant notification information&lt;/li>
-&lt;li>&lt;strong>Process Standardization&lt;/strong>: Uniformization of administrative procedures&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python 3&lt;/li>
-&lt;li>&lt;strong>Database&lt;/strong>: SQLite&lt;/li>
-&lt;li>&lt;strong>Version Control&lt;/strong>: Git and GitHub&lt;/li>
-&lt;li>&lt;strong>IDE&lt;/strong>: Visual Studio Code&lt;/li>
-&lt;li>&lt;strong>APIs&lt;/strong>: Integration with messaging services&lt;/li>
-&lt;/ul>
-&lt;h2 id="achievements">Achievements&lt;/h2>
-&lt;p>Significant improvement in the efficiency and accuracy of communications management, specifically in the citation of parties to scheduled hearings and communications requested by Judicial Branch dependencies.&lt;/p>
-&lt;p>This project arose from the need to optimize the exhaustive operations in the judicial communications process, providing a technology solution that standardizes and automates the most critical administrative processes in the Colombian judicial system.&lt;/p></description></item><item><title>Learn Python</title><link>https://portfolio.sprintjudicial.com/en/teaching/python/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/teaching/python/</guid><description>&lt;p>&lt;a href="https://hugoblox.com" target="_blank" rel="noopener">Hugo Blox Builder&lt;/a> is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p>
-&lt;p>&lt;strong>Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong>&lt;/p>
-&lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p>
-&lt;h2 id="video">Video&lt;/h2>
-&lt;p>Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
->&lt;/iframe>
-&lt;/div>
-&lt;p>&lt;strong>Youtube&lt;/strong>:&lt;/p>
-&lt;pre>&lt;code>{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
-&lt;/code>&lt;/pre>
-&lt;p>&lt;strong>Bilibili&lt;/strong>:&lt;/p>
-&lt;pre>&lt;code>{{&amp;lt; bilibili id=&amp;quot;BV1WV4y1r7DF&amp;quot; &amp;gt;}}
-&lt;/code>&lt;/pre>
-&lt;p>&lt;strong>Video file&lt;/strong>&lt;/p>
-&lt;p>Videos may be added to a page by either placing them in your &lt;code>assets/media/&lt;/code> media library or in your &lt;a href="https://gohugo.io/content-management/page-bundles/" target="_blank" rel="noopener">page&amp;rsquo;s folder&lt;/a>, and then embedding them with the &lt;em>video&lt;/em> shortcode:&lt;/p>
-&lt;pre>&lt;code>{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
-&lt;/code>&lt;/pre>
-&lt;h2 id="podcast">Podcast&lt;/h2>
-&lt;p>You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em>audio&lt;/em> shortcode:&lt;/p>
-&lt;pre>&lt;code>{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
-&lt;/code>&lt;/pre>
-&lt;p>Try it out:&lt;/p>
-&lt;audio controls >
-&lt;source src="https://portfolio.sprintjudicial.com/en/teaching/python/ambient-piano.mp3" type="audio/mpeg">
-&lt;/audio>
-&lt;h2 id="test-students">Test students&lt;/h2>
-&lt;p>Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code>spoiler&lt;/code> shortcode:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">spoiler&lt;/span> &lt;span class="na">text&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;👉 Click to view the solution&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">You found me!
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">spoiler&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-&lt;details class="spoiler " id="spoiler-2">
-&lt;summary class="cursor-pointer">👉 Click to view the solution&lt;/summary>
-&lt;div class="rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2">
-You found me 🎉
-&lt;/div>
-&lt;/details>
-&lt;h2 id="math">Math&lt;/h2>
-&lt;p>Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code>math&lt;/code> option in your &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
-&lt;p>To render &lt;em>inline&lt;/em> or &lt;em>block&lt;/em> math, wrap your LaTeX math with &lt;code>{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code> or &lt;code>{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code>, respectively.&lt;/p>
-&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
-&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
-&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
-&lt;/span>
-&lt;span class="dark:text-neutral-300">We wrap the LaTeX math in the Hugo Blox &lt;em>math&lt;/em> shortcode to prevent Hugo rendering our math as Markdown.&lt;/span>
-&lt;/div>
-&lt;p>Example &lt;strong>math block&lt;/strong>:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="nv">\gamma&lt;/span>&lt;span class="nb">_{n} &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\frac&lt;/span>&lt;span class="nb">{ &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> | &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n} &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">} &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb">^T &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">]&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> |}{&lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|&lt;/span>&lt;span class="nb">^&lt;/span>&lt;span class="m">2&lt;/span>&lt;span class="nb">}
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="s">$$&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;p>Example &lt;strong>inline math&lt;/strong> &lt;code>{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code> renders as $\nabla F(\mathbf{x}_{n})$
-.&lt;/p>
-&lt;p>Example &lt;strong>multi-line math&lt;/strong> using the math linebreak (&lt;code>\\&lt;/code>):&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">f&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nb">k;p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\begin&lt;/span>&lt;span class="nb">{cases}p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">, &lt;/span>&lt;span class="nv">\\&lt;/span>&lt;span class="nb">
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb">p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">.&lt;/span>&lt;span class="nv">\end&lt;/span>&lt;span class="nb">{cases}&lt;/span>&lt;span class="s">$$&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
-1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
-$$
-&lt;h2 id="code">Code&lt;/h2>
-&lt;p>Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
-&lt;pre>&lt;code>```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code>&lt;/pre>
-&lt;p>renders as&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">pandas&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="nn">pd&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">pd&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">read_csv&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;data.csv&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">head&lt;/span>&lt;span class="p">()&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="inline-images">Inline Images&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&amp;lt;&lt;/span> &lt;span class="nx">icon&lt;/span> &lt;span class="nx">name&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;python&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;}}&lt;/span> &lt;span class="nx">Python&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
-&lt;p>
-&lt;span class="inline-block pr-1">
-&lt;svg style="height: 1em; transform: translateY(0.1em);" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512" fill="currentColor">&lt;path d="M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z"/>&lt;/svg>
-&lt;/span> Python&lt;/p>
-&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h2></description></item><item><title>Electronic Case File Management</title><link>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</guid><description>&lt;p>&lt;strong>Electronic Case File Management&lt;/strong> is a system developed to automate the assembly of electronic case files across all dependencies of the Colombian Judicial Branch. The project has evolved through two major versions.&lt;/p>
-&lt;h2 id="version-1---desktop-application-2022">Version 1 - Desktop Application (2022)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>MVC Architecture&lt;/strong>: Model-View-Controller pattern&lt;/li>
-&lt;li>&lt;strong>Graphical Interface&lt;/strong>: tkinter for judicial operators&lt;/li>
-&lt;li>&lt;strong>PDF Processing&lt;/strong>: pypdf2 for procedural document manipulation&lt;/li>
-&lt;li>&lt;strong>Excel Integration&lt;/strong>: xlwings and pandas for data manipulation&lt;/li>
-&lt;li>&lt;strong>Language&lt;/strong>: Python 3.9.6&lt;/li>
-&lt;/ul>
-&lt;h2 id="version-2---rda--streamlit-2024">Version 2 - RDA + Streamlit (2024)&lt;/h2>
-&lt;p>The second version combines Robotic Desktop Automation (RDA) with modern technologies:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Web Frontend&lt;/strong>: Streamlit deployed in the cloud (&lt;a href="https://gestionexpedienteelectronico.streamlit.app/" target="_blank" rel="noopener">Live App&lt;/a>)&lt;/li>
-&lt;li>&lt;strong>RDA&lt;/strong>: Robotic Desktop Automation for interaction with legacy systems&lt;/li>
-&lt;li>&lt;strong>Advanced Processing&lt;/strong>: Integration with modern document processing technologies&lt;/li>
-&lt;/ul>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Full Automation&lt;/strong>: Eliminates manual case file assembly operations&lt;/li>
-&lt;li>&lt;strong>PDF Processing&lt;/strong>: Automated organization, renaming, and structuring&lt;/li>
-&lt;li>&lt;strong>Judicial Integration&lt;/strong>: Designed for the specific workflow of the Judicial Branch&lt;/li>
-&lt;li>&lt;strong>Web Access&lt;/strong>: Version 2 accessible from any browser&lt;/li>
-&lt;li>&lt;strong>Ease of Use&lt;/strong>: Intuitive interface for judicial operators without technical knowledge&lt;/li>
-&lt;/ul>
-&lt;h2 id="achievements">Achievements&lt;/h2>
-&lt;p>&lt;strong>~200% reduction in time&lt;/strong> for electronic case file formalization, significantly optimizing operational efficiency in judicial dependencies nationwide.&lt;/p>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>This project assists the manual operations of electronic case file assembly, automating repetitive processes and drastically reducing processing times. Version 2 amplifies this impact by being accessible from the cloud.&lt;/p>
-&lt;p>The evolution of this system reflects the author&amp;rsquo;s technological growth: from a desktop application with tkinter to a modern web solution with Streamlit and RDA, always maintaining focus on solving real problems for Colombian judicial operators. Repositories: &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">Version 1&lt;/a> | &lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico" target="_blank" rel="noopener">Version 2&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Tkinter, pandas, PyPDF2, xlwings, PyInstaller and MkDocs.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item></channel></rss>

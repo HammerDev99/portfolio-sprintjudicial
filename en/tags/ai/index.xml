@@ -1,96 +1,252 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI | Daniel Arbelaez Alvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/ai/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/ai/index.xml" rel="self" type="application/rss+xml"/><description>AI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>AI</title><link>https://portfolio.sprintjudicial.com/en/tags/ai/</link></image><item><title>FocusCoach - AI Coaching with DISC Methodology</title><link>https://portfolio.sprintjudicial.com/en/project/focuscoach/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/focuscoach/</guid><description>&lt;p>&lt;strong>FocusCoach&lt;/strong> is a personalized coaching platform powered by artificial intelligence and the DISC personality profiling methodology, designed to help entrepreneurs (especially high-I profiles) prevent project abandonment.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI | Daniel Arbeláez Álvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/ai/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/ai/index.xml" rel="self" type="application/rss+xml"/><description>AI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>AI</title><link>https://portfolio.sprintjudicial.com/en/tags/ai/</link></image><item><title>CDAID</title><link>https://portfolio.sprintjudicial.com/en/project/cdaid/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/cdaid/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Methodology and repository template for developing software with AI agents from specifications: conventions, layered documentation, agents, skills, and sprint, planning and audit templates.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>In development.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>Code not published.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>Not published.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 6 March 2026.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Personal project of the author, developed with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-includes">What it includes&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Adaptive Coaching&lt;/strong>: Personalized sessions based on the user&amp;rsquo;s DISC profile&lt;/li>
-&lt;li>&lt;strong>FOCUS-SPRINT Framework&lt;/strong>: Proprietary methodology for sprint-based project management&lt;/li>
-&lt;li>&lt;strong>Parking Lot&lt;/strong>: Idea management system to avoid distractions&lt;/li>
-&lt;li>&lt;strong>DISC Gamification&lt;/strong>: Reward system adapted to the user&amp;rsquo;s personality profile&lt;/li>
-&lt;li>&lt;strong>Active Learning&lt;/strong>: The AI learns from interactions to improve recommendations&lt;/li>
-&lt;li>&lt;strong>Document OCR&lt;/strong>: Document processing with Mistral AI OCR&lt;/li>
+&lt;li>Repository conventions and documentation organized by level of detail.&lt;/li>
+&lt;li>Agent and skill definitions for working with coding assistants.&lt;/li>
+&lt;li>Sprint, planning and audit templates.&lt;/li>
 &lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
+&lt;hr>
+&lt;p>&lt;em>Personal project, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>DisciplinaJudicialAI</title><link>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant that guides judicial servants on the disciplinary regime (Laws 1952 of 2019, 2094 of 2021 and 270 of 1996), without advice on specific cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published, with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Scope&lt;/strong>&lt;/td>
+&lt;td>General guidance. It does not replace advice from a lawyer and does not handle specific cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/disciplinajudicialai" target="_blank" rel="noopener">HammerDev99/disciplinajudicialai&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://disciplinajudicialai.streamlit.app/" target="_blank" rel="noopener">disciplinajudicialai.streamlit.app&lt;/a> (in Spanish). The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 6 March 2026.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python 3.12, FastAPI 0.115, Pydantic v2&lt;/li>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit 1.41&lt;/li>
-&lt;li>&lt;strong>AI&lt;/strong>: OpenAI Assistants API, LangChain&lt;/li>
-&lt;li>&lt;strong>Database&lt;/strong>: SQLite + FTS5 (WAL mode)&lt;/li>
-&lt;li>&lt;strong>Architecture&lt;/strong>: Clean Architecture (5 layers), DI, Railway-Oriented Programming (returns)&lt;/li>
-&lt;li>&lt;strong>Quality&lt;/strong>: pytest + hypothesis, ruff, mypy &amp;ndash;strict&lt;/li>
-&lt;li>&lt;strong>Deployment&lt;/strong>: Docker (2-stage build)&lt;/li>
+&lt;li>Explains the stages and deadlines of the disciplinary process.&lt;/li>
+&lt;li>Guides users on how offences are classified, the sanctions and the rights of the person under investigation.&lt;/li>
 &lt;/ul>
-&lt;h2 id="architecture">Architecture&lt;/h2>
-&lt;p>Clean Architecture implementation with 5 layers and advanced patterns:&lt;/p>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit, the OpenAI Assistants API and the texts of the cited laws.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>Docassemble Expert</title><link>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant for writing and debugging YAML interviews for the open-source Docassemble framework.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published, with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/docassemble-expert" target="_blank" rel="noopener">HammerDev99/docassemble-expert&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://docassemble-expert.streamlit.app" target="_blank" rel="noopener">docassemble-expert.streamlit.app&lt;/a>. The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 25 September 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Strategy Pattern&lt;/strong> for adapting coaching based on DISC profile&lt;/li>
-&lt;li>&lt;strong>Dependency Injection&lt;/strong> for service decoupling&lt;/li>
-&lt;li>&lt;strong>Railway-Oriented Programming&lt;/strong> (Result[T, E]) for error handling&lt;/li>
-&lt;li>&lt;strong>28 experimental notebooks&lt;/strong> validating 8 MVPs before implementation&lt;/li>
+&lt;li>Explains Docassemble&amp;rsquo;s YAML syntax.&lt;/li>
+&lt;li>Helps design guided interviews with conditional logic.&lt;/li>
+&lt;li>Guides users on generating documents from the answers.&lt;/li>
 &lt;/ul>
-&lt;h2 id="achievements">Achievements&lt;/h2>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>TYBABot</title><link>https://portfolio.sprintjudicial.com/en/project/tybabot/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tybabot/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant that guides users on Justicia XXI Web (TYBA), Colombia&amp;rsquo;s court case management system, based on the system&amp;rsquo;s procedures manual (August 2023 version).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published, with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/TYBABot" target="_blank" rel="noopener">HammerDev99/TYBABot&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://tybabot.streamlit.app" target="_blank" rel="noopener">tybabot.streamlit.app&lt;/a> (in Spanish). The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 19 September 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>46 tests&lt;/strong> passing with strict type checking (mypy &amp;ndash;strict)&lt;/li>
-&lt;li>&lt;strong>8 validated MVPs&lt;/strong> in notebooks before migration to production&lt;/li>
-&lt;li>&lt;strong>5 architectural layers&lt;/strong> implemented with complete DI&lt;/li>
+&lt;li>Answers questions about electronic documents, case entries, filings, notifications and signatures in Justicia XXI Web.&lt;/li>
+&lt;li>Lets users upload documents and export the conversation to PDF.&lt;/li>
 &lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>FocusCoach addresses a common problem among entrepreneurs: project abandonment due to lack of focus and structure. By personalizing coaching according to DISC personality, the platform offers strategies that resonate with each user&amp;rsquo;s cognitive style.&lt;/p>
-&lt;p>This project combines knowledge from organizational psychology (DISC methodology), software engineering (Clean Architecture), and artificial intelligence (LLMs + RAG) to create an innovative personal productivity tool.&lt;/p></description></item><item><title>DisciplinaJudicial AI - Judicial Discipline Process Guidance</title><link>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</guid><description>&lt;p>&lt;strong>DisciplinaJudicial AI&lt;/strong> is an artificial intelligence assistant specialized in disciplinary processes for Colombian judicial servers, providing guidance on the disciplinary regime, offenses, sanctions, and rights.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>TutelaBot (adaptation)</title><link>https://portfolio.sprintjudicial.com/en/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tutelabot/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant on the acción de tutela (constitutional protection action) and the right of petition, based on the 1991 Constitution, Decree 2591 of 1991 and Law 1755 of 2015.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published (adaptation), with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2023&amp;rdquo; held by the author of the &lt;a href="https://github.com/alexanderoviedofadul/TutelaBot" target="_blank" rel="noopener">original project&lt;/a>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/TutelaBot" target="_blank" rel="noopener">HammerDev99/TutelaBot&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://tutela-bot.streamlit.app/" target="_blank" rel="noopener">tutela-bot.streamlit.app&lt;/a> (in Spanish). The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>Adaptation since 18 September 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Adaptation of an &lt;a href="https://github.com/alexanderoviedofadul/TutelaBot" target="_blank" rel="noopener">MIT-licensed project by another author&lt;/a>. Changes by the author (September and October 2025): own assistant configuration, reference legal documents, removal of one module, and usage analytics. Done with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Disciplinary Regime&lt;/strong>: Guidance on the regulatory framework for judicial server discipline&lt;/li>
-&lt;li>&lt;strong>Offense Classification&lt;/strong>: Assistance on the categorization and severity of disciplinary offenses&lt;/li>
-&lt;li>&lt;strong>Disciplinary Procedure&lt;/strong>: Support on stages and deadlines of the process&lt;/li>
-&lt;li>&lt;strong>Sanctions&lt;/strong>: Information on types of sanctions and their implications&lt;/li>
-&lt;li>&lt;strong>Rights of the Investigated&lt;/strong>: Guidance on procedural guarantees&lt;/li>
+&lt;li>Explains the requirements, procedure and deadlines of the acción de tutela.&lt;/li>
+&lt;li>Guides users on exercising the right of petition before public and private entities.&lt;/li>
+&lt;li>Answers in plain language, citing the relevant legal provisions.&lt;/li>
 &lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
-&lt;li>&lt;strong>AI&lt;/strong>: Language model with a knowledge base in judicial disciplinary law&lt;/li>
-&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>DisciplinaJudicial AI facilitates access to information about the judicial disciplinary regime, helping judicial servers understand their obligations, rights, and the consequences of failing to fulfill their functional duties.&lt;/p>
-&lt;p>This assistant was born from the need to provide accessible guidance in a highly specialized area of law, where information is often fragmented and difficult to interpret for officials without deep legal training.&lt;/p></description></item><item><title>TutelaBot - Fundamental Rights Assistant</title><link>https://portfolio.sprintjudicial.com/en/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tutelabot/</guid><description>&lt;p>&lt;strong>TutelaBot&lt;/strong> is a virtual assistant specialized in Colombian constitutional mechanisms for the protection of fundamental rights: the Accion de Tutela (constitutional protection action) and the Derecho de Peticion (right to petition).&lt;/p>
-&lt;h2 id="knowledge-base">Knowledge Base&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Political Constitution of Colombia 1991&lt;/strong>: Relevant articles on fundamental rights&lt;/li>
-&lt;li>&lt;strong>Decree 2591 of 1991&lt;/strong>: Regulation of the Accion de Tutela&lt;/li>
-&lt;/ul>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Tutela Guidance&lt;/strong>: Assistance on requirements, procedures, deadlines, and scope of the Accion de Tutela&lt;/li>
-&lt;li>&lt;strong>Right to Petition&lt;/strong>: Support on how to exercise the right to petition before public and private entities&lt;/li>
-&lt;li>&lt;strong>Legal Foundation&lt;/strong>: Responses grounded in current constitutional regulations&lt;/li>
-&lt;li>&lt;strong>Accessible Language&lt;/strong>: Clear explanations for citizens without legal training&lt;/li>
-&lt;li>&lt;strong>Conversational Interaction&lt;/strong>: Natural dialogue to resolve legal questions&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Backend&lt;/strong>: Python, OpenAI API&lt;/li>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
-&lt;li>&lt;strong>AI&lt;/strong>: Language model with Colombian constitutional knowledge&lt;/li>
-&lt;li>&lt;strong>Deployment&lt;/strong>: Streamlit Cloud&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>TutelaBot democratizes access to information about fundamental rights protection mechanisms, enabling any citizen to understand how to exercise their constitutional rights without the need for prior legal counsel.&lt;/p>
-&lt;p>This project stems from the conviction that technology can reduce the justice access gap by providing basic legal guidance on the most widely used mechanisms by Colombian citizens to protect their fundamental rights.&lt;/p></description></item><item><title>LLM Chat App - Multi-Provider Application</title><link>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/bot-api-claude/</guid><description>&lt;p>&lt;strong>LLM Chat App&lt;/strong> is an interactive chat web application with support for multiple language model providers, including Anthropic Claude and OpenAI GPT, featuring a clean interface and straightforward API key configuration.&lt;/p>
-&lt;h2 id="key-features">Key Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Multi-Provider&lt;/strong>: Support for Anthropic Claude and OpenAI GPT in a single interface&lt;/li>
-&lt;li>&lt;strong>Simple Configuration&lt;/strong>: API key entry directly within the application&lt;/li>
-&lt;li>&lt;strong>Conversational Interface&lt;/strong>: Interactive chat with conversation history&lt;/li>
-&lt;li>&lt;strong>Docker Deployment&lt;/strong>: Production-ready Docker image&lt;/li>
-&lt;li>&lt;strong>Model Selection&lt;/strong>: Dynamic switching between providers and models&lt;/li>
-&lt;/ul>
-&lt;h2 id="technologies-used">Technologies Used&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Frontend&lt;/strong>: Streamlit&lt;/li>
-&lt;li>&lt;strong>APIs&lt;/strong>: Anthropic Claude API, OpenAI API&lt;/li>
-&lt;li>&lt;strong>Container&lt;/strong>: Docker&lt;/li>
-&lt;li>&lt;strong>Language&lt;/strong>: Python&lt;/li>
-&lt;/ul>
-&lt;h2 id="impact">Impact&lt;/h2>
-&lt;p>This application simplifies experimentation with different language models by providing a unified interface for interacting with leading LLM providers, ideal for comparing responses and evaluating capabilities across models.&lt;/p>
-&lt;p>Developed as an exploration and demonstration tool for LLM API integration, facilitating rapid evaluation of different models for specific use cases.&lt;/p></description></item></channel></rss>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item></channel></rss>

@@ -10,6 +10,7 @@ RUN echo 'server { \
     server_name _; \
     root /usr/share/nginx/html; \
     index index.html; \
+    absolute_redirect off; \
     \
     location / { \
         try_files $uri $uri/ $uri.html /index.html; \
