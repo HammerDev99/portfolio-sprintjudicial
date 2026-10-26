@@ -16,7 +16,7 @@
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Licencia&lt;/strong>&lt;/td>
-&lt;td>Repositorio público sin archivo de licencia.&lt;/td>
+&lt;td>MIT, «Copyright (c) 2025 Daniel Arbeláez Álvarez».&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Código&lt;/strong>&lt;/td>
@@ -45,4 +45,4 @@
 &lt;h2 id="tecnologías">Tecnologías&lt;/h2>
 &lt;p>Python, Streamlit, Docker, Caddy y systemd.&lt;/p>
 &lt;hr>
-&lt;p>&lt;em>Proyecto personal, publicado a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;em>Herramienta personal de software libre, publicada a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item></channel></rss>

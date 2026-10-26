@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Legal Tool | Daniel Arbeláez Álvarez</title><link>https://portfolio.sprintjudicial.com/en/tags/legal-tool/</link><atom:link href="https://portfolio.sprintjudicial.com/en/tags/legal-tool/index.xml" rel="self" type="application/rss+xml"/><description>Legal Tool</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://portfolio.sprintjudicial.com/media/icon_hu7729264130191091259.png</url><title>Legal Tool</title><link>https://portfolio.sprintjudicial.com/en/tags/legal-tool/</link></image><item><title>DisciplinaJudicialAI</title><link>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/disciplina-judicial-ai/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant that guides judicial servants on the disciplinary regime (Laws 1952 of 2019, 2094 of 2021 and 270 of 1996), without advice on specific cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published, with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Scope&lt;/strong>&lt;/td>
+&lt;td>General guidance. It does not replace advice from a lawyer and does not handle specific cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/disciplinajudicialai" target="_blank" rel="noopener">HammerDev99/disciplinajudicialai&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://disciplinajudicialai.streamlit.app/" target="_blank" rel="noopener">disciplinajudicialai.streamlit.app&lt;/a> (in Spanish). The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 6 March 2026.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
+&lt;ul>
+&lt;li>Explains the stages and deadlines of the disciplinary process.&lt;/li>
+&lt;li>Guides users on how offences are classified, the sanctions and the rights of the person under investigation.&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit, the OpenAI Assistants API and the texts of the cited laws.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>Docassemble Expert</title><link>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/docassemble-expert/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant for writing and debugging YAML interviews for the open-source Docassemble framework.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published, with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/docassemble-expert" target="_blank" rel="noopener">HammerDev99/docassemble-expert&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://docassemble-expert.streamlit.app" target="_blank" rel="noopener">docassemble-expert.streamlit.app&lt;/a>. The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 25 September 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
+&lt;ul>
+&lt;li>Explains Docassemble&amp;rsquo;s YAML syntax.&lt;/li>
+&lt;li>Helps design guided interviews with conditional logic.&lt;/li>
+&lt;li>Guides users on generating documents from the answers.&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>TYBABot</title><link>https://portfolio.sprintjudicial.com/en/project/tybabot/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tybabot/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant that guides users on Justicia XXI Web (TYBA), Colombia&amp;rsquo;s court case management system, based on the system&amp;rsquo;s procedures manual (August 2023 version).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published, with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2025 Daniel&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/TYBABot" target="_blank" rel="noopener">HammerDev99/TYBABot&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://tybabot.streamlit.app" target="_blank" rel="noopener">tybabot.streamlit.app&lt;/a> (in Spanish). The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 19 September 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
+&lt;ul>
+&lt;li>Answers questions about electronic documents, case entries, filings, notifications and signatures in Justicia XXI Web.&lt;/li>
+&lt;li>Lets users upload documents and export the conversation to PDF.&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>TutelaBot (adaptation)</title><link>https://portfolio.sprintjudicial.com/en/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tutelabot/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Conversational assistant on the acción de tutela (constitutional protection action) and the right of petition, based on the 1991 Constitution, Decree 2591 of 1991 and Law 1755 of 2015.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published (adaptation), with a public demo.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2023&amp;rdquo; held by the author of the &lt;a href="https://github.com/alexanderoviedofadul/TutelaBot" target="_blank" rel="noopener">original project&lt;/a>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/TutelaBot" target="_blank" rel="noopener">HammerDev99/TutelaBot&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Demo&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://tutela-bot.streamlit.app/" target="_blank" rel="noopener">tutela-bot.streamlit.app&lt;/a> (in Spanish). The demo uses third-party AI services. Do not enter personal data or information from real cases.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>Adaptation since 18 September 2025.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Adaptation of an &lt;a href="https://github.com/alexanderoviedofadul/TutelaBot" target="_blank" rel="noopener">MIT-licensed project by another author&lt;/a>. Changes by the author (September and October 2025): own assistant configuration, reference legal documents, removal of one module, and usage analytics. Done with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
+&lt;ul>
+&lt;li>Explains the requirements, procedure and deadlines of the acción de tutela.&lt;/li>
+&lt;li>Guides users on exercising the right of petition before public and private entities.&lt;/li>
+&lt;li>Answers in plain language, citing the relevant legal provisions.&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>AgilEx (formerly GestionExpedienteElectronico)</title><link>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</link><pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/gestion-expediente-electronico/</guid><description>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Field&lt;/th>
+&lt;th>Detail&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>What it solves&lt;/strong>&lt;/td>
+&lt;td>Creates and fills in the electronic index of a court case file from the metadata of the files in a folder, following Agreement PCSJA20-11567 of 2020.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Status&lt;/strong>&lt;/td>
+&lt;td>Published.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>License&lt;/strong>&lt;/td>
+&lt;td>MIT, &amp;ldquo;Copyright (c) 2022 Daniel Arbeláez&amp;rdquo;.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Code&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1" target="_blank" rel="noopener">HammerDev99/GestionExpedienteElectronico_Version1&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Documentation&lt;/strong>&lt;/td>
+&lt;td>&lt;a href="https://docs.agilex.sprintjudicial.com/" target="_blank" rel="noopener">docs.agilex.sprintjudicial.com&lt;/a> (in Spanish)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Started&lt;/strong>&lt;/td>
+&lt;td>First commit: 5 January 2022. Registered with the DNDA (Colombian copyright office) on 3 November 2022 (Book 13, Volume 92, Entry 259), version 1.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
+&lt;td>The author was a member of team Marduk, winner of the 1st JusticIALab Innovation Contest 2024, Data-Driven Justice category (&lt;a href="https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/construimos-la-justicia-del-futuro-con-el-primer-concurso-de-innovaci%C3%B3n-de-la-rama-judicial" target="_blank" rel="noopener">Superior Council of the Judiciary news, 13 December 2024&lt;/a>, in Spanish).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
+&lt;td>Version 1 (2022): personal project of the author, developed with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="what-it-does">What it does&lt;/h2>
+&lt;ul>
+&lt;li>Extracts metadata (page count, dates, format and size) from PDF, Word and Excel files.&lt;/li>
+&lt;li>Works in three modes: single folder, case file and multiple case files.&lt;/li>
+&lt;li>Validates the unique case identifier (CUI) and the folder structure.&lt;/li>
+&lt;li>Writes the index into an &lt;code>.xlsm&lt;/code> template.&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies">Technologies&lt;/h2>
+&lt;p>Python, Tkinter, pandas, PyPDF2, xlwings, PyInstaller and MkDocs.&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item></channel></rss>
