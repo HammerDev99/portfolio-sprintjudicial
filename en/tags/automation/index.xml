@@ -35,6 +35,10 @@
 &lt;td>The author was a member of team Marduk, winner of the 1st JusticIALab Innovation Contest 2024, Data-Driven Justice category (&lt;a href="https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/construimos-la-justicia-del-futuro-con-el-primer-concurso-de-innovaci%C3%B3n-de-la-rama-judicial" target="_blank" rel="noopener">Superior Council of the Judiciary news, 13 December 2024&lt;/a>, in Spanish).&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;strong>Measured result&lt;/strong>&lt;/td>
+&lt;td>&lt;!-- metrica:agilex_descargas -->2,466&lt;!-- /metrica --> downloads · &lt;!-- metrica:agilex_versiones -->9&lt;!-- /metrica --> releases on GitHub as of &lt;!-- metrica:fecha_corte -->30 October 2026&lt;!-- /metrica --> (&lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1/releases" target="_blank" rel="noopener">releases&lt;/a>)&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
 &lt;td>Version 1 (2022): personal project of the author, developed with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
 &lt;/tr>
@@ -49,5 +53,11 @@
 &lt;/ul>
 &lt;h2 id="technologies">Technologies&lt;/h2>
 &lt;p>Python, Tkinter, pandas, PyPDF2, xlwings, PyInstaller and MkDocs.&lt;/p>
+&lt;h2 id="design-decisions">Design decisions&lt;/h2>
+&lt;p>Desktop application for Windows, with no server or account, because case files sit in local or network folders and must not leave the computer. The index is built only from file metadata (name, date, size, pages), never from their content. Index structure follows Agreement PCSJA20-11567 of 2020. Distributed through releases signed by the author; the updater only notifies, with no automatic download.&lt;/p>
+&lt;h2 id="how-it-was-tested">How it was tested&lt;/h2>
+&lt;p>Automated tests in &lt;code>src/test&lt;/code> (logging configuration, resource management, public-repository hygiene) run on every change; manual tests on sample folders with fictitious names; nine published versions with a changelog.&lt;/p>
+&lt;h2 id="known-limits">Known limits&lt;/h2>
+&lt;p>Windows only; relies on the folder following the expected structure; does not validate document content or detect duplicates; page counts depend on PDF integrity.&lt;/p>
 &lt;hr>
 &lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item></channel></rss>

@@ -39,6 +39,10 @@
 &lt;td>None.&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;strong>Measured result&lt;/strong>&lt;/td>
+&lt;td>No public figures; code and demo open.&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
 &lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
 &lt;/tr>
@@ -51,6 +55,12 @@
 &lt;/ul>
 &lt;h2 id="technologies">Technologies&lt;/h2>
 &lt;p>Python, Streamlit, the OpenAI Assistants API and the texts of the cited laws.&lt;/p>
+&lt;h2 id="design-decisions">Design decisions&lt;/h2>
+&lt;p>Streamlit assistant on the OpenAI API with a closed body of legal sources (Constitution, General Disciplinary Code, special regime of the Judicial Branch, internal control and competencies); general normative guidance, never a judgment on a case. No access to case files.&lt;/p>
+&lt;h2 id="how-it-was-tested">How it was tested&lt;/h2>
+&lt;p>Test questions per user profile (court staff, employees, lawyers, persons under investigation, students) checked against the cited rule; manual review; no published benchmark.&lt;/p>
+&lt;h2 id="known-limits">Known limits&lt;/h2>
+&lt;p>It is not legal advice; it does not look up the status of any case; it does not issue judgments of liability; it depends on the corpus loaded being current; the demo uses third-party AI services.&lt;/p>
 &lt;hr>
 &lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>TYBABot</title><link>https://portfolio.sprintjudicial.com/en/project/tybabot/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tybabot/</guid><description>&lt;table>
 &lt;thead>
@@ -89,6 +99,10 @@
 &lt;td>None.&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;strong>Measured result&lt;/strong>&lt;/td>
+&lt;td>No public figures; code and demo open.&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
 &lt;td>Built by the author from a template by another author (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">template author&amp;rsquo;s profile&lt;/a>), with the author&amp;rsquo;s own equipment and accounts, without any commission or instruction from any entity or office.&lt;/td>
 &lt;/tr>
@@ -101,6 +115,12 @@
 &lt;/ul>
 &lt;h2 id="technologies">Technologies&lt;/h2>
 &lt;p>Python, Streamlit and the OpenAI Assistants API.&lt;/p>
+&lt;h2 id="design-decisions">Design decisions&lt;/h2>
+&lt;p>Conversational assistant in Streamlit on the OpenAI API, using the Justicia XXI Web procedures manual as its document base and answers limited to general guidance; no access to the real system or to case data. Adaptation of an MIT project by another author, credited in the footer.&lt;/p>
+&lt;h2 id="how-it-was-tested">How it was tested&lt;/h2>
+&lt;p>Test questions per scenario (court staff, clerks, lawyers, administrators, students) compared against the manual; manual review of answers; no published benchmark.&lt;/p>
+&lt;h2 id="known-limits">Known limits&lt;/h2>
+&lt;p>The document base goes only as far as the manual in force in August 2023; it is not technical support and does not replace official channels; it can be wrong (hallucinations) and says so; the demo uses third-party AI services, so personal data or real case information must not be entered.&lt;/p>
 &lt;hr>
 &lt;p>&lt;em>Personal free-software tool, published in a personal capacity. It does not represent the Judicial Branch; using it in a court office requires the corresponding institutional authorizations.&lt;/em>&lt;/p></description></item><item><title>TutelaBot (adaptation)</title><link>https://portfolio.sprintjudicial.com/en/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/en/project/tutelabot/</guid><description>&lt;table>
 &lt;thead>
@@ -137,6 +157,10 @@
 &lt;tr>
 &lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
 &lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Measured result&lt;/strong>&lt;/td>
+&lt;td>No public figures; code and demo open.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>
@@ -184,6 +208,10 @@
 &lt;tr>
 &lt;td>&lt;strong>Recognition&lt;/strong>&lt;/td>
 &lt;td>None.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Measured result&lt;/strong>&lt;/td>
+&lt;td>No public figures; code open.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Authorship&lt;/strong>&lt;/td>

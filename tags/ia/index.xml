@@ -31,6 +31,10 @@
 &lt;td>Ninguno.&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código no publicado.&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
 &lt;td>Proyecto personal del autor, desarrollado con equipo y cuentas propias, sin encargo ni instrucción de ninguna entidad o dependencia.&lt;/td>
 &lt;/tr>
@@ -84,6 +88,10 @@
 &lt;td>Ninguno.&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código y demo abiertos.&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
 &lt;td>Construido por el autor a partir de una plantilla de otro autor (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">perfil del autor de la plantilla&lt;/a>), con equipo y cuentas propias, sin encargo ni instrucción de ninguna entidad o dependencia.&lt;/td>
 &lt;/tr>
@@ -96,6 +104,12 @@
 &lt;/ul>
 &lt;h2 id="tecnologías">Tecnologías&lt;/h2>
 &lt;p>Python, Streamlit, la API de Assistants de OpenAI y los textos de las leyes citadas.&lt;/p>
+&lt;h2 id="decisiones-de-diseño">Decisiones de diseño&lt;/h2>
+&lt;p>Asistente en Streamlit sobre la API de OpenAI con un corpus normativo cerrado (Constitución, Código General Disciplinario, régimen especial de la Rama Judicial, control interno y competencias); orientación normativa general, nunca juicio sobre un caso. Sin acceso a expedientes.&lt;/p>
+&lt;h2 id="cómo-se-probó">Cómo se probó&lt;/h2>
+&lt;p>Preguntas de prueba por perfil de usuario (funcionarios, empleados, abogados, investigados, estudiantes) contrastadas con la norma citada; revisión manual; sin benchmark publicado.&lt;/p>
+&lt;h2 id="límites-conocidos">Límites conocidos&lt;/h2>
+&lt;p>No es asesoría legal; no consulta el estado de ningún proceso; no emite juicios de responsabilidad; depende de la vigencia del corpus cargado; demo con servicios de IA de terceros.&lt;/p>
 &lt;hr>
 &lt;p>&lt;em>Herramienta personal de software libre, publicada a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item><item><title>Docassemble Expert</title><link>https://portfolio.sprintjudicial.com/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/docassemble-expert/</guid><description>&lt;table>
 &lt;thead>
@@ -132,6 +146,10 @@
 &lt;tr>
 &lt;td>&lt;strong>Reconocimientos&lt;/strong>&lt;/td>
 &lt;td>Ninguno.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código y demo abiertos.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
@@ -185,6 +203,10 @@
 &lt;td>Ninguno.&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código y demo abiertos.&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
 &lt;td>Construido por el autor a partir de una plantilla de otro autor (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">perfil del autor de la plantilla&lt;/a>), con equipo y cuentas propias, sin encargo ni instrucción de ninguna entidad o dependencia.&lt;/td>
 &lt;/tr>
@@ -197,6 +219,12 @@
 &lt;/ul>
 &lt;h2 id="tecnologías">Tecnologías&lt;/h2>
 &lt;p>Python, Streamlit y la API de Assistants de OpenAI.&lt;/p>
+&lt;h2 id="decisiones-de-diseño">Decisiones de diseño&lt;/h2>
+&lt;p>Asistente conversacional en Streamlit sobre la API de OpenAI, con el manual de procedimientos de Justicia XXI Web como base documental y respuestas acotadas a orientación general; sin acceso al sistema real ni a datos de procesos. Adaptación de un proyecto MIT de otro autor, con atribución en el pie.&lt;/p>
+&lt;h2 id="cómo-se-probó">Cómo se probó&lt;/h2>
+&lt;p>Preguntas de prueba por escenario (funcionarios, secretarios, abogados, administradores, estudiantes) comparadas con el manual; revisión manual de respuestas; sin benchmark publicado.&lt;/p>
+&lt;h2 id="límites-conocidos">Límites conocidos&lt;/h2>
+&lt;p>La base documental llega hasta el manual vigente en agosto de 2023; no es soporte técnico ni sustituye los canales oficiales; puede equivocarse (alucinaciones) y así lo advierte; la demo usa servicios de IA de terceros, por lo que no deben ingresarse datos personales ni de procesos reales.&lt;/p>
 &lt;hr>
 &lt;p>&lt;em>Herramienta personal de software libre, publicada a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item><item><title>TutelaBot (adaptación)</title><link>https://portfolio.sprintjudicial.com/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/tutelabot/</guid><description>&lt;table>
 &lt;thead>
@@ -233,6 +261,10 @@
 &lt;tr>
 &lt;td>&lt;strong>Reconocimientos&lt;/strong>&lt;/td>
 &lt;td>Ninguno.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código y demo abiertos.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>

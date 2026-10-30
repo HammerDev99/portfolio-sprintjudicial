@@ -39,6 +39,10 @@
 &lt;td>Ninguno.&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código y demo abiertos.&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
 &lt;td>Construido por el autor a partir de una plantilla de otro autor (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">perfil del autor de la plantilla&lt;/a>), con equipo y cuentas propias, sin encargo ni instrucción de ninguna entidad o dependencia.&lt;/td>
 &lt;/tr>
@@ -51,6 +55,12 @@
 &lt;/ul>
 &lt;h2 id="tecnologías">Tecnologías&lt;/h2>
 &lt;p>Python, Streamlit, la API de Assistants de OpenAI y los textos de las leyes citadas.&lt;/p>
+&lt;h2 id="decisiones-de-diseño">Decisiones de diseño&lt;/h2>
+&lt;p>Asistente en Streamlit sobre la API de OpenAI con un corpus normativo cerrado (Constitución, Código General Disciplinario, régimen especial de la Rama Judicial, control interno y competencias); orientación normativa general, nunca juicio sobre un caso. Sin acceso a expedientes.&lt;/p>
+&lt;h2 id="cómo-se-probó">Cómo se probó&lt;/h2>
+&lt;p>Preguntas de prueba por perfil de usuario (funcionarios, empleados, abogados, investigados, estudiantes) contrastadas con la norma citada; revisión manual; sin benchmark publicado.&lt;/p>
+&lt;h2 id="límites-conocidos">Límites conocidos&lt;/h2>
+&lt;p>No es asesoría legal; no consulta el estado de ningún proceso; no emite juicios de responsabilidad; depende de la vigencia del corpus cargado; demo con servicios de IA de terceros.&lt;/p>
 &lt;hr>
 &lt;p>&lt;em>Herramienta personal de software libre, publicada a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item><item><title>Docassemble Expert</title><link>https://portfolio.sprintjudicial.com/project/docassemble-expert/</link><pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/docassemble-expert/</guid><description>&lt;table>
 &lt;thead>
@@ -87,6 +97,10 @@
 &lt;tr>
 &lt;td>&lt;strong>Reconocimientos&lt;/strong>&lt;/td>
 &lt;td>Ninguno.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código y demo abiertos.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
@@ -140,6 +154,10 @@
 &lt;td>Ninguno.&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código y demo abiertos.&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
 &lt;td>Construido por el autor a partir de una plantilla de otro autor (&lt;a href="https://github.com/alexanderoviedofadul" target="_blank" rel="noopener">perfil del autor de la plantilla&lt;/a>), con equipo y cuentas propias, sin encargo ni instrucción de ninguna entidad o dependencia.&lt;/td>
 &lt;/tr>
@@ -152,6 +170,12 @@
 &lt;/ul>
 &lt;h2 id="tecnologías">Tecnologías&lt;/h2>
 &lt;p>Python, Streamlit y la API de Assistants de OpenAI.&lt;/p>
+&lt;h2 id="decisiones-de-diseño">Decisiones de diseño&lt;/h2>
+&lt;p>Asistente conversacional en Streamlit sobre la API de OpenAI, con el manual de procedimientos de Justicia XXI Web como base documental y respuestas acotadas a orientación general; sin acceso al sistema real ni a datos de procesos. Adaptación de un proyecto MIT de otro autor, con atribución en el pie.&lt;/p>
+&lt;h2 id="cómo-se-probó">Cómo se probó&lt;/h2>
+&lt;p>Preguntas de prueba por escenario (funcionarios, secretarios, abogados, administradores, estudiantes) comparadas con el manual; revisión manual de respuestas; sin benchmark publicado.&lt;/p>
+&lt;h2 id="límites-conocidos">Límites conocidos&lt;/h2>
+&lt;p>La base documental llega hasta el manual vigente en agosto de 2023; no es soporte técnico ni sustituye los canales oficiales; puede equivocarse (alucinaciones) y así lo advierte; la demo usa servicios de IA de terceros, por lo que no deben ingresarse datos personales ni de procesos reales.&lt;/p>
 &lt;hr>
 &lt;p>&lt;em>Herramienta personal de software libre, publicada a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item><item><title>TutelaBot (adaptación)</title><link>https://portfolio.sprintjudicial.com/project/tutelabot/</link><pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate><guid>https://portfolio.sprintjudicial.com/project/tutelabot/</guid><description>&lt;table>
 &lt;thead>
@@ -188,6 +212,10 @@
 &lt;tr>
 &lt;td>&lt;strong>Reconocimientos&lt;/strong>&lt;/td>
 &lt;td>Ninguno.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código y demo abiertos.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
@@ -235,6 +263,10 @@
 &lt;tr>
 &lt;td>&lt;strong>Reconocimientos&lt;/strong>&lt;/td>
 &lt;td>Ninguno.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>Sin cifras públicas; código abierto.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
@@ -288,6 +320,10 @@
 &lt;td>El autor integró el equipo Marduk, ganador del I Concurso de Innovación JusticIALab 2024, categoría Justicia Basada en Datos (&lt;a href="https://www.ramajudicial.gov.co/web/consejo-superior-de-la-judicatura/-/construimos-la-justicia-del-futuro-con-el-primer-concurso-de-innovaci%C3%B3n-de-la-rama-judicial" target="_blank" rel="noopener">noticia del Consejo Superior de la Judicatura, 13/12/2024&lt;/a>).&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>&lt;strong>Resultado medido&lt;/strong>&lt;/td>
+&lt;td>&lt;!-- metrica:agilex_descargas -->2.466&lt;!-- /metrica --> descargas · &lt;!-- metrica:agilex_versiones -->9&lt;!-- /metrica --> versiones en GitHub al &lt;!-- metrica:fecha_corte -->30 de octubre de 2026&lt;!-- /metrica --> (&lt;a href="https://github.com/HammerDev99/GestionExpedienteElectronico_Version1/releases" target="_blank" rel="noopener">releases&lt;/a>)&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>&lt;strong>Autoría&lt;/strong>&lt;/td>
 &lt;td>Versión 1 (2022): proyecto personal del autor, desarrollado con equipo y cuentas propias, sin encargo ni instrucción de ninguna entidad o dependencia.&lt;/td>
 &lt;/tr>
@@ -302,5 +338,11 @@
 &lt;/ul>
 &lt;h2 id="tecnologías">Tecnologías&lt;/h2>
 &lt;p>Python, Tkinter, pandas, PyPDF2, xlwings, PyInstaller y MkDocs.&lt;/p>
+&lt;h2 id="decisiones-de-diseño">Decisiones de diseño&lt;/h2>
+&lt;p>Aplicación de escritorio para Windows, sin servidor ni cuenta, porque los expedientes están en carpetas locales o de red y no deben salir del equipo. El índice se construye solo con metadatos de los archivos (nombre, fecha, tamaño, páginas), nunca con su contenido. Estructura del índice según el Acuerdo PCSJA20-11567 de 2020. Distribución por releases firmados por el autor; actualizador que solo avisa, sin descarga automática.&lt;/p>
+&lt;h2 id="cómo-se-probó">Cómo se probó&lt;/h2>
+&lt;p>Pruebas automatizadas en &lt;code>src/test&lt;/code> (configuración de registro, gestión de recursos, higiene del repositorio público) ejecutadas en cada cambio; pruebas manuales sobre carpetas de ejemplo con nombres ficticios; nueve versiones publicadas con registro de cambios.&lt;/p>
+&lt;h2 id="límites-conocidos">Límites conocidos&lt;/h2>
+&lt;p>Solo Windows; depende de que la carpeta siga la estructura esperada; no valida el contenido de los documentos ni detecta duplicados; el conteo de páginas depende de la integridad del PDF.&lt;/p>
 &lt;hr>
 &lt;p>&lt;em>Herramienta personal de software libre, publicada a título personal. No representa a la Rama Judicial; su uso en un despacho requiere las autorizaciones institucionales que correspondan.&lt;/em>&lt;/p></description></item></channel></rss>
